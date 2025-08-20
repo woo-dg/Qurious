@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "https://openalex.org/W4412491360",
+    "title": "Faster Thrombolysis Is Associated With Improved Cognitive Outcomes in Patients With Acute Ischemic Stroke Treated With Alteplase and Tenecteplase: A Substudy of the AcT Trial",
+    "doi": "https://doi.org/10.1161/strokeaha.125.051670",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8662543892860413,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413116105",
+    "title": "Baseline Optical Coherence Tomography Biomarkers Associated with Visual Acuity in Diabetic Macular Edema: A Systematic Review and Meta-Analysis",
+    "doi": "https://doi.org/10.1016/j.ophtha.2025.07.038",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8518260717391968,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412868880",
+    "title": "Tenecteplase versus Alteplase and First-Pass Reperfusion in Endovascular Thrombectomy.",
+    "doi": "https://doi.org/10.3174/ajnr.a8763",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.847334086894989,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413140738",
+    "title": "Intravenous tenecteplase is associated with a higher incidence of thrombus movement before endovascular treatment for acute ischemic stroke: a secondary analysis of the AcT randomized controlled trial.",
+    "doi": "https://doi.org/10.1136/jnis-2025-023336",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8462553024291992,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412489028",
+    "title": "Randomized, Proof-of-Concept Trial (RESCUE) of RNS60 as an Adjunct Therapy in Acute Ischemic Stroke",
+    "doi": "https://doi.org/10.1161/strokeaha.125.051179",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8454529047012329,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412494057",
+    "title": "Comparing Functional Assessment of Cancer Therapy and European Organization for Research and Treatment of Cancer Quality of Life Questionnaire modules for the assessment of quality of life in patients with hepatobiliary cancers",
+    "doi": "https://doi.org/10.1097/spc.0000000000000764",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8443162441253662,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412196432",
+    "title": "Corrigendum to “Percutaneous or surgical revascularization in patients with severe left main coronary artery disease in Latin America: A GRADE clinical practice guideline” [International Journal of Cardiology Volume 436, 1 October 2025, 133401]",
+    "doi": "https://doi.org/10.1016/j.ijcard.2025.133520",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8424427509307861,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413051065",
+    "title": "Canadian Association of Gastroenterology Clinical Practice Guideline for the Endoscopic Management of Nonvariceal Nonpeptic Ulcer Upper Gastrointestinal Bleeding",
+    "doi": "https://doi.org/10.1053/j.gastro.2025.04.041",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.838255763053894,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413051445",
+    "title": "Outcomes after carotid revascularization for symptomatic carotid artery web: A multi-institutional cohort study",
+    "doi": "https://doi.org/10.1177/15910199251365529",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8382476568222046,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413005631",
+    "title": "Number, depth, and location of inadvertent pancreatic guidewire cannulations and post-ERCP pancreatitis from multi-center real-time intra-procedural data",
+    "doi": "https://doi.org/10.1055/a-2675-4322",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8375712037086487,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413140593",
+    "title": "Lifelong Management of Aortic Stenosis in Young Women: A Comprehensive Review.",
+    "doi": "https://doi.org/10.1097/crd.0000000000001025",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8267252445220947,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412490602",
+    "title": "The utility of patient-specific surgical plates in free flap mandibular reconstruction: A systematic review and meta-analysis",
+    "doi": "https://doi.org/10.1016/j.oraloncology.2025.107497",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8263425230979919,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412886326",
+    "title": "A Clinical Decision Instrument to Safely Reduce Abdominopelvic CT Use in Minor Blunt Trauma Patients",
+    "doi": "https://doi.org/10.21203/rs.3.rs-7156788/v1",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.825244128704071,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413010075",
+    "title": "Clinical validation of controlled exposure to cat dander in the Specialized Particulate Control Environmental Exposure Unit (SPaC-EEU)",
+    "doi": "https://doi.org/10.1186/s13223-025-00978-z",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8179666996002197,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413187865",
+    "title": "Endoscopic Retrograde Cholangiopancreatography and Primary Sclerosing Cholangitis: a Retrospective study of a high-volume program",
+    "doi": "https://doi.org/10.1093/jcag/gwaf018",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8173930048942566,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413055879",
+    "title": "Proceedings of the UAB CRRT Academy (2023-2024)",
+    "doi": "https://doi.org/10.34067/kid.0000000951",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8160060048103333,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412700331",
+    "title": "Questions About Strategies and Dosing Levels of PCC for Coagulopathic Bleeding in Cardiac Surgery—Reply",
+    "doi": "https://doi.org/10.1001/jama.2025.8997",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8159070014953613,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412570323",
+    "title": "Surgical approach, preoperative LEEP/conization and patterns of recurrence and death in low-risk cervical cancer – exploratory analysis from the CCTG CX.5/SHAPE trial",
+    "doi": "https://doi.org/10.1097/js9.0000000000003027",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8117680549621582,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412529318",
+    "title": "Risk Factors for Suboptimal Dialysis Initiation",
+    "doi": "https://doi.org/10.34067/kid.0000000895",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.810861349105835,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412727529",
+    "title": "Long-Term Safety and Efficacy of Risankizumab to Treat Moderate-to-Severe Plaque Psoriasis: Final LIMMitless Phase 3, Open-Label Extension Trial Results",
+    "doi": "https://doi.org/10.1007/s40257-025-00964-6",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8068268299102783,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413113997",
+    "title": "Assessing the Utility of Targeted Neonatal Echocardiography for Congenital Heart Disease Detection: Retrospective Cohort Analysis",
+    "doi": "https://doi.org/10.1002/jcu.70032",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8067049980163574,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413115628",
+    "title": "Efficacy and Safety of Phosphodiesterase‐4 Inhibitors in Vitiligo: A Systematic Review",
+    "doi": "https://doi.org/10.1111/ajd.14548",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.801449716091156,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412392078",
+    "title": "Practice Variation in the Evaluation and Management of Asymptomatic Wolff-Parkinson-White Pattern Among Competitive Athletes",
+    "doi": "https://doi.org/10.1016/j.jacadv.2025.101971",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.7954840660095215,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412727522",
+    "title": "Just the facts: calcium administration in trauma patients receiving massive blood transfusions",
+    "doi": "https://doi.org/10.1007/s43678-025-00994-3",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.7714959383010864,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412595576",
+    "title": "Association of white matter injury and neuroinflammation in the post-acute phase after ischemic stroke using [18F]FEPPA-PET/MRI",
+    "doi": "https://doi.org/10.1186/s13550-025-01288-6",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.769359827041626,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412725258",
+    "title": "Anomaly detection using intraoperative iKnife data: a comparative analysis in breast cancer surgery",
+    "doi": "https://doi.org/10.1007/s11548-025-03476-0",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.7480818629264832,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412934459",
+    "title": "Feasibility of using an automated quality control algorithm for spirometry",
+    "doi": "https://doi.org/10.1080/24745332.2025.2513021",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.7461177706718445,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413055224",
+    "title": "Effectiveness of art interventions on improving psychological outcomes and quality of life among survivors of breast cancer: a systematic review",
+    "doi": "https://doi.org/10.1007/s11764-025-01864-8",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8618020415306091,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412631469",
+    "title": "Homecare After Cancer Surgery for Older Adults: Derivation and Validation of a Predictive Tool",
+    "doi": "https://doi.org/10.1245/s10434-025-17824-6",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8507921099662781,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413140614",
+    "title": "Management of Colorectal Anastomotic Leaks with Endoluminal Vacuum Therapy: A Pragmatic Summary of the Evidence and Definition of Clinical Practices for Patient Selection, Technique, and Follow-up.",
+    "doi": "https://doi.org/10.1097/dcr.0000000000003935",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8494218587875366,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412596806",
+    "title": "Management of fatigue in children with cancer: a survey of pediatric hematology-oncology professionals’ knowledge, attitudes, and practices in the United States and Canada",
+    "doi": "https://doi.org/10.1007/s00520-025-09742-w",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8470125198364258,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412821466",
+    "title": "Surgical and endoscopic interventions in the management of idiopathic achalasia",
+    "doi": "https://doi.org/10.1002/14651858.cd015808",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.811237633228302,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412493466",
+    "title": "Association of health knowledge with adoption of heart healthy behaviours: a cross-cohort analysis using data from the PURE Study",
+    "doi": "https://doi.org/10.1093/eurjpc/zwaf428",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.891680121421814,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412581584",
+    "title": "The burden of cardiovascular events according to cardiovascular risk profile in adults from high-income, middle-income, and low-income countries (PURE): a cohort study",
+    "doi": "https://doi.org/10.1016/s2214-109x(25)00155-x",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8788881897926331,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412698728",
+    "title": "Ultra-Processed Food Intake as an Effect Modifier in the Association Between Depression and Diabetes in Brazil: A Cross-Sectional Study",
+    "doi": "https://doi.org/10.3390/nu17152454",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.850560188293457,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413159808",
+    "title": "The Prevalence of Diabetic Retinopathy in American Indians/Alaska Natives and non-Indigenous Americans: A Systematic Review and Meta-Analysis",
+    "doi": "https://doi.org/10.1016/j.ophtha.2025.08.004",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.843403160572052,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412550687",
+    "title": "Regional disparities in the care and outcomes of atrial fibrillation patients in a universal health care system: a population-based cohort study",
+    "doi": "https://doi.org/10.1007/s10840-025-02094-9",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8331310749053955,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412570373",
+    "title": "Emergency Department Use Prior to Cancer Diagnosis and Mortality",
+    "doi": "https://doi.org/10.1001/jamanetworkopen.2025.22585",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8171929121017456,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412596969",
+    "title": "Head and Neck Cancer in Southeast Asia: 2022 Incidence, Mortality, and Projections to 2050",
+    "doi": "https://doi.org/10.1002/lary.32450",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.816519558429718,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412930412",
+    "title": "Ultra-Processed Grains and Risk of Inflammatory Bowel Disease: Results from the Prospective Urban Rural Epidemiology (PURE) Study",
+    "doi": "https://doi.org/10.14309/ajg.0000000000003700",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8164976835250854,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412595659",
+    "title": "Predicting the EQ-5D-5L Utility Scores From the Impact of Vision Impairment Questionnaire in Thai Patients",
+    "doi": "https://doi.org/10.1016/j.vhri.2025.101159",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.816002607345581,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413115765",
+    "title": "Integrating the 6-Minute Walk Test into New York Heart Association Functional Classification",
+    "doi": "https://doi.org/10.1016/j.amjcard.2025.08.006",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.7907848358154297,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413050095",
+    "title": "Pregnancy complications and postpartum cardiovascular risk screening",
+    "doi": "https://doi.org/10.1016/j.jogc.2025.103065",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.7877079248428345,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412906180",
+    "title": "Comparing Clinical Outcomes and Health Care Utilization: Telehealth Versus Traditional Care at US Rural Hemodialysis Units",
+    "doi": "https://doi.org/10.1016/j.mayocpiqo.2025.100645",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.7858492136001587,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412521285",
+    "title": "Characterizing Oral Synthetic Nicotine Pouch Use in Post-Secondary Students",
+    "doi": "https://doi.org/10.1007/s10900-025-01503-4",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.7829245328903198,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412708487",
+    "title": "Planetary Health Consequences of Telecoupled Shrimp Farming",
+    "doi": "https://doi.org/10.1007/s10393-025-01733-x",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.7761104106903076,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412583956",
+    "title": "How do World Health Organization technical officers working on noncommunicable diseases approach health equity?",
+    "doi": "https://doi.org/10.1186/s12939-025-02552-w",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.725614070892334,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413139026",
+    "title": "Revealing a Pathway for Low-Temperature Recrystallization in Germanium.",
+    "doi": "https://doi.org/10.1002/advs.202507630",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8961840867996216,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412945717",
+    "title": "Defect-Aware Extreme Device Scaling Limits of 2D Memristive Technologies",
+    "doi": "https://doi.org/10.21203/rs.3.rs-7265912/v1",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8918944597244263,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412702963",
+    "title": "Analysis of N-Heterocyclic Carbenes and Their Monolayers by X-ray Photoelectron Spectroscopy: Peak-Fitting, Effects of Molecular Architecture and Impact of Possible Impurities",
+    "doi": "https://doi.org/10.1021/acs.jpcc.5c03111",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8693443536758423,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413100627",
+    "title": "Extirpation of Lake Sturgeon in an Ontario Lake Following Dam Construction and Watershed Diversion Confirmed by Indigenous Traditional Knowledge and Sedimentary eDNA.",
+    "doi": "https://doi.org/10.1002/ece3.71948",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8811586499214172,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412482970",
+    "title": "Anthropogenic Activities Increase the Proportion of Soot in Black Carbon Particles and Thereby Intensify Atmospheric Radiative Forcing",
+    "doi": "https://doi.org/10.1021/acs.est.5c02892",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8770869374275208,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413014641",
+    "title": "Arsenic fate in the historic Cobalt Mining Camp, Ontario: Geochemical, mineralogical, and vegetation-related controls on metal(loid) mobility",
+    "doi": "https://doi.org/10.1016/j.scitotenv.2025.180171",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8692072033882141,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412430709",
+    "title": "Global Sensitivity Analysis of the Historical Carbon Sink Across Biomes",
+    "doi": "https://doi.org/10.22541/essoar.175259993.34953007/v1",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8674477338790894,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412483229",
+    "title": "Pronounced methane cycling in northern lakes coincided with a rapid rise in atmospheric CH <sub>4</sub> during the last deglacial warming",
+    "doi": "https://doi.org/10.1126/sciadv.adt2561",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.867212176322937,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412856949",
+    "title": "Mass Changes in a High‐Latitude River Basin From Two Decades of GRACE/GRACE‐FO",
+    "doi": "https://doi.org/10.1029/2024jf008017",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8644337058067322,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412982623",
+    "title": "Fluorescence spectroscopy analysis of aromatic naphtha surrogates diffusing from bitumen to the aqueous phase of oil sands tailings",
+    "doi": "https://doi.org/10.1016/j.talanta.2025.128673",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8407045602798462,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412726788",
+    "title": "A critical reassessment of the novel weapons hypothesis and allelopathy as an adaptive strategy that facilitates plant invasion",
+    "doi": "https://doi.org/10.1111/nph.70415",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8376772999763489,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412786479",
+    "title": "First assessment of the ecotoxicological effects of the tire antioxidant 6PPD on early life stages of the popular sport fish species, the largemouth bass (<i>Micropterus nigricans)</i>",
+    "doi": "https://doi.org/10.1093/etojnl/vgaf178",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8343549370765686,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413152517",
+    "title": "Upwelling-related ferruginous ooids, microbialites, and the Darriwilian tipping point of Ordovician climate",
+    "doi": "https://doi.org/10.1130/g53374.1",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8332668542861938,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412540402",
+    "title": "An Analysis of the Compatibility Between Popular Carbon Footprint Calculators and the Canadian National Inventory Report",
+    "doi": "https://doi.org/10.3390/su17146629",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8208712935447693,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412407164",
+    "title": "Global Sensitivity Analysis of the Future Land Carbon Sink",
+    "doi": "https://doi.org/10.22541/essoar.175250206.64407745/v1",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8199342489242554,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412523971",
+    "title": "Increased human health risks at a legacy mine site: copper and lead bioaccessibility of oxidised tailings",
+    "doi": "https://doi.org/10.1007/s10653-025-02498-6",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8005015254020691,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412928703",
+    "title": "Latent Profile Analysis of Childhood Maltreatment and Neural Markers in Depression",
+    "doi": "https://doi.org/10.1001/jamanetworkopen.2025.25147",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.904429018497467,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412929300",
+    "title": "The 24-Hour Movement Behavior Composition and the Risk of Dementia",
+    "doi": "https://doi.org/10.1177/30495334251361293",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.855972945690155,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412625946",
+    "title": "Analgesic benefits of pharmacological and nonpharmacological sleep interventions for adults with fibromyalgia: a systematic review and meta-analyses",
+    "doi": "https://doi.org/10.1097/j.pain.0000000000003708",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.852982223033905,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412942460",
+    "title": "Shared Mechanisms in Dementia and Depression: The Modulatory Role of Physical Exercise",
+    "doi": "https://doi.org/10.1111/jnc.70185",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.850307822227478,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413107578",
+    "title": "The relationship between changes in emotional intensity and treatment outcome in PTSD patients in EMDR therapy",
+    "doi": "https://doi.org/10.1080/20008066.2025.2536973",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8397843837738037,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413106944",
+    "title": "Symptom retention after successful intensive trauma-focused treatment for post-traumatic stress disorder",
+    "doi": "https://doi.org/10.1080/20008066.2025.2537546",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8359557390213013,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413116738",
+    "title": "The Efficacy of Pharmacological Interventions in the Treatment of Major Depressive Disorder and Bipolar Depression With Mixed Features: A Systematic Review.",
+    "doi": "https://doi.org/10.1111/bdi.70049",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8337599039077759,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412620910",
+    "title": "Patient Preferences on Clinical Decision Making in Multiple Myeloma",
+    "doi": "https://doi.org/10.1200/op-25-00322",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8283107280731201,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412487824",
+    "title": "“It’s because they’re my kids, and I love them”: Substance use disorders’ impact on children and families: A secondary analysis",
+    "doi": "https://doi.org/10.1371/journal.pone.0327654",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8274782299995422,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413139885",
+    "title": "Associations between epilepsy-related polygenic risk and brain morphology in childhood.",
+    "doi": "https://doi.org/10.1093/brain/awaf259",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8260378837585449,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412744484",
+    "title": "Catastrophizing Mediates the Relationship Between Pain and Quality of Life and Illness-Focused Coping for Patients with IBD",
+    "doi": "https://doi.org/10.1007/s10880-025-10084-2",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.825278103351593,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412895025",
+    "title": "Prognostic Factors Associated with Pneumonia in Patients with Traumatic Brain Injury: A Systematic Review and Meta-Analysis",
+    "doi": "https://doi.org/10.21203/rs.3.rs-6958479/v1",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8219763040542603,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413051076",
+    "title": "Developing a Frailty Care Pathway for Older Adults in Long-Term Care: A Modified Delphi Process",
+    "doi": "https://doi.org/10.1017/s0714980825100123",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8203587532043457,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412766656",
+    "title": "Exposure to maternal human milk components interacts with infant polygenic risk to predict childhood atopy",
+    "doi": "https://doi.org/10.21203/rs.3.rs-7143108/v1",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8199682235717773,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413138552",
+    "title": "Risk of Self-Harm Among Individuals Diagnosed With Endometriosis.",
+    "doi": "https://doi.org/10.1097/aog.0000000000006030",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8145984411239624,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412463391",
+    "title": "Clinical, functional and salivary cortisol level changes in individuals with schizophrenia undergoing cognitive behavioral therapy for psychosis in addition to their usual antipsychotic medication",
+    "doi": "https://doi.org/10.1016/j.cpnec.2025.100312",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.811691403388977,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413100803",
+    "title": "Maladaptive Coping Strategies Mediate the Relationship Between Depression and Anxiety and Moderate-to-Heavy Alcohol Use in Young South Africans with HIV",
+    "doi": "https://doi.org/10.1007/s10461-025-04849-x",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8111550807952881,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412547618",
+    "title": "Intralitter Variability Influences the Developmental Impact of Valproic Acid Exposure in CD‐1 Mice",
+    "doi": "https://doi.org/10.1002/jat.4860",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8090322613716125,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412842537",
+    "title": "Evaluation of an Artificial Intelligence and Online Psychotherapy Initiative to Improve Access and Efficiency in an Ambulatory Psychiatric Setting: Évaluation d’une initiative de psychothérapie en ligne basée sur l’intelligence artificielle visant à améliorer l’accès et l’efficacité en milieu psychiatrique ambulatoire",
+    "doi": "https://doi.org/10.1177/07067437251355641",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8021749258041382,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413084161",
+    "title": "Emerging therapeutic approaches for treating abdominal pain",
+    "doi": "https://doi.org/10.1093/jcag/gwaf016",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8004487156867981,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412392513",
+    "title": "Physician Billing in Long-Term Care Homes and the Association With the Prescribing of End-of-Life Symptom Management Medications: A Population-Based Retrospective Cohort Study",
+    "doi": "https://doi.org/10.1016/j.jamda.2025.105766",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.7925915718078613,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413050414",
+    "title": "Pediatric Status Dystonicus: A Single‐Center 10‐Year Retrospective Review",
+    "doi": "https://doi.org/10.1002/mdc3.70282",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.7889996767044067,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412424228",
+    "title": "Weakness, Abdominal and Limb Pain in a 17‐Year‐Old With Type 1 Diabetes",
+    "doi": "https://doi.org/10.1111/jpc.70130",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.7782592177391052,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413215411",
+    "title": "Outcome and predictors of knee radiofrequency ablation for chronic pain relief: A retrospective cohort study",
+    "doi": "https://doi.org/10.4103/ija.ija_448_25",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.7763266563415527,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412508600",
+    "title": "Feature similarity: a sensitive method to capture the functional interaction of brain regions and networks to support flexible behavior",
+    "doi": "https://doi.org/10.21203/rs.3.rs-7082183/v1",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.8916687965393066,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413140320",
+    "title": "Transfer of motor learning is associated with patterns of activity in the default mode network.",
+    "doi": "https://doi.org/10.1371/journal.pbio.3003268",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.8856764435768127,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412709783",
+    "title": "Stable individual differences in habituation and sensitization to prolonged painful stimulation are underpinned by activity in the hippocampus, amygdala, and sensorimotor cortices",
+    "doi": "https://doi.org/10.1097/j.pain.0000000000003636",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.8534718751907349,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412438981",
+    "title": "Spatial working memory impairment predicts the severity of spatial neglect symptoms over time.",
+    "doi": "https://doi.org/10.1167/jov.25.9.2453",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.8435155153274536,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412459245",
+    "title": "Change Blindness: The Impact of Motion and Perceptual Load",
+    "doi": "https://doi.org/10.1167/jov.25.9.1949",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.841906726360321,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412439213",
+    "title": "Memory specificity through visual production: Multimodal recognition and source memory misattributions",
+    "doi": "https://doi.org/10.1167/jov.25.9.2673",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.8385120034217834,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413140919",
+    "title": "Benchmarking NousNav: quantifying the spatial accuracy and clinical performance of an affordable, open-source neuronavigation system.",
+    "doi": "https://doi.org/10.1007/s11548-025-03494-y",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.832937479019165,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413094691",
+    "title": "Integrating sensitive motor tasks with histopathology detects sex differences in recovery after spinal cord injury",
+    "doi": "https://doi.org/10.1016/j.expneurol.2025.115417",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.8312353491783142,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413216311",
+    "title": "Linear Genetic Programming",
+    "doi": "https://doi.org/10.1145/3712255.3716528",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.6839838027954102,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413021848",
+    "title": "Physical activity among adults in Canada: an intersectional analysis of immigrant and socioeconomic status",
+    "doi": "https://doi.org/10.1007/s44155-025-00278-2",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.9034000635147095,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413115897",
+    "title": "SCORE: Serologic evidence of COVID-19 and social and occupational contacts in healthcare workers in long-term care and acute care facilities in Southeastern Ontario (SCORE)",
+    "doi": "https://doi.org/10.1371/journal.pone.0303813",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8793222904205322,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413023639",
+    "title": "Structural barriers and facilitators to accessing postsurgical rehabilitation in adults who were treated with surgery for low back pain: protocol for a scoping review",
+    "doi": "https://doi.org/10.1186/s13643-025-02919-8",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.862071692943573,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413105535",
+    "title": "Intersecting Risk Factors Associated with High Syphilis Seroprevalence Among a Street-Involved Population in Canada",
+    "doi": "https://doi.org/10.1093/ofid/ofaf472",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8601493239402771,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412933415",
+    "title": "Prioritising methodological research questions for scoping reviews, mapping reviews and evidence and gap maps for health research: a protocol for PROSPECT Delphi study",
+    "doi": "https://doi.org/10.1136/bmjopen-2024-096298",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8587591648101807,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412951320",
+    "title": "A Scoping Review Mapping Trans* and Gender Diverse People's Representation in Cancer Research",
+    "doi": "https://doi.org/10.1002/cam4.70774",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8573439121246338,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413142560",
+    "title": "Financial difficulty among patients with cancer participating in clinical trials and its association with patient survival and quality of life.",
+    "doi": "https://doi.org/10.1093/jnci/djaf221",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8540095090866089,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412936953",
+    "title": "Inmunización y enfermedad cardiovascular en América Latina. El estudio CorVacc: fundamento y diseño",
+    "doi": "https://doi.org/10.24875/acm.24000239",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8532445430755615,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413185077",
+    "title": "Racial disparities in children tested for SARS-CoV-2 at pediatric emergency departments: A prospective cohort study",
+    "doi": "https://doi.org/10.1093/pch/pxaf058",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8522343635559082,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412957766",
+    "title": "Canadian Adaptive Platform Trial of Treatments for COVID in Community Settings (CanTreatCOVID): protocol for a randomised controlled adaptive platform trial of treatments for acute SARS-CoV-2 infection in community settings",
+    "doi": "https://doi.org/10.1136/bmjopen-2024-097134",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8462001085281372,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412918083",
+    "title": "Characteristics of 9-1-1 Calls Associated with an Increased Risk of Violence Against Paramedics in a Single Canadian Site",
+    "doi": "https://doi.org/10.3390/healthcare13151806",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8437269926071167,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413050694",
+    "title": "Healthcare providers’ perspectives and experiences caring for individuals with lower limb absence during the perinatal period: a qualitative study",
+    "doi": "https://doi.org/10.1080/09638288.2025.2541046",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8379104137420654,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412476814",
+    "title": "AD/HD symptoms in assessment seeking post-secondary students: Has the COVID-19 pandemic made a difference?",
+    "doi": "https://doi.org/10.1080/13854046.2025.2533298",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.836422324180603,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413042252",
+    "title": "Early Rehabilitation Bundle in a Canadian PICU: Cost Analysis of Implementation in 2018–2020",
+    "doi": "https://doi.org/10.1097/pcc.0000000000003806",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8289994597434998,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412779787",
+    "title": "27 Years of retention outcomes for a nine-university primary health care nurse practitioner program in Ontario, Canada",
+    "doi": "https://doi.org/10.1186/s12875-025-02874-2",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8259100317955017,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412506329",
+    "title": "National consensus on the capabilities that inform the role of advanced practice paramedics: A Delphi study",
+    "doi": "https://doi.org/10.1177/27536386251360833",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8243152499198914,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412981727",
+    "title": "‘This caused our journey’: the relationship between sexual and gender-based violence and cross-border Sudan to South Sudan migration",
+    "doi": "https://doi.org/10.1186/s13031-025-00699-5",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8235366344451904,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412587854",
+    "title": "‘Flying Grannies’ and Human-Capital Citizenship: Care in Humanitarian and Compassionate Cases",
+    "doi": "https://doi.org/10.1177/09646639251360214",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8089330792427063,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413060235",
+    "title": "Connecting the Dots: Applying Network Theories to Enhance Integrated Paramedic Care for People Who Use Drugs",
+    "doi": "https://doi.org/10.3390/systems13070605",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8054409027099609,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412998530",
+    "title": "Impact Biomechanics Reveal Positional and Session Type Differences in Canadian Collegiate Football",
+    "doi": "https://doi.org/10.1002/ejsc.70010",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.804694652557373,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412572712",
+    "title": "Factors associated with pediatric COVID-19 mortality: A Pediatric Investigators Collaborative Network on Infections in Canada (PICNIC) study",
+    "doi": "https://doi.org/10.1093/jpids/piaf068",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.7977165579795837,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412739067",
+    "title": "Epidemiologic Trends in Acute, Chronic, and Pregnancy-Specific Liver Diseases in Pregnancy",
+    "doi": "https://doi.org/10.14309/ajg.0000000000003687",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.7943686842918396,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412954467",
+    "title": "High Variability in the Use of Cement for Femoral Stem Fixation in Hip Fractures—An Analysis of the Canadian Joint Replacement Registry",
+    "doi": "https://doi.org/10.3390/jcm14155463",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.7938991785049438,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413041446",
+    "title": "Circular RNA Profiling Identifies <i>circ5078</i> as a <i>BMPR2</i> -Derived Regulator of Endothelial Proliferation and Stress Responses",
+    "doi": "https://doi.org/10.1161/atvbaha.124.322455",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8636961579322815,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412951835",
+    "title": "Investigating the cell of origin and novel molecular targets in Merkel cell carcinoma: a historic misnomer",
+    "doi": "https://doi.org/10.1002/1878-0261.70107",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8594504594802856,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413223210",
+    "title": "Recent Advances in the Management of EGFR-Mutated Advanced Non-Small Cell Lung Cancer—A Narrative Review",
+    "doi": "https://doi.org/10.3390/curroncol32080448",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8470484018325806,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412778266",
+    "title": "Cancer and fertility management: <scp>FIGO</scp> best practice advice",
+    "doi": "https://doi.org/10.1002/ijgo.70426",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8337161540985107,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412635706",
+    "title": "Cancer in pregnancy: <scp>FIGO</scp> Best practice advice and narrative review",
+    "doi": "https://doi.org/10.1002/ijgo.70258",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8331819772720337,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413128311",
+    "title": "Looking Across Protein Domains to Identify Driver Mutations in Cancer",
+    "doi": "https://doi.org/10.1101/2025.08.11.669561",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8330702781677246,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412421032",
+    "title": "Germline genetic variation impacts clonal hematopoiesis landscape and progression to malignancy",
+    "doi": "https://doi.org/10.1038/s41588-025-02250-x",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8312891125679016,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412639860",
+    "title": "Genetic Epilepsies: Clinical pearls for early career epileptologists",
+    "doi": "https://doi.org/10.1016/j.yebeh.2025.110575",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8241800665855408,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412580709",
+    "title": "Testing for the genomic footprint of conflict between life stages in an angiosperm and moss species",
+    "doi": "https://doi.org/10.1093/gbe/evaf138",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8239886164665222,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412392819",
+    "title": "Systems biology approaches investigating mitochondrial dysfunction in cyanotic heart disease: a systematic review",
+    "doi": "https://doi.org/10.1016/j.ebiom.2025.105839",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.818942666053772,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412540225",
+    "title": "Invasive Melanoma Arising in a <scp>BAP1</scp>‐Inactivated Melanocytic Tumor With <i>NRAS</i> Mutation: A Report of Exceptional Case With Emphasis on Its Genomic Features and Review of the Literature",
+    "doi": "https://doi.org/10.1111/cup.14839",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8173079490661621,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412650638",
+    "title": "Cargo-selective regulation of clathrin-mediated endocytosis by AMP-activated protein kinase",
+    "doi": "https://doi.org/10.1016/j.isci.2025.113131",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.816318154335022,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412613283",
+    "title": "Advancing Geroscience Research – A Scoping Review of Regulatory Environments for Gerotherapeutics",
+    "doi": "https://doi.org/10.1016/j.jnha.2025.100637",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8129875659942627,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412694195",
+    "title": "Extracellular Vesicle Mitochondrial DNA Reflects Podocyte Mitochondrial Stress and Is Associated with Relapse in Nephrotic Syndrome",
+    "doi": "https://doi.org/10.3390/ijms26157245",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8111579418182373,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412976753",
+    "title": "Tumor-infiltrating nociceptor neurons promote immunosuppression",
+    "doi": "https://doi.org/10.1126/scisignal.ads7889",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8097190856933594,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413160413",
+    "title": "Commercialization of cell and gene therapy in Canada: Current landscape, challenges and opportunities",
+    "doi": "https://doi.org/10.1016/j.drudis.2025.104453",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8025634288787842,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413137602",
+    "title": "The Evolving Role of Liver Transplantation as Enzyme Replacement Therapy in the Era of RNA Nanotherapies",
+    "doi": "https://doi.org/10.1016/j.ajt.2025.08.003",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.7982509732246399,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412410459",
+    "title": "ARM-X: an adaptable mesenchymal stromal cell-based vaccination platform suitable for solid tumors",
+    "doi": "https://doi.org/10.1186/s13287-025-04465-5",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.7965496182441711,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413110737",
+    "title": "Class IV plant U-box proteins function redundantly to optimize protein accumulation of receptor-like cytoplasmic kinase BIK1.",
+    "doi": "https://doi.org/10.1093/plphys/kiaf267",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.7887513041496277,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413027569",
+    "title": "Human Papillomavirus–Associated Penile Squamous Cell Carcinoma With Acquired p16 Null Immunophenotype",
+    "doi": "https://doi.org/10.1016/j.modpat.2025.100846",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.7651975154876709,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413081669",
+    "title": "eLife Assessment: Interpretable protein-DNA interactions captured by structure-sequence optimization",
+    "doi": "https://doi.org/10.7554/elife.105565.3.sa0",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.7606704235076904,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412698421",
+    "title": "Triplet pregnancies after single blastocyst embryo transfer—how often and why do these occur?",
+    "doi": "https://doi.org/10.1007/s10815-025-03593-4",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.7209204435348511,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412952091",
+    "title": "Female reproductive tract obstruction and its imaging mimics – A pictorial review",
+    "doi": "https://doi.org/10.1016/j.ejrad.2025.112345",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.7072136402130127,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412501212",
+    "title": "A transdiagnostic study of theory of mind in children and youth with neurodevelopmental conditions",
+    "doi": "https://doi.org/10.1186/s13229-025-00671-3",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8766806125640869,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412718531",
+    "title": "Engagement in Academic-Based Comparisons on Social Networking Sites and Mental Health Outcomes among Post-secondary Students: A Cross-sectional Analysis ",
+    "doi": "https://doi.org/10.21203/rs.3.rs-7075654/v1",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8671689033508301,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412724888",
+    "title": "No Nut November, temporary abstinence, and sexual wellbeing: a study of the short-term abstinence-based internet trend",
+    "doi": "https://doi.org/10.1093/jsxmed/qdaf165",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.842078447341919,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412977530",
+    "title": "Sex, Attraction, and Social Norms: Distinguishing Romantic and Non-Romantic Relationships in Non-Sexual Contexts",
+    "doi": "https://doi.org/10.1007/s10508-025-03163-w",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8297423124313354,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412476053",
+    "title": "From Intimidation to Innovation: Cross-Continental Multiple Case Studies on How to Harness AI to Elevate Engagement, Comprehension, and Retention",
+    "doi": "https://doi.org/10.3390/educsci15070902",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8283213376998901,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412984708",
+    "title": "Beyond moods and cycles: a closer look at anger and anxiety throughout midlife reproductive stages",
+    "doi": "https://doi.org/10.1097/gme.0000000000002634",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8279809951782227,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412973099",
+    "title": "Do eye movements reflect readers’ thoughts during reading? Evidence from multidimensional experience sampling and eye movements",
+    "doi": "https://doi.org/10.1016/j.concog.2025.103918",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8258342742919922,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412721440",
+    "title": "Jumping to conclusions predicts truncated searches even in uncongenial contexts",
+    "doi": "https://doi.org/10.1080/13546783.2025.2536581",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8140764236450195,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412590543",
+    "title": "Caught Between a Culture of Risk and Precaution: The Inevitability of Deviance in Concussion Safety for Coaches in Minor League Hockey",
+    "doi": "https://doi.org/10.1080/01639625.2025.2537448",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.791753351688385,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412992356",
+    "title": "Ultra-processed foods and dopamine: Parsing complexity beyond observed variability",
+    "doi": "https://doi.org/10.1016/j.cmet.2025.06.008",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.7875635027885437,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412523250",
+    "title": "Engaging people with lived experience on community advisory boards in community-based participatory research: a scoping review",
+    "doi": "https://doi.org/10.1186/s12939-025-02573-5",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.7740322947502136,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412934980",
+    "title": "The Family Business Book: A Roadmap for Entrepreneurial Families to Prosper Across Generations",
+    "doi": "https://doi.org/10.5465/amle.2025.0240",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.7713961601257324,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412577912",
+    "title": "Trusting Conspiracy Theories",
+    "doi": "https://doi.org/10.1080/02691728.2025.2522414",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.7161165475845337,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412566274",
+    "title": "What can soundboards tell us about canine communication?",
+    "doi": "https://doi.org/10.3758/s13420-025-00679-y",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.689639687538147,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412822162",
+    "title": "Preface to the special issue on astroparticle physics in Canada",
+    "doi": "https://doi.org/10.1139/cjp-2025-0035",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8797885179519653,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412452698",
+    "title": "Search for Extremely-High-Energy Neutrinos and First Constraints on the Ultrahigh-Energy Cosmic-Ray Proton Fraction with IceCube",
+    "doi": "https://doi.org/10.1103/physrevlett.135.031001",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8764042258262634,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412909118",
+    "title": "VERTICO IX: Signatures of environmental processing of the gas in Virgo cluster spiral galaxies through mapping of CO isotopologues",
+    "doi": "https://doi.org/10.1093/mnras/staf1230",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8747730255126953,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412750267",
+    "title": "Simulating the Milky Way bar and bulge with an initially Sérsic disc",
+    "doi": "https://doi.org/10.1093/mnras/staf1254",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8729569911956787,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412612083",
+    "title": "Smooth Perturbations to Rényi Entropy",
+    "doi": "https://doi.org/10.1007/jhep07(2025)233",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8115783929824829,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412931175",
+    "title": "Mechanochemical and Aging‐Based S<sub>N</sub>2 Method to Access CO<sub>2</sub>‐Responsive, High‐Amine‐Loading Chitosan",
+    "doi": "https://doi.org/10.1002/cssc.202501187",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8791903853416443,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412413677",
+    "title": "Thermally stable, photocrossinkable and biocompatible copolymers for melt electrowriting",
+    "doi": "https://doi.org/10.1088/1758-5090/adef81",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8765318989753723,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413102102",
+    "title": "Polymer Colloids: Evolution of the Field toward Biomacromolecules",
+    "doi": "https://doi.org/10.1021/acs.biomac.5c00747",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8432520031929016,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413057755",
+    "title": "High Performance Compatibilized Polyamide Composites Containing Graphene Nanoplatelets and Recycled Glass Fibers",
+    "doi": "https://doi.org/10.1002/pc.70122",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8365658521652222,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412798191",
+    "title": "Influence of Intermolecular Interactions on Acrylate–Methacrylate Copolymerization Reactivity Ratios: From Bulk to Aqueous Solution",
+    "doi": "https://doi.org/10.1021/acs.macromol.5c01419",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8303419351577759,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412790161",
+    "title": "High-Density Self-Assembled Monolayers of N-Heterocyclic Carbenes on Au(111)─Observation of Normal and Mesoionic Bonding Modes",
+    "doi": "https://doi.org/10.1021/acs.chemmater.5c00886",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8154221177101135,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413135912",
+    "title": "Synergistic Tri-Metallic Ca/Mg/Sr Crab Shell Catalyst for Transesterification: Probing Active Site Basicity",
+    "doi": "https://doi.org/10.1139/cjc-2025-0098",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.81349116563797,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413128364",
+    "title": "Characterization of a novel fatty acid-modifying pathway toward the biosynthesis of tambjamine BE-18591 in <i>Streptomyces</i>",
+    "doi": "https://doi.org/10.1101/2025.08.11.669332",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.7986387014389038,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413174955",
+    "title": "A Polydopamine-Based Molecularly Imprinted Electrochemical Sensor for Fentanyl Determination",
+    "doi": "https://doi.org/10.1021/acsomega.5c06732",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.7755547761917114,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413039519",
+    "title": "Adsorptive efficiency of porous NaX-type zeolites converted from industrial waste for the removal of brilliant green dye",
+    "doi": "https://doi.org/10.1007/s41207-025-00895-y",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.7688079476356506,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412892925",
+    "title": "Circumventing problems introduced by matrix asymmetry in collocation calculations of vibrational spectra by exploiting near symmetry",
+    "doi": "https://doi.org/10.1063/5.0282604",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.7685658931732178,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412726408",
+    "title": "The energetics and mechanics of trunk angle during flat and inclined walking",
+    "doi": "https://doi.org/10.1242/jeb.249695",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.8661254048347473,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412668954",
+    "title": "Trans-osseous repair of the posterior structures is superior to direct suturing in posterior approach total hip arthroplasty: a comparative cadaveric study",
+    "doi": "https://doi.org/10.1007/s00264-025-06618-w",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.841559886932373,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413149742",
+    "title": "Prehabilitation: Optimizing Patient Health Before Surgery to Enhance Recovery and Outcomes",
+    "doi": "https://doi.org/10.1016/j.jogc.2025.103068",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.8357605338096619,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W3153446069",
+    "title": "Surgery on Anosov flows using bi-contact geometry",
+    "doi": "https://doi.org/10.1017/etds.2025.10196",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.8256815671920776,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412526107",
+    "title": "Anti-IFN-γ Autoantibody Syndrome Presenting with Disseminated Nontuberculous Mycobacteria Infections: A Case Series of Therapeutic Implications and Review of Literature",
+    "doi": "https://doi.org/10.3390/tropicalmed10070202",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8746253848075867,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412750736",
+    "title": "Balancing Innovation and Safety: Prediction, Prevention, and Management of Pneumonitis in Lung Cancer Patients Receiving Novel Anti-Cancer Agents",
+    "doi": "https://doi.org/10.3390/cancers17152522",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8737964630126953,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412950080",
+    "title": "Delayed hypersensitivity and cytokine release syndrome to paclitaxel and nab-paclitaxel: a case report",
+    "doi": "https://doi.org/10.37349/eaa.2025.100989",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8489173650741577,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413055865",
+    "title": "Rapid Detection of Carbapenemase-Producing Enterobacterales Using a Luminescent Whole-Cell Biosensor",
+    "doi": "https://doi.org/10.1021/acsinfecdis.5c00268",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8453620672225952,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412650343",
+    "title": "The Diagnostic Challenges of Disseminated Nocardiosis in a Post-Renal Transplant Patient: A Case Report",
+    "doi": "https://doi.org/10.3390/reports8030111",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8371297717094421,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412855274",
+    "title": "Real-World Use of Upadacitinib in Refractory Giant Cell Arteritis: A Case Report",
+    "doi": "https://doi.org/10.1093/mrcr/rxaf050",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8258525729179382,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412776736",
+    "title": "Incremental immunogenicity of multiple doses of <scp>SARS</scp>‐<scp>CoV</scp>‐2 vaccination in patients with haematological malignancies",
+    "doi": "https://doi.org/10.1111/bjh.70054",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8166807889938354,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412564089",
+    "title": "Re-evaluation of the nodulation capacity of Sphingomonas sediminicola DSM 18106T indicates that this strain is not capable of inducing root nodule formation on Pisum sativum (pea)",
+    "doi": "https://doi.org/10.1139/cjm-2025-0100",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.7875545024871826,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412464921",
+    "title": "People and Places: The ‘River’ and ‘Desert Island’ Models of Territory",
+    "doi": "https://doi.org/10.1080/13698230.2025.2528388",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.84954833984375,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412617124",
+    "title": "Geographies of biosecurity: Racialized vulnerability, colonial extraction, and a new critical consciousness",
+    "doi": "https://doi.org/10.1177/03091325251358410",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8306910395622253,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412682108",
+    "title": "‘They were just enjoying love and she was making money’: A qualitative analysis of UN peacekeeper sexual interactions in the Democratic Republic of Congo",
+    "doi": "https://doi.org/10.1186/s13031-025-00693-x",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8252713680267334,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412840589",
+    "title": "Hope in translation: Lessons from both sides of the bed",
+    "doi": "https://doi.org/10.5489/cuaj.9318",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8217922449111938,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413207189",
+    "title": "Transhumanism, Religion, and Techno-Idolatry: A Derridean Response to Tirosh-Samuelson",
+    "doi": "https://doi.org/10.3390/rel16081028",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8185168504714966,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412666931",
+    "title": "The political economy of contrasting agroecologies: agrarian movements and agricultural research institutions envisioning alternatives",
+    "doi": "https://doi.org/10.1080/21683565.2025.2538143",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7856791019439697,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413019156",
+    "title": "Building the walls of international trade after war: Can dispute resolution mechanisms (DRMs) help?",
+    "doi": "https://doi.org/10.1111/ecin.70011",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7765933275222778,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413001279",
+    "title": "Containers of Diasporic Memory",
+    "doi": "https://doi.org/10.1163/23523085-09031339",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7726539373397827,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413107915",
+    "title": "Fièvre, éruptions cutanées et symptômes généralisés chez une jeune femme au retour d’un voyage en Argentine",
+    "doi": "https://doi.org/10.1503/cmaj.241921-f",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7718163132667542,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412877152",
+    "title": "The Hitchhikers Guide to Production-ready Trustworthy Foundation Model Powered Software (FMware)",
+    "doi": "https://doi.org/10.1145/3711896.3736572",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7693880200386047,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412946049",
+    "title": "Hamas and the Threat of Exclusive Territorial Control by Violent Non-State Actors",
+    "doi": "https://doi.org/10.1080/1057610x.2025.2528338",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7649692296981812,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412676730",
+    "title": "Global Marketplace (Marketing) Literacy for Sustainable Development",
+    "doi": "https://doi.org/10.1080/08911762.2025.2533915",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7629226446151733,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412566572",
+    "title": "Reciprocity among Equals",
+    "doi": "https://doi.org/10.1093/oxfordhb/9780197754931.013.0003",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7437671422958374,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412876920",
+    "title": "Hierarchical Lexical Graph for Enhanced Multi-Hop Retrieval",
+    "doi": "https://doi.org/10.1145/3711896.3737233",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7063295245170593,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413162567",
+    "title": "Los años de Leguía (1919–1930)",
+    "doi": "https://doi.org/10.1080/08263663.2025.2542755",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.706038773059845,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412487406",
+    "title": "General Purpose and Reasoning Large Language Models for Automated Abdominal CT Protocoling",
+    "doi": "https://doi.org/10.2214/ajr.25.33387",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7034702301025391,
+    "quality": "strong"
+  }
+]

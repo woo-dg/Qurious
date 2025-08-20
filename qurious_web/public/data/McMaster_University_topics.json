@@ -1,0 +1,92 @@
+[
+  {
+    "cluster_id": 12,
+    "label": "Child Psychology",
+    "size": 27,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 6,
+    "label": "Cardiovascular Health",
+    "size": 27,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 1,
+    "label": "Clinical Research",
+    "size": 25,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 9,
+    "label": "Microbial Biology",
+    "size": 20,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 11,
+    "label": "Health Engagement",
+    "size": 18,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 14,
+    "label": "Health Guidelines",
+    "size": 14,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 4,
+    "label": "Nanomaterials",
+    "size": 12,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 10,
+    "label": "Vaccination Strategies",
+    "size": 12,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 7,
+    "label": "Exercise Health",
+    "size": 9,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 3,
+    "label": "Maternal Health",
+    "size": 9,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 2,
+    "label": "Aging Care",
+    "size": 8,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 8,
+    "label": "Pediatric Oncology",
+    "size": 6,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 13,
+    "label": "Chronic Pain",
+    "size": 6,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 5,
+    "label": "Public Health",
+    "size": 6,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 0,
+    "label": "Health Education",
+    "size": 1,
+    "weak_count": 0
+  }
+]

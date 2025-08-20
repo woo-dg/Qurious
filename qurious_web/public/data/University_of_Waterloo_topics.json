@@ -1,0 +1,92 @@
+[
+  {
+    "cluster_id": 1,
+    "label": "Exercise Science",
+    "size": 30,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 7,
+    "label": "Public Health",
+    "size": 24,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 3,
+    "label": "Environmental Science",
+    "size": 22,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 13,
+    "label": "Computational Biology",
+    "size": 19,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 10,
+    "label": "Social Dynamics",
+    "size": 19,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 2,
+    "label": "Stochastic Analysis",
+    "size": 15,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 5,
+    "label": "Materials Science",
+    "size": 12,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 6,
+    "label": "Atmospheric Chemistry",
+    "size": 10,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 14,
+    "label": "Health Research",
+    "size": 10,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 8,
+    "label": "Quantum Information",
+    "size": 9,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 0,
+    "label": "Polymer Science",
+    "size": 7,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 4,
+    "label": "Biochemical Engineering",
+    "size": 7,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 12,
+    "label": "Urban Ecology",
+    "size": 6,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 9,
+    "label": "Sustainable Infrastructure",
+    "size": 6,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 11,
+    "label": "Urban Studies",
+    "size": 4,
+    "weak_count": 0
+  }
+]

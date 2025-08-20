@@ -1,0 +1,92 @@
+[
+  {
+    "cluster_id": 4,
+    "label": "Pediatric Health",
+    "size": 32,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 3,
+    "label": "Neuroimaging Research",
+    "size": 20,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 10,
+    "label": "Clinical Research",
+    "size": 17,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 6,
+    "label": "Cardiovascular Health",
+    "size": 15,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 1,
+    "label": "Pharmacotherapy",
+    "size": 15,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 14,
+    "label": "Cancer Research",
+    "size": 15,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 0,
+    "label": "Neuroscience Rehabilitation",
+    "size": 13,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 5,
+    "label": "Communication Studies",
+    "size": 13,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 2,
+    "label": "Clinical Research",
+    "size": 11,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 9,
+    "label": "Social Health",
+    "size": 11,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 7,
+    "label": "Astrophysics",
+    "size": 10,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 13,
+    "label": "Global Health",
+    "size": 9,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 8,
+    "label": "Environmental Science",
+    "size": 7,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 12,
+    "label": "Academic Writing",
+    "size": 6,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 11,
+    "label": "Clinical Trials",
+    "size": 6,
+    "weak_count": 0
+  }
+]

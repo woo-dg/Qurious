@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "https://openalex.org/W4412828093",
+    "title": "Tail chalk improved detection of true estrus alerts from an automated activity monitor system in a cohort study.",
+    "doi": "https://doi.org/10.1016/j.theriogenology.2025.117596",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8726955056190491,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412555148",
+    "title": "Modeling heat tolerance for production traits in Canadian Holstein cattle",
+    "doi": "https://doi.org/10.3168/jds.2025-26433",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8592582941055298,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413108178",
+    "title": "Scale cortisol reflects the acute but not the chronic stress status in green sunfish (Lepomis cyanellus)",
+    "doi": "https://doi.org/10.1016/j.ygcen.2025.114797",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8495386838912964,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412594985",
+    "title": "Associations of transition cow metabolism with subsequent manifestation and intensity of estrous behavior in cyclic cows.",
+    "doi": "https://doi.org/10.1016/j.theriogenology.2025.117592",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8461676239967346,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412196660",
+    "title": "Testosterone and 17β-estradiol regulate hippocampal area CA3 sharp waves in male and female rats",
+    "doi": "https://doi.org/10.1016/j.celrep.2025.115952",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8330835103988647,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412487916",
+    "title": "Energy intake recommendations from cat food labels sold in Ontario, Canada, diverge from predictive equations for adult cat maintenance",
+    "doi": "https://doi.org/10.2460/javma.25.02.0127",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8301543593406677,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413049268",
+    "title": "Impact of passive immunity and quality of transition milk on preweaning dairy and dairy-beef cross calf health in a pasture-based block calving system: A cohort study",
+    "doi": "https://doi.org/10.3168/jds.2025-26809",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8297219276428223,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412457675",
+    "title": "Method Comparison and Investigation of Interference Variables of a Hand‐Held Hemoglobinometer(<scp>HemoCue</scp> Hb 201<sup>+</sup>) in Cats",
+    "doi": "https://doi.org/10.1111/vcp.70035",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8232190608978271,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413054172",
+    "title": "Consensus Statements-Optimizing Performance of the Elite Athlete.",
+    "doi": "https://doi.org/10.1111/sms.70112",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8169739246368408,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412097851",
+    "title": "Examination of the proposed relationships between cyclic menstruation and human reproduction",
+    "doi": "https://doi.org/10.3389/fgwh.2025.1589736",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8139153718948364,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413100570",
+    "title": "Sex differences in sucrose-induced locomotor sensitization and cross-sensitization with the D2/D3 agonist quinpirole in rats.",
+    "doi": "https://doi.org/10.1016/j.bbr.2025.115771",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.81308913230896,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412891627",
+    "title": "Graduate Student Literature Review: Temperament, personality, and coping style in dairy cattle—Understanding individual variation in response to challenges and management strategies",
+    "doi": "https://doi.org/10.3168/jds.2025-26552",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8121188879013062,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412891811",
+    "title": "Effect of training dairy heifers to an automated milking system before parturition on their adaptation and performance",
+    "doi": "https://doi.org/10.3168/jds.2025-26883",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8060154318809509,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413023192",
+    "title": "Science‐in‐brief: Report on the 2nd Dorothy Russell Havemeyer Foundation workshop on acute colitis of the adult horse",
+    "doi": "https://doi.org/10.1111/evj.14554",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.795702338218689,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412830159",
+    "title": "Assessing the energetic cost of exposure to copper in a freshwater gastropod",
+    "doi": "https://doi.org/10.1007/s11356-025-36724-6",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.7862753868103027,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412707837",
+    "title": "Sex matters: β-adrenergic receptor contributions to hypoxic vasodilation",
+    "doi": "https://doi.org/10.1152/ajpheart.00543.2025",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.7772215604782104,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412739416",
+    "title": "Sentinel lymph node mapping with computed tomography lymphangiography and intraoperative methylene blue peritumoral injection has a high detection rate with moderate agreement in dogs with oral neoplasms",
+    "doi": "https://doi.org/10.2460/javma.24.11.0758",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.766370415687561,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412727522",
+    "title": "Just the facts: calcium administration in trauma patients receiving massive blood transfusions",
+    "doi": "https://doi.org/10.1007/s43678-025-00994-3",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.7473222017288208,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412187028",
+    "title": "Unique nicotinic responses are present in distinct subtypes of mouse medial prefrontal layer V pyramidal neurons",
+    "doi": "https://doi.org/10.1038/s41598-025-10465-5",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.7415998578071594,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412697084",
+    "title": "Cystic rete testis in a central bearded dragon (Pogona vitticeps)",
+    "doi": "https://doi.org/10.1016/j.jcpa.2025.07.004",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.7268012762069702,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412642129",
+    "title": "GEDTM30: global ensemble digital terrain model at 30 m and derived multiscale terrain variables",
+    "doi": "https://doi.org/10.7717/peerj.19673",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8792836666107178,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412552345",
+    "title": "Plant Community Shifts as Early Indicators of Abrupt Permafrost Thaw and Associated Carbon Release in an Interior Alaskan Peatland",
+    "doi": "https://doi.org/10.1029/2024jg008639",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8739618062973022,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412737128",
+    "title": "Investigating the Atmospheric Microbial Ecosystem Through Theory, Bioenergetics, and Numerical Modeling: A Breath of Fresh Air for Aeromicrobiology",
+    "doi": "https://doi.org/10.1029/2025jg009071",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8472601175308228,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412834803",
+    "title": "Influence of Cover Crops and Winter Warming on Soil N<sub>2</sub>O Content and Surface Fluxes During Freeze‐Thaw",
+    "doi": "https://doi.org/10.1029/2025jg008779",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8444836139678955,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413019734",
+    "title": "Evaluation of Heterogeneous Ensemble Learning Algorithms for Lithological Mapping Using EnMAP Hyperspectral Data: Implications for Mineral Exploration in Mountainous Region",
+    "doi": "https://doi.org/10.3390/min15080833",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8222108483314514,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412602566",
+    "title": "Progress on Sustainable Cryogenic Machining of Hard-to-Cut Material and Greener Processing Techniques: A Combined Machinability and Sustainability Perspective",
+    "doi": "https://doi.org/10.3390/lubricants13080322",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8177610039710999,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412423063",
+    "title": "Evaluating groundwater salinity patterns and spatiotemporal dynamics in complex endorheic aquifer systems",
+    "doi": "https://doi.org/10.1016/j.scitotenv.2025.180055",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8177433609962463,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412001474",
+    "title": "A tornado-based laboratory model for Keplerian flows",
+    "doi": "https://doi.org/10.1093/mnrasl/slaf070",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8013371229171753,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412870374",
+    "title": "Automated Semantic Segmentation of Arctic Surface Water Features with Very-High Resolution Satellite X-Band Radar Imagery and U-Net Deep Learning",
+    "doi": "https://doi.org/10.1080/07038992.2025.2533460",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.793563961982727,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412514804",
+    "title": "A Comprehensive Review of Thermal Management Challenges and Safety Considerations in Lithium-Ion Batteries for Electric Vehicles",
+    "doi": "https://doi.org/10.3390/batteries11070275",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.7847194075584412,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412202204",
+    "title": "Development of a Technique for Toughness Estimation in Dual-Phase Steels Using Representative Volume Elements",
+    "doi": "https://doi.org/10.3390/met15070788",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.7814061641693115,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413108550",
+    "title": "FungAMR: a comprehensive database for investigating fungal mutations associated with antimicrobial resistance",
+    "doi": "https://doi.org/10.1038/s41564-025-02084-7",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.9091058969497681,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413112632",
+    "title": "Targeted loss of heterozygosity in <i>Candida albicans</i> using CRISPR-Cas9 reveals the functional impact of allelic variation",
+    "doi": "https://doi.org/10.1093/genetics/iyaf154",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8842041492462158,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412509381",
+    "title": "Genome mining reveals the distribution of biosynthetic gene clusters in Alternaria and related fungal taxa within the family Pleosporaceae",
+    "doi": "https://doi.org/10.1186/s12864-025-11754-z",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8826537132263184,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412435573",
+    "title": "Manganese-modulated proteome and phosphoproteome dataset in the opportunistic yeast Candida albicans",
+    "doi": "https://doi.org/10.1016/j.dib.2025.111862",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8679569363594055,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412086271",
+    "title": "Disruption of the ATP-dependent unfoldase ClpX reverses antifungal resistance in Cryptococcus neoformans",
+    "doi": "https://doi.org/10.1038/s41467-025-61412-x",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8480813503265381,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413112840",
+    "title": "Merging traditional practices and modern technology through computational plant breeding",
+    "doi": "https://doi.org/10.1093/plphys/kiaf355",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8218252062797546,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412650659",
+    "title": "Integration of pre-trained GRU and molecular docking for virtual screening of quinoa seed derived ACE inhibitory peptides: An innovative prediction strategy",
+    "doi": "https://doi.org/10.1016/j.foodchem.2025.145591",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8016263246536255,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4411975725",
+    "title": "The Consequences of Failing to Act: Examining the Importance of Perceived Employee-Directed Managerial Inaction",
+    "doi": "https://doi.org/10.1177/15480518251352592",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.868690550327301,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412110970",
+    "title": "Observation Moderates the Moral Licensing Effect: A Meta-Analytic Test of Interpersonal and Intrapsychic Mechanisms",
+    "doi": "https://doi.org/10.1177/01461672251345512",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8584613800048828,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413121546",
+    "title": "Beyond Ownership As Usual: The Implications of Steward-Ownership For Management Research",
+    "doi": "https://doi.org/10.1177/10564926251357812",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8454459309577942,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412199298",
+    "title": "Trends and Insights in Arab Audit Research: A Bibliometric Exploration",
+    "doi": "https://doi.org/10.1002/cjas.70018",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8386279344558716,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412008551",
+    "title": "Applying the 7P Framework to Youth–Adult Partnerships in Climate Organizing Spaces: “If We Are Going to Be the Ones Living with Climate Change, We Should Have a Say”",
+    "doi": "https://doi.org/10.3390/youth5030066",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8329262733459473,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4411869604",
+    "title": "14. The other F word",
+    "doi": "https://doi.org/10.11647/obp.0462.14",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8294341564178467,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412736483",
+    "title": "A scoping review of decision-aid tools for disclosure and help-seeking of mental health concerns",
+    "doi": "https://doi.org/10.1016/j.cpr.2025.102628",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8250605463981628,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412719848",
+    "title": "The influence of workplace inequities through the employment lifecycle on commitment and turnover in the hospitality industry",
+    "doi": "https://doi.org/10.1080/15332845.2025.2530284",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8104438781738281,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412700832",
+    "title": "Knowledge user perspectives on integrated knowledge translation (iKT) in health interventions research for people with multiple sclerosis: a qualitative descriptive study",
+    "doi": "https://doi.org/10.1186/s40900-025-00763-7",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.7995700836181641,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412632672",
+    "title": "Applying rigorous standards is not a ban or censorship: A reply to León (2025) and Connor and Fuerst (2025).",
+    "doi": "https://doi.org/10.1037/amp0001528",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.7984269857406616,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412898172",
+    "title": "Abstract from the 1st International Online Conference on Risk and Financial Management",
+    "doi": "https://doi.org/10.3390/proceedings2025125001",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.7790425419807434,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412046145",
+    "title": "Integrating Ethical AI Tools into Educational Practices for Enhancing Academic Integrity",
+    "doi": "https://doi.org/10.1145/3719160.3737626",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.7721399664878845,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412005337",
+    "title": "<i>Apocalyptic Ecologies: From Creation to Doom in Middle English Literature</i>. By Shannon Gayk",
+    "doi": "https://doi.org/10.1093/isle/isaf053",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.7490391731262207,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412162873",
+    "title": "Barriers to implementing One Health training programs: Experiences of university faculty and staff",
+    "doi": "https://doi.org/10.1079/cabionehealth.2025.0022",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8927075862884521,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4411918673",
+    "title": "Evaluating a 52-week fresh food prescribing program in Ontario, Canada: A mixed-methods study on food insecurity, fruit and vegetable intake, and health",
+    "doi": "https://doi.org/10.1186/s12875-025-02907-w",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.868145763874054,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412712349",
+    "title": "Evidence for inequities in the risk of foodborne and waterborne diseases in the Canadian population: a scoping review",
+    "doi": "https://doi.org/10.1080/29944694.2025.2535483",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8623046875,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412941429",
+    "title": "Addressing Gaps in Ontario’s Sexual Health Education: Supporting Healthy Sexual Lives in Young Adults with Disabilities",
+    "doi": "https://doi.org/10.3390/sexes6030042",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8615289926528931,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412491341",
+    "title": "Confronting epistemic blinders in impact assessment and environmental health risk assessment processes",
+    "doi": "https://doi.org/10.1111/risa.70073",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8505961894989014,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412693434",
+    "title": "Caring in a New Context: Young Caregivers’ Experiences During COVID-19 in Canada",
+    "doi": "https://doi.org/10.1080/0145935x.2025.2534808",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8425612449645996,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412915953",
+    "title": "Descriptive network analysis of Ontario, Canada equine competitions: Implications for disease control",
+    "doi": "https://doi.org/10.21203/rs.3.rs-6804927/v1",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.833071768283844,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413140885",
+    "title": "Exploring the ruling relations of eating disorder treatment in Ontario.",
+    "doi": "https://doi.org/10.1186/s40337-025-01362-3",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8321622014045715,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413109199",
+    "title": "Curricula within Ontario Universities as it Relates to the Profession of Kinesiology",
+    "doi": "https://doi.org/10.1139/apnm-2025-0114",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8013360500335693,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4411868161",
+    "title": "Reluctant entrepreneurs or embracing marketization: The governance of municipal entrepreneurialism for community development in rural Canada",
+    "doi": "https://doi.org/10.1080/15575330.2025.2525802",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.7768044471740723,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412459631",
+    "title": "Searched but never found: Attentional control settings are pruned based on interactions with the external environment",
+    "doi": "https://doi.org/10.1167/jov.25.9.2204",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.877760648727417,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412460808",
+    "title": "Investigating the Temporal Dynamics of LTM-to-VWM Reinstatement During Visual Search",
+    "doi": "https://doi.org/10.1167/jov.25.9.1837",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8708118796348572,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412439264",
+    "title": "Fading enhancement? Exploring the impact of touch timing on target enhancement in multiple-object tracking (MOT)",
+    "doi": "https://doi.org/10.1167/jov.25.9.2649",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8548715114593506,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412458949",
+    "title": "To look or not to like: Oculomotor-control mechanisms alter stimulus-value representations.",
+    "doi": "https://doi.org/10.1167/jov.25.9.2117",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8488746285438538,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412459143",
+    "title": "The Effect of Feature Changes on Multiple Object Tracking",
+    "doi": "https://doi.org/10.1167/jov.25.9.2165",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8364608287811279,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412116112",
+    "title": "Looking Back With Logos the Cat: Unsettling the Gaze in Multispecies Research",
+    "doi": "https://doi.org/10.1177/10778004251346740",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8325012922286987,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412378198",
+    "title": "Reinforcement Learning for Effective Few-Shot Ranking",
+    "doi": "https://doi.org/10.1145/3726302.3730243",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8138160705566406,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412451778",
+    "title": "Leisure in the new social paradigm",
+    "doi": "https://doi.org/10.1080/14927713.2025.2527047",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.767914354801178,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413010472",
+    "title": "CARD (Comfort Ask Relax Distract) and community pharmacy vaccinations: Evaluation of effectiveness outcomes from a cluster randomized trial",
+    "doi": "https://doi.org/10.1080/21645515.2025.2488064",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.9145945310592651,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413018854",
+    "title": "Development and refinement of an online CARD (Comfort Ask Relax Distract) course for organizations and providers delivering vaccinations and other needle procedures",
+    "doi": "https://doi.org/10.1080/21645515.2025.2491853",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.9142171144485474,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413010400",
+    "title": "Effect of CARD (Comfort-Ask-Relax-Distract) on acceptance of school-based vaccinations: A controlled before and after study",
+    "doi": "https://doi.org/10.1080/21645515.2025.2516180",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.9104008674621582,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413048744",
+    "title": "Using the CARD system for university-based pop-up vaccination clinics: A two-stage hybrid effectiveness-implementation study",
+    "doi": "https://doi.org/10.1080/21645515.2025.2509484",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.9045554399490356,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412710490",
+    "title": "Antimicrobial prophylaxis in dogs undergoing catheter-based cardiac interventions and pacemaker implantation – a survey",
+    "doi": "https://doi.org/10.1016/j.vetmic.2025.110656",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.8494014739990234,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412785361",
+    "title": "Comparing Pharmacokinetics of Meloxicam When Administered With a Needle‐Free Injection Device Versus Needle‐And‐Syringe in Piglets",
+    "doi": "https://doi.org/10.1111/jvp.70014",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.8169573545455933,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412711162",
+    "title": "Developing Quality Standards for Global Veterinary Education Program Assessments: Veterinary College Strategies to Meet Workforce Demands—Results of a Global Survey",
+    "doi": "https://doi.org/10.3138/jvme-2024-0164",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.7999993562698364,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413055224",
+    "title": "Effectiveness of art interventions on improving psychological outcomes and quality of life among survivors of breast cancer: a systematic review",
+    "doi": "https://doi.org/10.1007/s11764-025-01864-8",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.7741814851760864,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412798245",
+    "title": "Synergistic effect of thermoneutral housing and chronotherapeutic PD-1 blockade overcomes melanoma resistance",
+    "doi": "https://doi.org/10.1016/j.biopha.2025.118413",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.7631880044937134,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412488619",
+    "title": "Dexmedetomidine constant-rate infusion with additional partial intravenous anesthesia for a dog undergoing partial pancreatectomy for an insulinoma.",
+    "doi": null,
+    "cluster_id": 6,
+    "sim_to_centroid": 0.7620656490325928,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413140022",
+    "title": "Bridging the gap from school to practice: veterinary social work as the missing link.",
+    "doi": "https://doi.org/10.1002/vetr.5907",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.7549319267272949,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413078479",
+    "title": "Editorial introduction",
+    "doi": "https://doi.org/10.1080/14681994.2025.2534769",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.7396482229232788,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413084315",
+    "title": "Computational Design of Pt-M (M = Au, Ir, Pd, Rh, and Ru) Binary Alloys for Enhanced Ammonia Oxidation Electrocatalysis",
+    "doi": "https://doi.org/10.26434/chemrxiv-2025-33zzx",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.9180377721786499,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412520341",
+    "title": "A Density Functional Theory Investigation of Ammonia Oxidation Pathways on Nickel Oxide",
+    "doi": "https://doi.org/10.26434/chemrxiv-2025-hr16j-v2",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8953138589859009,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412487073",
+    "title": "Enhanced CO<sub>2</sub> Adsorption on CeO<sub>2</sub>/SBA‐15: The Key Role of Oxygen Vacancies",
+    "doi": "https://doi.org/10.1002/cplu.202500288",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8669852018356323,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412160642",
+    "title": "Design and Modification of TiO<sub>2</sub> Nanostructured Photocatalysts Using Scanning Electrochemical Microscopy-Based Techniques Coupled with Optical Spectroscopy",
+    "doi": "https://doi.org/10.1021/acselectrochem.5c00162",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8474744558334351,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412017784",
+    "title": "Advances in interlayer bonding in fused deposition modelling: a comprehensive review",
+    "doi": "https://doi.org/10.1080/17452759.2025.2522951",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8135538101196289,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413108713",
+    "title": "A targeted tiled amplicon sequencing approach for clade and subclade level differentiation of monkeypox virus from wastewater",
+    "doi": "https://doi.org/10.1038/s41598-025-13927-y",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8995275497436523,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412124417",
+    "title": "Spatiotemporal reconstruction of the North American A(H5N1) outbreak reveals successive lineage replacements by descendant reassortants",
+    "doi": "https://doi.org/10.1126/sciadv.adu4909",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8888081312179565,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412079938",
+    "title": "Optimization of the Primary Sludge Processing Method for Wastewater Genomic Surveillance of SARS-CoV-2",
+    "doi": "https://doi.org/10.1021/acsestwater.5c00142",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.877737283706665,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412695671",
+    "title": "Summary of taxonomy changes ratified by the International Committee on Taxonomy of Viruses (ICTV) from the Bacterial Viruses Subcommittee, 2025",
+    "doi": "https://doi.org/10.1099/jgv.0.002111",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8711790442466736,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412202151",
+    "title": "Molecular Detection of Various Non-Seasonal, Zoonotic Influenza Viruses Using BioFire FilmArray and GenXpert Diagnostic Platforms",
+    "doi": "https://doi.org/10.3390/v17070970",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8692993521690369,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412047390",
+    "title": "Navigating the Murky Waters: Variation in Low Abundance Sequence Filtration in Fish <scp>eDNA</scp> Metabarcoding",
+    "doi": "https://doi.org/10.1002/edn3.70106",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8632932901382446,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412653696",
+    "title": "Summary of taxonomy changes ratified by the International Committee on Taxonomy of Viruses (ICTV) from the Animal DNA Viruses and Retroviruses Subcommittee, 2025",
+    "doi": "https://doi.org/10.1099/jgv.0.002113",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8611716032028198,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413039839",
+    "title": "Corrigendum to ‘Passive sampling, a practical method for wastewater-based surveillance of SARS-CoV-2’ [Environ. Res., 204 Part-B (2022) 112058]",
+    "doi": "https://doi.org/10.1016/j.envres.2025.122503",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.849703848361969,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4411926298",
+    "title": "Whole-Genome Sequencing and Bioinformatics Analysis of ESBL- producing Klebsiella pneumoniae in a Ghanaian teaching hospital",
+    "doi": "https://doi.org/10.1186/s12866-025-04101-5",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8339520692825317,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4411959864",
+    "title": "Draft genome sequences of multiple <i>Salmonella enterica</i> serotypes isolated from eight different animals in Nigeria",
+    "doi": "https://doi.org/10.1128/mra.00204-25",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8232457637786865,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4411882235",
+    "title": "Biomonitoring 2.0 Refined: observing local change through metaphylogeography using a community-based eDNA metabarcoding monitoring network",
+    "doi": "https://doi.org/10.1186/s12915-025-02284-x",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8221338391304016,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412784893",
+    "title": "Overexpression of Interleukin-17 Modulates Responses to Marek’s Disease Virus Infection and Tumor Formation in Chickens",
+    "doi": "https://doi.org/10.3390/v17071009",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.7782142758369446,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412150357",
+    "title": "A Comparison of the Effects of Phycocyanin, γ-Aminobutyric Acid, Glycine Betaine, and Mycorrhizal Biostimulants of Non-Stressed Agrostis stolonifera",
+    "doi": "https://doi.org/10.3390/plants14142110",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8944191932678223,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4411919962",
+    "title": "Long-term treatments with microcystin-LR and diquat reveal their differences in the induction of oxidative stress responses and mitotic alterations in terms of stress recovery in Arabidopsis roots",
+    "doi": "https://doi.org/10.1016/j.envpol.2025.126748",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8923383951187134,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412705293",
+    "title": "The effect of Fusarium graminearum 3-ADON and 15-ADON isolates, on Fusarium head blight symptoms, Fusarium damaged kernels and mycotoxins production, in inoculated and field grown winter wheat",
+    "doi": "https://doi.org/10.1139/cjps-2025-0032",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8774480223655701,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412831823",
+    "title": "Neonicotinoid and atrazine content in forage sources available to honey bees found near corn field margins collected around and after neonicotinoid-treated seed planting in southwestern Ontario, Canada.",
+    "doi": "https://doi.org/10.1139/cjps-2025-0006",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8707951307296753,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413001441",
+    "title": "Benzotriazole UV-stabilizer exposure in ring-billed gulls from an urban, freshwater harbour in Lake Ontario, Canada: evaluating contaminant bioaccumulation and potential health impacts",
+    "doi": "https://doi.org/10.1016/j.envpol.2025.126945",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8686858415603638,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412400504",
+    "title": "Sensitivity of Mayfly <i>Neocloeon triangulifer</i> to a Reference Toxicant Is Significantly Impacted by the Age of the Diatom Feed Species <i>Navicula pelliculosa</i>",
+    "doi": "https://doi.org/10.1021/acs.est.5c04173",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8611115217208862,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412570008",
+    "title": "Efficacy and Safety of an Oxalic Acid and Glycerin Formulation for Varroa destructor Control in Honey Bee Colonies During Summer in a Northern Climate",
+    "doi": "https://doi.org/10.3390/pathogens14080724",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8547762036323547,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412070575",
+    "title": "Flowering and Morphology Responses of Greenhouse Ornamentals to End-of-Day Blue-Dominant Lighting with Different Phytochrome Photostationary States",
+    "doi": "https://doi.org/10.3390/agronomy15071649",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8436955213546753,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413138661",
+    "title": "Genetic improvement of FHB and DON resistance by combining the Fhb1 gene with additional resistance QTL in winter wheat population.",
+    "doi": "https://doi.org/10.1002/tpg2.70084",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.841863751411438,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412940045",
+    "title": "Development of molecular diagnostic methods to distinguish acerola species for quality assurance of food, dietary supplements and natural health products",
+    "doi": "https://doi.org/10.1038/s41598-025-12408-6",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8407571911811829,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413105410",
+    "title": "A “berry” small inclusion: Forty types of commercial dog and cat kibble with added blueberries provide low levels of quercetin, free phenolics, and alkali-labile phenolics",
+    "doi": "https://doi.org/10.1093/jas/skaf258",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8363380432128906,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413075060",
+    "title": "Application of a SYBR green qPCR assay for <i>Ilyonectria radicicola</i> (Cabral) in ginseng garden soil",
+    "doi": "https://doi.org/10.1080/07060661.2025.2523435",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8331874012947083,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412998489",
+    "title": "Enhancing Papaya Shelf‐Life With Upcycled Pea Starch–Neem Oil Polymeric Nanoparticles Synthesized via a Novel Rapid Spray Nanoprecipitation Technique",
+    "doi": "https://doi.org/10.1002/pat.70297",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8280524015426636,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412790506",
+    "title": "Ancient hybridization underlies tuberization and radiation of the potato lineage",
+    "doi": "https://doi.org/10.1016/j.cell.2025.06.034",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8126469850540161,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412557434",
+    "title": "Breaking down biofilms across critical priority fungal pathogens: proteomics and computational innovation for mechanistic insights and new target discovery",
+    "doi": "https://doi.org/10.1128/mbio.02303-24",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8865150809288025,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412465187",
+    "title": "Insights into the prevalence of Pseudomonadota and yeasts on milking system surface biofilms",
+    "doi": "https://doi.org/10.3168/jds.2024-26016",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8775147199630737,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412072168",
+    "title": "Purification and characterization of a novel antibacterial peptide against Clostridium perfringens",
+    "doi": "https://doi.org/10.1099/mic.0.001573",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8692037463188171,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413106931",
+    "title": "A hypovirulence-associated capsidless bi-segmented ssRNA mycovirus enhances melanin and microsclerotial production in a vascular phytopathogenic fungus",
+    "doi": "https://doi.org/10.1371/journal.ppat.1013348",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8551870584487915,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412420044",
+    "title": "Curcumin as Bioactive Agent in Active and Intelligent Food Packaging Systems: A Comprehensive Review",
+    "doi": "https://doi.org/10.1111/1541-4337.70228",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8416129350662231,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412624908",
+    "title": "Genome Mining and Heterologous Expression-Guided Discovery of Mangicol Sesterterpenoids with Antimicrobial and Antineuroinflammatory Activities",
+    "doi": "https://doi.org/10.1021/acs.jafc.5c04187",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8411684036254883,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413104788",
+    "title": "Spectrum of clinically significant melanized fungi in NIH hospitalized patients and their antifungal susceptibility profiles",
+    "doi": "https://doi.org/10.1093/mmy/myaf072",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8401185274124146,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412653785",
+    "title": "Bitter Taste Receptors in Bacterial Infections and Innate Immunity",
+    "doi": "https://doi.org/10.1002/iid3.70232",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8396517634391785,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412565230",
+    "title": "Exploring splice variants in milk leukocytes of dairy cows with subclinical intramammary infection due to Prototheca spp. and Streptococcus agalactiae",
+    "doi": "https://doi.org/10.3168/jds.2025-26508",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8324031829833984,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412362835",
+    "title": "Harnessing adiponectin for sepsis: current knowledge, clinical insights and future therapies",
+    "doi": "https://doi.org/10.1186/s13054-025-05516-2",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.816135585308075,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412168786",
+    "title": "Through the looking glass: approaches to visualizing the life cycles of Bdellovibrio and like organisms",
+    "doi": "https://doi.org/10.1139/cjm-2025-0046",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.812709629535675,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413101935",
+    "title": "Antimicrobial use in animals: When more might be better.",
+    "doi": null,
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8104321956634521,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413122333",
+    "title": "Dendritic Cells and Their Crucial Role in Modulating Innate Lymphoid Cells for Treating and Preventing Infectious Diseases",
+    "doi": "https://doi.org/10.3390/pathogens14080794",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.7579916715621948,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412957727",
+    "title": "Early-life vitamin A supplementation modulates the skeletal muscle transcriptome and intramuscular fat deposition in feedlot-finished beef steers",
+    "doi": "https://doi.org/10.1093/jas/skaf248",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.904310941696167,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412089443",
+    "title": "Comparing Soy and Milk Protein Regulation of Hepatic Omega‐3 Fatty Acid Biosynthesis",
+    "doi": "https://doi.org/10.1096/fj.202501283r",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8982216119766235,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412785588",
+    "title": "Postmortem muscle proteomics reveals breed specific responses to environmental enrichment and broiler meat quality",
+    "doi": "https://doi.org/10.1038/s41538-025-00530-8",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8858069777488708,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412079643",
+    "title": "16S rRNA gene amplicon sequencing for microbiota analysis of rumen fluid, feces, and milk of Sarda sheep fed different content of alfalfa hay (Medicago sativa)",
+    "doi": "https://doi.org/10.3168/jds.2024-26172",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8782318234443665,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412522211",
+    "title": "Skeletal muscle lncRNA profile associated with fatty acids in Nellore beef cattle",
+    "doi": "https://doi.org/10.1038/s41598-025-11179-4",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8743940591812134,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412487547",
+    "title": "Folic Acid Reduces Insulin Resistance in Mice With Diet‐Induced Obesity by Altering One‐Carbon Metabolism and DNA Methylation Patterns of Hypothalamic and Hepatic Insulin Receptor Gene",
+    "doi": "https://doi.org/10.1002/mnfr.70181",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8657737374305725,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412406944",
+    "title": "Breast muscle myopathies: twists and turns in modern broilers",
+    "doi": "https://doi.org/10.1080/03079457.2025.2533454",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8605668544769287,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412690295",
+    "title": "Impact of Capsaicinoid Supplementation in Health and Performance of Broiler Chickens Subjected to Lipopolysaccharide Challenge",
+    "doi": "https://doi.org/10.3390/ani15152203",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8604477643966675,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412465213",
+    "title": "Effects of supplementary selenium source on antioxidant status, inflammatory signaling, and gene expression of immune cells during endotoxin challenge in lactating Holstein cows",
+    "doi": "https://doi.org/10.3168/jds.2025-26425",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8557828664779663,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413133060",
+    "title": "Integrating Cartilage Explant Culture with Simulated Digestion and Hepatic Biotransformation Refines In Vitro Screening of Joint Care Nutraceuticals",
+    "doi": "https://doi.org/10.3390/mps8040091",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8553871512413025,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413117173",
+    "title": "Natural Product-Induced Modulation of Androstenone Metabolism in Porcine Hepatocytes.",
+    "doi": "https://doi.org/10.3390/ani15152199",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.846331000328064,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412605996",
+    "title": "RNA-seq evaluation of equine alveolar macrophages and monocyte-derived macrophages exposed to an inflammatory stimulus",
+    "doi": "https://doi.org/10.21203/rs.3.rs-7122919/v1",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.845962643623352,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412488295",
+    "title": "The elasmobranch digestive system – current status and future directions",
+    "doi": "https://doi.org/10.1242/jeb.249776",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.83380526304245,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412089003",
+    "title": "Selected Pathway Analyses to Gain Mechanistic Insights into the Pathogenesis of Feline Hypertrophic Cardiomyopathy",
+    "doi": "https://doi.org/10.3390/ijms26136497",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8296522498130798,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412785597",
+    "title": "Salivary anti-CarLA IgA levels in ewes and their offspring and association with gastrointestinal parasitism and offspring performance in Ontario sheep flocks.",
+    "doi": "https://doi.org/10.1016/j.vetpar.2025.110549",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8260232210159302,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412456625",
+    "title": "Integrated MicroRNA–mRNA Sequencing Analysis Identifies Regulators and Networks Involved in Feline Hypertrophic Cardiomyopathy",
+    "doi": "https://doi.org/10.3390/ijms26146764",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8240419626235962,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412523170",
+    "title": "Perspective: Framework for Developing Prediction Equations for Estimating the Absorption and Bioavailability of Nutrients from Foods",
+    "doi": "https://doi.org/10.1016/j.advnut.2025.100481",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8223782777786255,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413207755",
+    "title": "Functional Compound Bioaccessibility and Microbial Viability in Green and Black Tea Kombucha During Simulated Digestion",
+    "doi": "https://doi.org/10.3390/foods14162770",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8191853761672974,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412495013",
+    "title": "Recent Advances in Prevention and Control Strategies for Bovine Respiratory Disease",
+    "doi": "https://doi.org/10.54254/2753-8818/2025.au24901",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8133882284164429,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412902150",
+    "title": "Unravelling NASH and insulin resistance: Insights from the department of human health and nutritional sciences",
+    "doi": "https://doi.org/10.56367/oag-047-11859",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.7941778898239136,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412514694",
+    "title": "Genotype by environment interaction for productive and reproductive traits in beef cattle using imputed whole genome sequence",
+    "doi": "https://doi.org/10.1007/s13353-025-00987-z",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.7892865538597107,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412012121",
+    "title": "Chitosan/Platelet‐Rich Plasma Implants in an Ovine Arthroscopic Model of Meniscus Repair",
+    "doi": "https://doi.org/10.1002/jor.70014",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.785327136516571,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412761000",
+    "title": "Diagnosis of degenerative myelopathy in a Boston terrier–French bulldog mixed breed",
+    "doi": "https://doi.org/10.1111/jsap.70010",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.7813599705696106,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4411871429",
+    "title": "Orally consumed cannabinoids: the effect of carrier oil on acute tissue distribution in male C57BL/6 mice",
+    "doi": "https://doi.org/10.1186/s42238-025-00298-4",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.7695930004119873,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412710851",
+    "title": "Valorization of peanut shell polyphenols as natural antioxidants for preserving silver carp mince during refrigerated storage",
+    "doi": "https://doi.org/10.1016/j.foodchem.2025.145762",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.7446157932281494,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412137301",
+    "title": "Niche complementarity stabilizes grassland biomass during drought and eutrophication",
+    "doi": "https://doi.org/10.1002/oik.11153",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.8974877595901489,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412905815",
+    "title": "Ecosystem services on restored marginal farmland",
+    "doi": "https://doi.org/10.1002/fee.2866",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.894993782043457,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412173843",
+    "title": "Global Change Asymmetrically Rewires Ecosystems",
+    "doi": "https://doi.org/10.1111/ele.70174",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.8863316774368286,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412620704",
+    "title": "Effective Cover Crop Species and Early Establishment Techniques for Reducing Winter Erosion in Muck Soil of the Holland Marsh",
+    "doi": "https://doi.org/10.1139/cjps-2025-0046",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.8784339427947998,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412505088",
+    "title": "Conservation challenges and opportunities for native apple (<i>Malus</i>) species in Canada",
+    "doi": "https://doi.org/10.1002/ppp3.70067",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.8652992248535156,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412798303",
+    "title": "Potential of 4R Nutrient Stewardship to reduce phosphorus losses from cultivated organic soils",
+    "doi": "https://doi.org/10.1139/er-2025-0058",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.8392772674560547,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412196942",
+    "title": "Global Governance, Economic Sanctions and Agricultural Trade in a Fragmenting World Economy",
+    "doi": "https://doi.org/10.1111/twec.13730",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.8215479850769043,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412552423",
+    "title": "Unrefined plant raw materials are key to nutritious food",
+    "doi": "https://doi.org/10.1038/s43016-025-01195-y",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.7983178496360779,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412902045",
+    "title": "Bean breeding at the University of Guelph: Past and present",
+    "doi": "https://doi.org/10.56367/oag-047-12094",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.7891393303871155,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412522823",
+    "title": "Efficacy of government incentivized residential building retrofits in Canada",
+    "doi": "https://doi.org/10.1038/s41598-025-10264-y",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.7847205400466919,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412598902",
+    "title": "Optimal conservation of migratory monarch butterflies requires immediate international coordination",
+    "doi": "https://doi.org/10.1016/j.cub.2025.06.068",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.7680507302284241,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412154037",
+    "title": "Diversity of the Ixodes ricinus Microbiome Across Belgian Ecoregions and Its Association with Pathogen and Symbiont Presence",
+    "doi": "https://doi.org/10.1007/s00248-025-02571-8",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.9114406704902649,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412951091",
+    "title": "Social Microbial Transmission in a Solitary Mammal",
+    "doi": "https://doi.org/10.1111/ele.70186",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8943659067153931,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412582133",
+    "title": "Anaplasma marginale modulates the microbiota of Rhipicephalus microplus organs involved in pathogen transmission",
+    "doi": "https://doi.org/10.1016/j.ttbdis.2025.102522",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8813542723655701,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413111607",
+    "title": "Power Through or Keep Looking? Comparing Species‐Area Relationships of Habitat Fragments and Their Drivers in Different Ecoregions",
+    "doi": "https://doi.org/10.1002/ece3.71928",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8742485046386719,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412001354",
+    "title": "Social structuring of the gut microbiome in communally roosting bats",
+    "doi": "https://doi.org/10.1371/journal.pone.0325710",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8675620555877686,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412019143",
+    "title": "Are fat bankers losing their liquid assets? Changes in lipid accumulation for a nectar‐feeding migratory moth",
+    "doi": "https://doi.org/10.1111/een.13466",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8675363063812256,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412470338",
+    "title": "Current and future ecological niche of <i>Dermacentor similis</i> Lado (Acari: Ixodidae) in western North America",
+    "doi": "https://doi.org/10.1093/jme/tjaf087",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8556795120239258,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412409874",
+    "title": "Assessing pathogen risk for wild bumblebees (<i>Bombus</i> spp., Apidae) in Canada",
+    "doi": "https://doi.org/10.1111/csp2.70099",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8477811813354492,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413113830",
+    "title": "Coexistence in Sympatry With Gene Flow Before Speciation Has Completed",
+    "doi": "https://doi.org/10.1111/mec.70079",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.84673011302948,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412732541",
+    "title": "Impact of Climate Change on the Distributional Potential of the Endemic Species <i>Tamarix dubia</i> Bunge and Conservation Implications for the Irano‐Turanian Region",
+    "doi": "https://doi.org/10.1002/ece3.71877",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8448590040206909,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4411887009",
+    "title": "Yanomami skin microbiome complexity challenges prevailing concepts of healthy skin",
+    "doi": "https://doi.org/10.1038/s41467-025-60131-7",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8422654271125793,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412039994",
+    "title": "Population Estimation and Demographic Characteristics of Free-Roaming Dogs on Kasetsart University Kamphaeng Saen Campus, Thailand: Implications for Rabies Control",
+    "doi": "https://doi.org/10.3390/biology14070808",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8379867076873779,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412523917",
+    "title": "Geographic variation in the microbiome of Varroa destructor in the neighbouring countries Slovakia and Czechia",
+    "doi": "https://doi.org/10.1007/s10123-025-00699-8",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8344254493713379,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412474498",
+    "title": "An investigation of the role of wild rats in transmitting <i>Leptospira</i> spp. to stray cats and dogs in Malaysia",
+    "doi": "https://doi.org/10.1177/10406387251355254",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8304823637008667,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412438499",
+    "title": "Avian seed dispersal function is age dependent",
+    "doi": "https://doi.org/10.1098/rspb.2025.0680",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8269919157028198,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413140938",
+    "title": "Anti-microbiota vaccine induces lysine-mediated modulation of tick immunity affecting Borrelia colonization.",
+    "doi": "https://doi.org/10.1093/femsec/fiaf082",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8206578493118286,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412202543",
+    "title": "Coronaviruses in wild rodent and eulipotyphlan small mammals: a review of diversity, ecological implications and surveillance considerations",
+    "doi": "https://doi.org/10.1099/jgv.0.002130",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8121289014816284,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412151138",
+    "title": "Human contributions to global soundscapes are less predictable than the acoustic rhythms of wildlife",
+    "doi": "https://doi.org/10.1038/s41559-025-02786-5",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8042405843734741,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413019777",
+    "title": "Respiratory nematodiasis (Nematoda, Metastrongyloidea) is associated with marked type 2 inflammation in a marine mammal.",
+    "doi": "https://doi.org/10.1016/j.dci.2025.105437",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.7791219353675842,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412487981",
+    "title": "Human infections with the raccoon roundworm, ",
+    "doi": null,
+    "cluster_id": 13,
+    "sim_to_centroid": 0.7724002599716187,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412634736",
+    "title": "A new species of Streptocephalus Baird, 1852 (Crustacea, Branchiopoda) from Peninsular India",
+    "doi": "https://doi.org/10.3897/zse.101.139357",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.7601154446601868,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412627322",
+    "title": "Nonenzymatic Primer Extension Experiments in the Presence of Coacervates",
+    "doi": "https://doi.org/10.1002/cpz1.70181",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8788438439369202,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413044573",
+    "title": "Derivatization of Solid Supports Using a Carbamate‐Linked Tether Containing a Disulfide Functional Group",
+    "doi": "https://doi.org/10.1002/cpz1.70174",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8746029734611511,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412100626",
+    "title": "Novel disulfide-containing linkages of pyrimidine nucleobases to solid-supports: A versatile platform for oligonucleotide conjugation",
+    "doi": "https://doi.org/10.26434/chemrxiv-2025-02x2t",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8711456060409546,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412035340",
+    "title": "An Aqueous‐Compatible On‐Column Approach for the Conjugation of Nucleic Acids Using Amino Modifiers",
+    "doi": "https://doi.org/10.1002/cpz1.70169",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8584430813789368,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413111729",
+    "title": "The jojoba lipid droplet protein LDAP1 facilitates the packaging of wax esters into lipid dropletsy",
+    "doi": "https://doi.org/10.1093/plcell/koaf115",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8584041595458984,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413011888",
+    "title": "Hydration Properties of Charge-Modified Phytoglycogen Nanoparticles",
+    "doi": "https://doi.org/10.1021/acs.jpcb.5c03458",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8328635692596436,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4411919093",
+    "title": "Sal is a proteobacterial bile acid aldolase that repurposes key thiolase catalytic residues for retroaldol cleavage of C5 steroid side chains",
+    "doi": "https://doi.org/10.1016/j.jbc.2025.110439",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8322925567626953,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413113097",
+    "title": "Small molecule dysregulation of ClpP activity via bidirectional allosteric pathways",
+    "doi": "https://doi.org/10.1016/j.str.2025.07.013",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8252824544906616,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412904212",
+    "title": "Erratum: “Perspective: Margarine as an emulsion-filled colloidal oleogel” [Phys. Fluids <b>37</b>, 011302 (2025)]",
+    "doi": "https://doi.org/10.1063/5.0278710",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8212087154388428,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413001500",
+    "title": "Two phase coexistence in ternary mixtures of saturated and polyunsaturated phosphatidylcholines with cholesterol",
+    "doi": "https://doi.org/10.1016/j.bbamem.2025.184436",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8203417062759399,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413110330",
+    "title": "Photobasicity-Triggered Twisted Intramolecular Charge Transfer of Push–Pull Chromophores",
+    "doi": "https://doi.org/10.1021/acs.jpcb.5c03367",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8169864416122437,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412465522",
+    "title": "G2 Helix as the Plastic Region Modulating Diastereoselectivity of Cyclization in Fungal Bifunctional Sesterterpene Synthases",
+    "doi": "https://doi.org/10.1021/acscatal.5c03947",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8118129968643188,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412040233",
+    "title": "N,N,N′-Tris(trimethylsilyl)-2-pyridinecarboximidamide",
+    "doi": "https://doi.org/10.3390/m2031",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8043607473373413,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413117729",
+    "title": "Dual-Stimuli Responsive and Sustainable PLA/APHA/TPU Blend for 4D Printing.",
+    "doi": "https://doi.org/10.1002/marc.202500414",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7998789548873901,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412496673",
+    "title": "Evaluating the effect of plant protein functionalities on the performance of high-protein plant-based cheese",
+    "doi": "https://doi.org/10.1016/j.foodchem.2025.145553",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7821707725524902,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412523425",
+    "title": "Mitochondrial-targeted plastoquinone therapy prevents early onset muscle weakness that occurs before atrophy during ovarian cancer.",
+    "doi": "https://doi.org/10.1016/j.molmet.2025.102211",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.780170202255249,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412455950",
+    "title": "Effect of electron beam irradiation pretreatment on the structure, physicochemical properties, and digestibility of starch-tannic acid complexes",
+    "doi": "https://doi.org/10.1016/j.carbpol.2025.124037",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7712042927742004,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412708368",
+    "title": "Pharmacological inhibition of Peroxisome Proliferation-Activated Receptor Delta (PPARδ) imparts selective leukemia cell death",
+    "doi": "https://doi.org/10.1186/s40170-025-00402-5",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7577176690101624,
+    "quality": "strong"
+  }
+]

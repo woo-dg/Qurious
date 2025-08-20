@@ -1,0 +1,92 @@
+[
+  {
+    "cluster_id": 11,
+    "label": "Nutritional Physiology",
+    "size": 25,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 13,
+    "label": "Microbial Ecology",
+    "size": 21,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 0,
+    "label": "Animal Science",
+    "size": 20,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 14,
+    "label": "Biochemistry",
+    "size": 18,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 9,
+    "label": "Plant Biology",
+    "size": 14,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 10,
+    "label": "Microbial Pathogenesis",
+    "size": 13,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 3,
+    "label": "Management Research",
+    "size": 13,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 6,
+    "label": "Vaccination Strategies",
+    "size": 12,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 8,
+    "label": "Genomic Surveillance",
+    "size": 12,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 1,
+    "label": "Environmental Science",
+    "size": 11,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 12,
+    "label": "Ecosystem Management",
+    "size": 11,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 4,
+    "label": "Public Health",
+    "size": 10,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 5,
+    "label": "Visual Attention",
+    "size": 8,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 2,
+    "label": "Fungal Resistance",
+    "size": 7,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 7,
+    "label": "Catalysis Design",
+    "size": 5,
+    "weak_count": 0
+  }
+]

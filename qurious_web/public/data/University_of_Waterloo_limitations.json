@@ -1,0 +1,2119 @@
+{
+  "https://openalex.org/W4413137409": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://pubs.rsc.org/en/content/articlepdf/2025/ob/d5ob00948k",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Unclear reasons for decreased binding affinity with longer chain lengths.",
+      "Limited understanding of the structural characteristics affecting diol binding.",
+      "Lack of comprehensive investigation into antifungal activity and structure-activity relationships."
+    ],
+    "quotes": [
+      "it is unclear why the binding decreases with increasing chain length",
+      "provide the first insights into benzazaborole-diol binding recognition"
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4413137510": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202509060",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413140314": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-025-23723-y.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Limited representation of male perspectives in the study.",
+      "Data collected at different time points may not reflect overall experiences.",
+      "Small sample sizes in focus groups could impact findings' robustness.",
+      "Predominance of caregivers' perspectives over those with lived experiences.",
+      "Potential exclusion of diverse perspectives due to recruitment methods."
+    ],
+    "quotes": [
+      "we may have excluded important experiences of men should they differ from those described in this article.",
+      "it is possible that certain reported challenges and recommendations were more salient at some points of the pandemic than others.",
+      "the two focus groups only contained five individuals each, which may impact the robustness of those findings."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4413116458": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://link.springer.com/article/10.3758/s13423-025-02739-w",
+    "resolved_via": "doi_html",
+    "bullets": [
+      "Study limited to online data collection, which may affect generalizability.",
+      "Participants' perceptions of attentiveness may not reflect real-life interactions.",
+      "Subtle facial cues may be difficult to notice in everyday situations.",
+      "The study does not account for cultural differences in facial expression interpretation."
+    ],
+    "quotes": [
+      "This exclusion rate seemed large, though not unusually so for online data collection on such populations.",
+      "Noticing such subtle differences in everyday life might require a situation wherein someone is continually looking toward you while initially not paying attention."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4413116820": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://ijbnpa.biomedcentral.com/counter/pdf/10.1186/s12966-025-01807-7.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Study focused only on middle-aged and older adults, limiting generalizability to younger populations.",
+      "Findings may not be applicable to diverse cultural contexts outside Canada.",
+      "Limited longitudinal studies exist to compare findings on social ties and diet quality.",
+      "Research lacks temporality between exposures and outcomes, affecting causal interpretations.",
+      "Previous studies often combine lone-living with other social ties, obscuring unique influences."
+    ],
+    "quotes": [
+      "Only a handful of longitudinal studies exist to compare our findings on specific alterations in close social ties and diet quality.",
+      "Existing prospective evidence only considers marital transitions, with no prior nutrition research on the dietary effects of cohabitation transitions."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4413112431": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.acs.org/doi/10.1021/acs.jcim.5c00614",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413176936": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/jfb.70188",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413182851": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.ebi.ac.uk/biostudies/studies/S-BIAD2232",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413111525": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.acs.org/doi/10.1021/acs.jproteome.5c00297",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413111775": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0328901&type=printable",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Participants were not required to provide documentation of a dementia diagnosis or complete a cognitive assessment.",
+      "Feasibility may be limited to individuals with higher levels of technological proficiency.",
+      "Information bias is possible due to self-reported assessments.",
+      "The study population was predominantly white, limiting generalizability to diverse ethno-racial groups.",
+      "Recruitment challenges were exacerbated by COVID-related public health restrictions."
+    ],
+    "quotes": [
+      "Receiving a dementia diagnosis can be challenging in Canada due to wait times, location or culturally appropriate screening.",
+      "Feasibility of the virtual DELIGHT program may be limited to individuals with higher levels of technological proficiency.",
+      "Information bias is possible, as the majority of the assessments were self-reported."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4413127400": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.biorxiv.org/lookup/doi/10.1101/2025.08.12.669938",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413128915": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/ev.70009",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413139003": {
+    "status": "parse_failed",
+    "status_reason": "empty_html_text",
+    "source_url": "https://linkinghub.elsevier.com/retrieve/pii/S2215036625002172",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413185884": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://cdnsciencepub.com/doi/10.1139/cjce-2025-0187",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413185958": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://journals.sagepub.com/doi/10.1177/00220027251363229",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413186903": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://cdnsciencepub.com/doi/10.1139/cjce-2025-0069",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413187966": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.tandfonline.com/doi/pdf/10.1080/09669582.2025.2543953",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413193203": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/14626268.2025.2543452",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413106875": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://journals.physiology.org/doi/10.1152/japplphysiol.00309.2025",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413215411": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://journals.lww.com/10.4103/ija.ija_448_25",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413223023": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.mdpi.com/2411-5134/10/4/70/pdf",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413094084": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/jor.70043",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413101440": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.acs.org/doi/10.1021/acsami.5c07512",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413102211": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.spiedigitallibrary.org/journals/neurophotonics/volume-12/issue-03/035004/Combined-optical-coherence-tomography-and-electroretinography-system-for-imaging-neurovascular/10.1117/1.NPh.12.3.035004.full",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413186893": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://academic.oup.com/innovateage/advance-article-pdf/doi/10.1093/geroni/igaf088/63996034/igaf088.pdf",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413051691": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.jsad.com/doi/10.15288/jsad.25-00034",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413051864": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://journals.asm.org/doi/pdf/10.1128/msphere.00313-25",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413055133": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.asha.org/doi/10.1044/2025_JSLHR-24-00784",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413120817": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://ieeexplore.ieee.org/document/11121448/",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413123322": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.mdpi.com/2306-5354/12/8/855/pdf",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413055224": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://link.springer.com/article/10.1007/s11764-025-01864-8",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413051142": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://www.nature.com/articles/s41598-025-12893-9.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Study focused solely on Na+ channels, limiting exploration of other potential mechanisms for Li+ isotope differentiation.",
+      "Experimental conditions did not reflect physiological environments, as experiments were conducted at room temperature.",
+      "Limited to two neuronal models (SH-SY5Y and iPSC-derived cortical neurons), which may not represent the full diversity of Na+ channel isoforms in human tissues.",
+      "Assumed Na+ channels as primary conductors of Li+, potentially oversimplifying the complexity of Li+ transport in cellular environments.",
+      "Current recordings were restricted to high positive voltages to preserve cell integrity, which may affect the results."
+    ],
+    "quotes": [
+      "Our study’s primary goal was to determine whether Na+ channels alone can explain the large differences observed in Li+ isotope effects.",
+      "These conditions, while useful for isolating effects, do not reflect physiological environments.",
+      "While these models provide complementary perspectives, they do not fully represent the diversity of Na+ channel isoforms in human tissues."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4413132918": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://epubs.siam.org/doi/10.1137/23M1549353",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413134662": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://link.springer.com/article/10.1007/s11579-025-00398-y",
+    "resolved_via": "doi_html",
+    "bullets": [
+      "The study focuses solely on first-order stochastic dominance, potentially overlooking other forms of stochastic dominance.",
+      "The axioms of nondegeneracy and lower semicontinuity may limit the applicability of the results to broader contexts.",
+      "The characterization of \u0003B2-quantiles is not explored in depth, leaving a gap in understanding their practical implications."
+    ],
+    "quotes": [],
+    "confidence": 0.7
+  },
+  "https://openalex.org/W4413141846": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://essopenarchive.org/users/839139/articles/1229918-twenty-years-of-global-stratospheric-fluorine-inventories-from-atmospheric-chemistry-experiment-fourier-transform-spectrometer-ace-fts-measurements?commit=144763ba5ee5175764d961d5aee29464dd8a3320",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413055839": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://tobaccocontrol.bmj.com/content/early/2025/08/07/tc-2024-059245",
+    "resolved_via": "doi_html",
+    "bullets": [
+      "Limited data on e-liquid consumption among youth in specific regions.",
+      "Study focused only on youth aged 16-19, excluding other age groups.",
+      "Potential biases in self-reported data on e-liquid consumption.",
+      "Lack of longitudinal data to assess changes in consumption over time.",
+      "No exploration of the impact of socio-economic factors on vaping behavior."
+    ],
+    "quotes": [],
+    "confidence": 0.8
+  },
+  "https://openalex.org/W4413197014": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://ebooks.iospress.nl/doi/10.3233/PMST250053",
+    "resolved_via": "doi_html",
+    "bullets": [
+      "The study focuses solely on the Greek maritime sector, limiting generalizability to other regions.",
+      "The model does not account for potential socio-economic impacts of transitioning to cleaner fuels.",
+      "The scenarios tested may not encompass all possible future fuel technologies or market conditions.",
+      "The reliance on a linear optimization model may oversimplify complex decision-making processes in the industry."
+    ],
+    "quotes": [],
+    "confidence": 0.8
+  },
+  "https://openalex.org/W4413036475": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2024.0091",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413019256": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/24709360.2025.2539589",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413024596": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/tqem.70116",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413025677": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/01436597.2025.2532006",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413028105": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://www.ewadirect.com/proceedings/tns/article/view/25836/pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Did not examine long-term mental health trajectories post-pandemic.",
+      "Lacked analysis of intersectionality factors such as race and socioeconomic status.",
+      "Did not consider pre-existing mental health conditions in the study population.",
+      "Relied on existing literature and surveys without original data collection."
+    ],
+    "quotes": [
+      "this study has limitations",
+      "Future research should explore these dimensions"
+    ],
+    "confidence": 0.9
+  },
+  "https://openalex.org/W4413001489": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://www.ewadirect.com/proceedings/aemps/article/view/25710/pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "The study primarily focuses on Stelco Inc., limiting generalizability to the entire Canadian steel industry.",
+      "Challenges such as high initial investment costs and insufficient infrastructure for low-carbon technologies are not fully explored.",
+      "The impact of global carbon pricing policy variations on Stelco's competitiveness is acknowledged but not quantitatively assessed.",
+      "The research does not address the long-term sustainability of the proposed green technologies beyond initial implementation."
+    ],
+    "quotes": [
+      "Stelco faces risks from its long blast furnace equipment renewal cycle, slow capital recovery, and technology conversion challenges.",
+      "Global carbon pricing policy variations and non-uniform green trade standards introduce uncertainty, potentially impacting investment returns and international market expansion."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4413014932": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://dl.acm.org/doi/pdf/10.1145/3676642.3736119",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413104798": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/staf1293/63969240/staf1293.pdf",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413013521": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://www.nature.com/articles/s41598-025-14711-8.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Limited knowledge regarding seasonal changes in prey biomass affects growth predictions.",
+      "The study did not fully address impacts within smaller river reaches or extreme events.",
+      "Indigenous community input represents a subset of knowledge, potentially overlooking broader perspectives.",
+      "Bioenergetics models used may not fully capture the physiological relationships of Dolly Varden.",
+      "Model simulations were based on generalized data, which may not accurately reflect local conditions."
+    ],
+    "quotes": [
+      "the longevity of this benefit is unknown due to limited knowledge regarding seasonal changes in prey biomass",
+      "we did not fully address impacts within smaller river reaches, extreme events, or outcomes likely to occur in mid-century",
+      "we consider the input for the modeling to represent the knowledge and priorities of a subset of communities"
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412951861": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/opo.13565",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412951990": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202506835",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412955022": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://www.nature.com/articles/s41598-025-13845-z.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Limited sample size in the study with only 53 breast tumor samples analyzed.",
+      "No FDA-approved drugs specifically targeting KDM5B for breast cancer management.",
+      "Patient-derived organoid data suggest variability in treatment sensitivity among patients.",
+      "Need for further validation of findings in animal models or patient-derived xenografts.",
+      "Larger patient cohorts required to establish significant correlations with clinical outcomes."
+    ],
+    "quotes": [
+      "larger patient cohorts are required in our study to establish a significant statistical association with other clinical parameters.",
+      "our study provides foundational data, emphasizing the need for further investigations in animal models or patient-derived xenografts."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412977535": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.aip.org/jap/article/138/5/055706/3357690/Simplified-four-band-k-p-model-to-consider-k",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413029281": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/14927713.2025.2539689",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413029622": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://journals.sagepub.com/doi/pdf/10.1177/14744740251358282",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413030001": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/03461238.2025.2537925",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412957868": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.mdpi.com/2313-0105/11/8/298/pdf",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412974987": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://ascelibrary.org/doi/10.1061/NHREFO.NHENG-2207",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412989204": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://dl.acm.org/doi/pdf/10.1145/3747534",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412994076": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.70025",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412991519": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://assets.cureus.com/uploads/case_report/pdf/376071/20250807-245087-gze4tw.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Limited geographic focus on South and Central America, with insufficient data on other regions.",
+      "Lack of definitive histological confirmation for the taxonomy of the arthropod in the case study.",
+      "Insufficient exploration of the impact of rising global temperatures on the spread of myiasis.",
+      "No comprehensive analysis of the effectiveness of various larval extraction methods across different species."
+    ],
+    "quotes": [
+      "the arthropod's anatomical features were consistent with D. hominis",
+      "children are at higher risk, and the condition may provoke intense inflammatory reactions"
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4413014605": {
+    "status": "parse_failed",
+    "status_reason": "empty_html_text",
+    "source_url": "https://linkinghub.elsevier.com/retrieve/pii/S0141813025070849",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412949220": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/dar.70009",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412997397": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/02713683.2025.2542349",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412932992": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.acs.org/doi/10.1021/acssusresmgt.5c00136",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412948961": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202500791",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412887575": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/09640568.2025.2526614",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412931057": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/1472586X.2025.2537738",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412877066": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://dl.acm.org/doi/pdf/10.1145/3711896.3737435",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412877173": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://dl.acm.org/doi/10.1145/3711896.3737675",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412848153": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://academic.oup.com/bjc/advance-article/doi/10.1093/bjc/azaf073/8221209",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413041342": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.aip.org/pof/article/37/8/085140/3358031/Kolmogorov-Arnold-networks-for-turbulence",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413094648": {
+    "status": "parse_failed",
+    "status_reason": "empty_html_text",
+    "source_url": "https://linkinghub.elsevier.com/retrieve/pii/S0003450925001178",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413140648": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://doi.apa.org/doi/10.1037/ccp0000965",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413112405": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://journals.lww.com/10.1249/MSS.0000000000003829",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413182473": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://projecteuclid.org/journals/annals-of-applied-probability/volume-35/issue-4/Spectral-alignment-of-stochastic-gradient-descent-for-high-dimensional-classification/10.1214/25-AAP2187.full",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412993768": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025WR040021",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413099894": {
+    "status": "parse_failed",
+    "status_reason": "empty_html_text",
+    "source_url": "https://linkinghub.elsevier.com/retrieve/pii/S1742706125005999",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412950407": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/brb3.70726",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412957572": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.umbjournal.org/article/S0301-5629(25)00209-1/pdf",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412902572": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.mdpi.com/1420-3049/30/15/3228/pdf?version=1754040842",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413111888": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://royalsocietypublishing.org/doi/10.1098/rspb.2025.1355",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413115143": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://pubs.geoscienceworld.org/msa/elements/article-pdf/21/4/264/7326072/gselements-21-4-264.pdf",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413055804": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70466",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412823644": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/tie.70018",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412824980": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/02723638.2025.2531934",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412834440": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://cdnsciencepub.com/doi/10.1139/cjp-2025-0128",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412839845": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://journals.sagepub.com/doi/pdf/10.1177/07334648251363655",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412773643": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://assets-eu.researchsquare.com/files/rs-7153530/v1_covered_d3c38784-c614-4e0b-869c-585d79ff52f2.pdf?c=1753933476",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "ImmuneFold only predicts static structures of immune proteins, not accounting for conformational changes.",
+      "The model is limited by its training on monomeric proteins, hindering its ability to model large protein complexes.",
+      "Further efforts are needed to enhance antibody-antigen docking performance, especially for large antigens with unknown epitopes.",
+      "The dataset used for training may not fully represent the diversity of immune proteins, potentially affecting generalizability."
+    ],
+    "quotes": [
+      "ImmuneFold and other recent deep learning–based methods only predict static structures of immune proteins.",
+      "Simply fine-tuning ESMFold is insufficient for this task.",
+      "ESMFold and its underlying language model, ESM-2, are trained only on monomeric proteins."
+    ],
+    "confidence": 0.9
+  },
+  "https://openalex.org/W4412819436": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.mdpi.com/2073-4360/17/15/2103/pdf?version=1753954485",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412930240": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.mdpi.com/1996-1073/18/15/4058/pdf?version=1753949207",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412792735": {
+    "status": "parse_failed",
+    "status_reason": "empty_html_text",
+    "source_url": "https://linkinghub.elsevier.com/retrieve/pii/S0306460325002060",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412781087": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.acs.org/doi/10.1021/acs.analchem.5c03765",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412790859": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.acs.org/doi/10.1021/acs.langmuir.5c02704",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412791617": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/07352166.2025.2529915",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412794607": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.science.org/doi/10.1126/science.adq0174",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412798020": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JD042298",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412798303": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://cdnsciencepub.com/doi/10.1139/er-2025-0058",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412799089": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/26895269.2025.2537875",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412806939": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://archpublichealth.biomedcentral.com/counter/pdf/10.1186/s13690-025-01637-w.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Study relied on secondary data, limiting the variables analyzed.",
+      "Cross-sectional design prevents causal inferences from the findings.",
+      "Key factors like dietary intake and genetic conditions were not included.",
+      "Malaria's impact on anemia rates may be underestimated due to data limitations.",
+      "Regional differences in anemia prevalence may not be fully captured."
+    ],
+    "quotes": [
+      "the interpretation should be limited to the variables that were used in this study.",
+      "the cross-sectional nature of the study does not allow for causality to be inferred from the findings.",
+      "not including it may lead to an underestimation of its impact on anemia rates."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412765880": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Lack of real-world validation for the proposed AI-driven system.",
+      "Need for comparative analysis with existing epidemic intelligence platforms.",
+      "Insufficient stakeholder engagement and policy harmonization for global scaling.",
+      "Challenges in improving AI explainability to reduce policymakers' hesitation."
+    ],
+    "quotes": [
+      "Future work should focus on validating the proposed system through real-world simulation.",
+      "Stakeholder engagement, policy harmonization, and interdisciplinary collaboration will be critical for scaling AI-driven epidemic intelligence globally."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412751103": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.mdpi.com/2226-4787/13/4/105/pdf?version=1753877430",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412738279": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0123.1/JCLI-D-25-0123.1.xml",
+    "resolved_via": "doi_html",
+    "bullets": [
+      "Study limited to northern high latitudes, potentially missing broader global trends.",
+      "Reliance on Daymet SSR data may introduce biases if validation against CERES is not comprehensive.",
+      "Correlation analyses do not establish causation between TCC and SSR or LSWT and SSR.",
+      "Findings may not be generalizable to all lake sizes and types beyond those studied."
+    ],
+    "quotes": [],
+    "confidence": 0.8
+  },
+  "https://openalex.org/W4412744005": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://ascopubs.org/doi/10.1200/OP-25-00353",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412755510": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://iovs.arvojournals.org/arvo/content_public/journal/iovs/938720/i1552-5783-66-9-70_1753868981.18213.pdf",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412757742": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/14927713.2025.2539692",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412812727": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/smtd.202500684",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412765961": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.202503718",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412785591": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://academic.oup.com/ntr/advance-article/doi/10.1093/ntr/ntaf156/8219027",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412728616": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.acs.org/doi/10.1021/acs.macromol.4c03070",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412734347": {
+    "status": "parse_failed",
+    "status_reason": "empty_html_text",
+    "source_url": "https://linkinghub.elsevier.com/retrieve/pii/S0048969725017590",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412712637": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.mdpi.com/2079-9292/14/15/3027/pdf?version=1753853673",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412721693": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.acs.org/doi/10.1021/acsestwater.5c00092",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412689683": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://assets-eu.researchsquare.com/files/rs-7160729/v1_covered_22c7f4e1-20d0-4bde-aeec-9b4fd49d865f.pdf?c=1753691054",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Limited field application data beyond 109 well pairs may affect generalizability.",
+      "The study primarily focuses on a specific geological setting, which may not apply to other regions.",
+      "Potential long-term effects of the proposed techniques on reservoir sustainability are not addressed."
+    ],
+    "quotes": [
+      "Few studies have simultaneously combined well-pattern optimization with active geomechanical dilation in shallow, continental, ultra-viscous reservoirs.",
+      "This paper provides a high-level synthesis of our cumulative research findings and field experience."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412700547": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://essopenarchive.org/doi/pdf/10.22541/essoar.172831483.35735849",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412727184": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://www.nature.com/articles/s41377-025-01924-9.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "The study relies on a finite constellation of coherent states, which may limit modulation flexibility.",
+      "Current implementation assumes a trusted receiver efficiency of 68%, which may not hold in all scenarios.",
+      "The system's performance is based on a specific transmission rate of 125 MBaud, which may not be scalable.",
+      "Higher modulation formats like 64-QAM could increase computational demands and complicate security proofs.",
+      "The study does not fully explore the practical finite-size performance of higher modulation schemes."
+    ],
+    "quotes": [
+      "Although our work significantly narrows the gap between theoretical and practical implementations, there remains substantial room for further improvement.",
+      "Exploring the practical finite-size performance of higher modulation schemes nevertheless remains an interesting question for future work."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412855844": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.organomet.5c00094",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412699172": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.acs.org/doi/10.1021/acsami.5c08789",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412724749": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.acs.org/doi/10.1021/acs.langmuir.5c01848",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412732336": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.worldscientific.com/doi/10.1142/9789819807154_0020",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412693645": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-025-11875-5.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Limited sample size with only 25 archaeal strains analyzed.",
+      "Potential biases in GC content and tRNA types not fully explored.",
+      "Lack of functional gene analysis related to cell life processes.",
+      "No investigation into the evolutionary implications of identified GIs."
+    ],
+    "quotes": [],
+    "confidence": 0.8
+  },
+  "https://openalex.org/W4412697489": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://doi.apa.org/doi/10.1037/cep0000377",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412701957": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://journals.physiology.org/doi/pdf/10.1152/jn.00296.2025",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412676398": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/02723638.2025.2528406",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412659470": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smi.70087",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412664294": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://pilotfeasibilitystudies.biomedcentral.com/counter/pdf/10.1186/s40814-025-01685-7.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Study conducted in only two homes, limiting generalizability.",
+      "Feasibility of the intervention not yet established for broader LTC settings.",
+      "Potential safety concerns and barriers to implementation not fully addressed.",
+      "Lack of adherence data in previous studies complicates understanding of intervention effectiveness.",
+      "Need for a larger-scale trial to evaluate effectiveness across different organizations."
+    ],
+    "quotes": [
+      "This limits our understanding of how the program could be implemented in LTC homes outside of the current organization.",
+      "A future parallel cluster randomized controlled trial is required to better evaluate the program across different organizations."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412673764": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://dl.acm.org/doi/10.1145/3730847",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412662542": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/cjs.70017",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412909118": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/staf1230/63851601/staf1230.pdf",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412653196": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://academic.oup.com/ntr/advance-article/doi/10.1093/ntr/ntaf152/8212269",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412656710": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/JHEP07(2025)254.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "The study focuses only on non-rotating (2+1)-dimensional BTZ black holes, limiting generalizability.",
+      "The mutual information analysis is constrained to specific detector trajectories and switching functions.",
+      "The effects of different boundary conditions on the Wightman function are not fully explored.",
+      "The study does not address the implications of potential divergences in the Wightman function on the results."
+    ],
+    "quotes": [],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412708487": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://link.springer.com/article/10.1007/s10393-025-01733-x",
+    "resolved_via": "doi_html",
+    "bullets": [
+      "The study primarily focuses on southwestern coastal areas, limiting generalizability to other regions.",
+      "Mixed-methods approach may introduce biases from primary data collection.",
+      "Potential long-term impacts of shrimp farming on planetary health remain underexplored.",
+      "The study does not address the economic sustainability of shrimp farming practices."
+    ],
+    "quotes": [],
+    "confidence": 0.8
+  },
+  "https://openalex.org/W4412727585": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/jsp2.70087",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412891866": {
+    "status": "parse_failed",
+    "status_reason": "empty_html_text",
+    "source_url": "https://linkinghub.elsevier.com/retrieve/pii/S0893608025007816",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412708368": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://cancerandmetabolism.biomedcentral.com/counter/pdf/10.1186/s40170-025-00402-5.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "No PPARδ modulators are currently approved for clinical use.",
+      "The study does not fully elucidate the mechanism of action of 6ME in AML.",
+      "Short treatment duration (3 hours) may not capture full expression dynamics of UCP1.",
+      "Limited understanding of PPARδ's role in carcinogenesis compared to PPARα and PPARγ.",
+      "Future studies are needed to assess the broad effects of PPARδ inhibition and 6ME-induced changes."
+    ],
+    "quotes": [
+      "Although no PPARδ modulators are approved for clinical use, several PPARδ agonists are undergoing evaluation in clinical trials.",
+      "This compensatory regulation may reflect the cell’s attempt to sustain FAO capacity under treatment conditions.",
+      "Future studies investigating translational activity and protein turnover would be valuable to elucidate the precise regulatory processes."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412639872": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.mdpi.com/2079-6374/15/8/478/pdf?version=1753346958",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412626101": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://bmcresnotes.biomedcentral.com/counter/pdf/10.1186/s13104-025-07371-4.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "No datasets were generated or analyzed during the current study.",
+      "The study lacks specific funding, which may limit the scope of research.",
+      "Ethics approval and consent to participate were not applicable, indicating potential ethical concerns.",
+      "The commentary does not present individual data, limiting the depth of analysis."
+    ],
+    "quotes": [],
+    "confidence": 0.8
+  },
+  "https://openalex.org/W4412902116": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://www.sickkids.ca/siteassets/about/strategy--performance/supporting-strategies/mental-health-strategy-2020-2025.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Limited stakeholder engagement may not represent all community perspectives.",
+      "Potential gaps in addressing the needs of marginalized populations.",
+      "Insufficient focus on long-term sustainability of mental health initiatives.",
+      "Lack of specific metrics for evaluating the success of the strategy."
+    ],
+    "quotes": [
+      "Mental health has been an under-recognized area of paediatric care.",
+      "Mental health outcomes are heavily informed and impacted by psycho-social conditions.",
+      "We will strive to improve clinicians’ mental health knowledge and eliminate stigma of mental illness."
+    ],
+    "confidence": 0.8
+  },
+  "https://openalex.org/W4412619971": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://cdnsciencepub.com/doi/10.1139/apnm-2024-0490",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412633223": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://doi.apa.org/doi/10.1037/apl0001310",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412638115": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://www.nature.com/articles/s41598-025-12770-5.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Study underpowered to detect significant differences in some outcomes.",
+      "Matsuda index does not account for bodyweight changes during bed rest.",
+      "Lack of assessment on GLUT4 localization and muscle capillary density.",
+      "Findings on α-klotho contradict previous studies, indicating potential variability.",
+      "Limited generalizability due to focus on a specific age group (55-65 years)."
+    ],
+    "quotes": [
+      "this was not detected with statistical testing, possibly due to our study being underpowered.",
+      "the calculation of Matsuda index does not incorporate bodyweight.",
+      "exploration of these relationships remains outside the scope of our current study."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412638442": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/00140139.2025.2536545",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412630433": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://journals.sagepub.com/doi/pdf/10.1177/10775587251355671",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412643965": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s10633-025-10041-2.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Lack of rigorous, age-specific reference data for pediatric diagnostic testing.",
+      "Need for more normative data for ERGs to support clinical and scientific work.",
+      "Limited understanding of the impact of rare conditions on visual development."
+    ],
+    "quotes": [
+      "One of the limitations to paediatric diagnostic testing is a dearth of rigorous, age-specific reference data.",
+      "ISCEV is actively working to compile normative data for ERGs to make widely available to clinicians and scientists."
+    ],
+    "confidence": 0.8
+  },
+  "https://openalex.org/W4412619875": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://punctumbooks.com/titles/historiographies-of-game-studies/",
+    "resolved_via": "doi_html",
+    "bullets": [
+      "The anthology may not cover all perspectives within game studies, potentially leaving out significant voices.",
+      "The historical context of game studies is not fully explored, raising questions about its origins.",
+      "The focus on established scholars may overlook emerging researchers and their contributions.",
+      "The discussion of future directions in game studies lacks concrete proposals or frameworks."
+    ],
+    "quotes": [],
+    "confidence": 0.8
+  },
+  "https://openalex.org/W4412630514": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubsonline.informs.org/doi/10.1287/moor.2024.0591",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412643607": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/1350178X.2025.2535370",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412604157": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0327422&type=printable",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Limited seasonal distinctions within study areas may affect correlations with peat accumulation.",
+      "Lack of consistent or statistically significant correlations between peat accumulation and precipitation or GDD.",
+      "Potential inaccuracies in apparent carbon accumulation rates due to the 'ageing problem' and 'secondary decomposition' issues.",
+      "Reliance on absolute reconstructed water-table measurements rather than directional shifts may limit findings."
+    ],
+    "quotes": [
+      "This limitation could be attributed to the relatively limited seasonal distinctions within our study areas.",
+      "The apparent absence of a strong correlation between aPAR and GDD in this study may be explained by the need for more substantial variations in GDD values.",
+      "We acknowledge the potential limitations of our approach, especially regarding the determination of aPAR."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412604178": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://bjo.bmj.com/content/early/2025/07/30/bjo-2025-327360",
+    "resolved_via": "doi_html",
+    "bullets": [
+      "Study limited to 300 clinical cases, which may not represent all ophthalmology subspecialties.",
+      "Performance comparisons did not reach statistical significance for subspecialty-specific analyses.",
+      "Reliance on a single public chat interface for DeepSeek-R1 may limit generalizability.",
+      "Cost analysis focused only on token-related expenses, excluding other potential costs."
+    ],
+    "quotes": [],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412597246": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.70298",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412647120": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/eet.70006",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412587977": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://dl.acm.org/doi/10.1145/3721238.3730686",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412589462": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://journals.sagepub.com/doi/pdf/10.1177/17151635251353232",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412591467": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://dl.acm.org/doi/10.1145/3721250.3743012",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412593968": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.mdpi.com/2076-3425/15/8/783/pdf?version=1753256583",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412602204": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2836762/hall_2025_ic_250159_1752524369.96613.pdf",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412558155": {
+    "status": "parse_failed",
+    "status_reason": "empty_html_text",
+    "source_url": "https://linkinghub.elsevier.com/retrieve/pii/S0010482525010674",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412591789": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/JHEP07(2025)226.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "The study primarily focuses on 2D tilted Dirac cone materials, limiting the generalizability of findings to other systems.",
+      "Nonlinear effects are considered, but the extent of their impact on entropy calculations remains unclear.",
+      "The assumptions made in the entropy calculations may not hold in all experimental conditions, potentially affecting results.",
+      "The study does not address the practical challenges of replicating the conditions necessary for observing analogue black holes in laboratory settings."
+    ],
+    "quotes": [],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412545680": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://www.nature.com/articles/s41746-025-01782-0.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Limited analysis to the first 21 days post-injury, potentially missing longer-term trajectories.",
+      "Excluded differential white blood cell counts and prominent protein biomarkers like GFAP due to sample size constraints.",
+      "Observed significant drop in prediction performance from training to out-of-train data, indicating potential overfitting.",
+      "Differences in cohort demographics and hospital stay characteristics between MIMIC-III and MIMIC-IV may affect case definitions.",
+      "Modeling of latent space for blood trajectories was separate from the prediction task, possibly leading to suboptimal latent variables."
+    ],
+    "quotes": [
+      "We limited the analysis to the first 21 days post-injury due to a rapid decrease in sample size beyond this period.",
+      "These markers were not included due to sample size constraints.",
+      "This could signal problems of overfitting to the training data and potential drift in the population between the training and the out-of-train data."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412549410": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/jems.70001",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412550919": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202500396",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412572971": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.authorea.com/doi/pdf/10.22541/au.175318780.05410473/v1",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412582451": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jez.70015",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412531639": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.psychiatrist.com/jcp/efficiency-extent-niacin-induced-skin-flushing-patterns-early-stages-of-psychosis/",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412520073": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.mdpi.com/2226-4787/13/4/97/pdf?version=1753079587",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412529680": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.acs.org/doi/10.1021/acschemneuro.5c00044",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412516687": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://journals.sagepub.com/doi/pdf/10.1177/10482911251360367",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412524209": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://quantum-journal.org/papers/q-2025-07-21-1800/pdf/",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "The study primarily focuses on the Clifford+T decomposition error, which may not encompass all types of errors in quantum circuits.",
+      "The proposed averaging method for error estimation may not be applicable to circuits with a small number of gates.",
+      "The accuracy of the error estimation relies on the assumption of uniformity in gate errors, which may not hold in practical scenarios.",
+      "The research does not address the impact of other noise sources beyond the decomposition error, limiting the generalizability of the findings."
+    ],
+    "quotes": [
+      "precise error estimation of the Clifford+T decomposition of quantum circuits has not yet been thoroughly investigated.",
+      "the naive evaluation may not provide a tight bound when the quantum circuit is large and the decomposition errors are non-uniform across gates."
+    ],
+    "confidence": 0.8
+  },
+  "https://openalex.org/W4412531173": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/00150517.2025.2455622",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412537715": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://link.springer.com/article/10.1007/s00198-025-07614-x",
+    "resolved_via": "doi_html",
+    "bullets": [
+      "Limited to small observational studies.",
+      "Risk of bias due to conflict of interest.",
+      "Inconsistent effects on bone strength outcomes.",
+      "Lack of data on the safety of the intervention.",
+      "Publication in a predatory journal raises concerns."
+    ],
+    "quotes": [
+      "at risk of bias because of conflict of interest",
+      "effects of OsteoStrong on bone strength outcomes are inconsistent",
+      "currently there is little data on safety of this intervention"
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412500079": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/14927713.2025.2527070",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412513217": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.mdpi.com/2073-4441/17/14/2153/pdf?version=1752918671",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412517726": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.mdpi.com/2077-0383/14/14/5132/pdf?version=1753087266",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412673258": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://arxiv.org/pdf/2504.19076",
+    "resolved_via": "oa_pdf",
+    "bullets": [
+      "LLM evaluations may reinforce biases, leading to misleading conclusions.",
+      "Concerns about the reliability and validity of LLM-based judgments remain unaddressed.",
+      "Existing evaluation methodologies may not be suitable for newer retrieval paradigms.",
+      "There is a lack of consensus on mitigating risks associated with LLMs in evaluations.",
+      "The potential for circularity in evaluations can distort outcomes and invalidate results."
+    ],
+    "quotes": [
+      "the unchecked use of LLMs in evaluation studies may lead to misleading conclusions",
+      "the evaluation risks becoming self-reinforcing rather than genuinely informative",
+      "the same LLM evaluator is used both within the ranking system and as the evaluation metric"
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412673545": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://dl.acm.org/doi/10.1145/3731120.3744605",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413061759": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://dl.acm.org/doi/10.1145/3715335.3736319",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413062051": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://dl.acm.org/doi/10.1145/3715335.3736317",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413062973": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://ascelibrary.org/doi/10.1061/JWRMD5.WRENG-6887",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412785496": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.mdpi.com/2073-4360/17/14/1979",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413062768": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://dl.acm.org/doi/10.1145/3715335.3737687",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412653483": {
+    "status": "parse_failed",
+    "status_reason": "empty_html_text",
+    "source_url": "https://linkinghub.elsevier.com/retrieve/pii/S1050641125000689",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412712238": {
+    "status": "parse_failed",
+    "status_reason": "empty_html_text",
+    "source_url": "https://linkinghub.elsevier.com/retrieve/pii/S0002916525002771",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412785997": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.mdpi.com/1996-1944/18/14/3367/pdf",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412523362": {
+    "status": "parse_failed",
+    "status_reason": "empty_html_text",
+    "source_url": "https://linkinghub.elsevier.com/retrieve/pii/S2213177925004974",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413063801": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.acs.org/doi/10.1021/acsestwater.5c00242",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413085090": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/pech.70018",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413086105": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/asjc.3774",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4413086335": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/07011784.2025.2519128",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412480643": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://www.nature.com/articles/s41467-025-61653-w.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Limited sample size with only two samples (A and B) measured.",
+      "Potential measurement artifacts due to a small π contribution in σ polarized light.",
+      "Lack of structural symmetry lowering or superlattice peaks in the SDW state.",
+      "Inherent instability in La3Ni2O7 to rotational symmetry breaking is not fully explored.",
+      "The correlation between SDW fluctuations and superconductivity under high pressure remains unclear."
+    ],
+    "quotes": [
+      "The existence of domain walls or topological defects indicates that both orthogonal magnetic domains occur within a single NiO2 plane.",
+      "The narrow peak has FWHM comparable to the IS with π incident light and is evident at 20 K in a) but diminished above 100 K."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4412483157": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://www.science.org/doi/pdf/10.1126/sciadv.adw4927",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412484370": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.acs.org/doi/10.1021/acschembio.5c00438",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412469199": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://journals.sagepub.com/doi/10.1177/13684310251359003",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412477247": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://pubs.acs.org/doi/10.1021/acs.chemmater.5c00733",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412480927": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://dl.acm.org/doi/pdf/10.1145/3694906.3743314",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412483812": {
+    "status": "skipped_no_limits",
+    "status_reason": "text_does_not_look_like_limitations",
+    "source_url": "https://journals.sagepub.com/doi/pdf/10.1177/26349825251350711",
+    "resolved_via": "oa_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412485625": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://arc.aiaa.org/doi/10.2514/6.2025-4082",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412485650": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://arc.aiaa.org/doi/10.2514/6.2025-4020",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412488267": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1013247&type=printable",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Limited sample size with only four prostate cancer patients personalized in the study.",
+      "The study primarily focuses on kidney and salivary glands, potentially overlooking other critical organs.",
+      "The complexity of PBPK models may hinder practical feasibility and parameter optimization.",
+      "The reliance on ordinary differential equations limits spatial coupling in the modeling approach."
+    ],
+    "quotes": [
+      "the selection of organ-at-risk in personalized RPT is critical, as it determines the injected activity amount and the efficacy of delivery-enhancing techniques.",
+      "PBPK models present both opportunities and challenges.",
+      "the full potential of these techniques requires further analysis and investigation to determine their effectiveness in clinical settings."
+    ],
+    "confidence": 0.85
+  },
+  "https://openalex.org/W4413088958": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://www.worldscientific.com/doi/10.1142/9789819814770_0009",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412492867": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://journals.humankinetics.com/view/journals/jpah/aop/article-10.1123-jpah.2024-0785/article-10.1123-jpah.2024-0785.xml",
+    "resolved_via": "doi_html",
+    "bullets": [
+      "Study limited to Ontario, Canada, which may not generalize to other regions.",
+      "Focus on high school students may overlook younger adolescents' physical activity patterns.",
+      "Potential biases in self-reported physical activity data could affect results.",
+      "The study does not account for external factors influencing physical activity outside of school."
+    ],
+    "quotes": [],
+    "confidence": 0.7
+  },
+  "https://openalex.org/W4412424581": {
+    "status": "parse_failed",
+    "status_reason": "empty_html_text",
+    "source_url": "https://linkinghub.elsevier.com/retrieve/pii/S1096717625000990",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412446444": {
+    "status": "parse_failed",
+    "status_reason": "short_text",
+    "source_url": "https://ieeexplore.ieee.org/document/11072738/",
+    "resolved_via": "doi_html",
+    "bullets": [],
+    "quotes": [],
+    "confidence": 0.0
+  },
+  "https://openalex.org/W4412419842": {
+    "status": "ok",
+    "status_reason": "ok",
+    "source_url": "https://jnanobiotechnology.biomedcentral.com/counter/pdf/10.1186/s12951-025-03547-z.pdf",
+    "resolved_via": "doi_pdf",
+    "bullets": [
+      "Inadvertent duplication of control group images in Fig. 6.",
+      "Error occurred during assembly and labeling of image files.",
+      "Potential impact on the validity of the results presented."
+    ],
+    "quotes": [
+      "the authors identified an inadvertent duplication of control group images between the liver and kidney tissues in Fig. 6.",
+      "This error occurred due to a mistake during the assembly and labeling of a large number of image files."
+    ],
+    "confidence": 0.8
+  }
+}

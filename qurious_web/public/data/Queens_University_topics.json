@@ -1,0 +1,92 @@
+[
+  {
+    "cluster_id": 0,
+    "label": "Stroke Management",
+    "size": 27,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 5,
+    "label": "Mental Health",
+    "size": 24,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 7,
+    "label": "Public Health",
+    "size": 23,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 8,
+    "label": "Cancer Research",
+    "size": 23,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 14,
+    "label": "Cultural Geography",
+    "size": 16,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 2,
+    "label": "Public Health",
+    "size": 15,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 9,
+    "label": "Mental Health",
+    "size": 14,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 4,
+    "label": "Environmental Science",
+    "size": 13,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 11,
+    "label": "Polymer Science",
+    "size": 11,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 6,
+    "label": "Cognitive Neuroscience",
+    "size": 9,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 13,
+    "label": "Clinical Immunology",
+    "size": 8,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 1,
+    "label": "Cancer Management",
+    "size": 5,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 10,
+    "label": "Astroparticle Physics",
+    "size": 5,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 12,
+    "label": "Surgical Techniques",
+    "size": 4,
+    "weak_count": 0
+  },
+  {
+    "cluster_id": 3,
+    "label": "Materials Science",
+    "size": 3,
+    "weak_count": 0
+  }
+]

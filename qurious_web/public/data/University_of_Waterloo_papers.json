@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "https://openalex.org/W4412790859",
+    "title": "Conformation of Pyrene End-Labeled Polyamidoamine Dendrimers in Catanionic Surfactant Micelles Probed by Pyrene Excimer Formation",
+    "doi": "https://doi.org/10.1021/acs.langmuir.5c02704",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.895719051361084,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412785496",
+    "title": "Internal Dynamics of Pyrene-Labeled Polyols Studied Through the Lens of Pyrene Excimer Formation",
+    "doi": "https://doi.org/10.3390/polym17141979",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8864050507545471,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413099894",
+    "title": "Characterization of Stability and Shell Elasticity of Monodisperse Microbubbles with Different Pegylated-lipid Content using Pressure-Dependent Attenuation Spectra",
+    "doi": "https://doi.org/10.1016/j.actbio.2025.08.017",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8550173044204712,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412728616",
+    "title": "Depletion Interaction between Cylindrical Inclusions in Polymer Brushes",
+    "doi": "https://doi.org/10.1021/acs.macromol.4c03070",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.832084596157074,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412994076",
+    "title": "Engineering and scale‐up of pervaporation membrane with an intermediate <scp>PEBA</scp> layer and an optimized <scp>PDMS</scp> layer",
+    "doi": "https://doi.org/10.1002/aic.70025",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.8275537490844727,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412484370",
+    "title": "A Pair of DNA Aptamers That Can Selectively Bind to Bilirubin and Biliverdin",
+    "doi": "https://doi.org/10.1021/acschembio.5c00438",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.819512128829956,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413182851",
+    "title": "Label-Free Whole Slide Virtual Multi-Staining Using Dual-Excitation Photon Absorption Remote Sensing Microscopy",
+    "doi": "https://doi.org/10.6019/s-biad2232",
+    "cluster_id": 0,
+    "sim_to_centroid": 0.7943247556686401,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412597246",
+    "title": "Early Nutrition is Associated With Global Motion Perception and <scp>V5</scp> Function in 7‐Year‐Old Children Born Very Preterm",
+    "doi": "https://doi.org/10.1002/hbm.70298",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8846830725669861,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413106875",
+    "title": "Long-duration head-down bedrest alters human sympathetic neurocirculatory regulation",
+    "doi": "https://doi.org/10.1152/japplphysiol.00309.2025",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8635815382003784,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412957572",
+    "title": "Live Pulse-Echo Speed-of-Sound Estimation for Quality Assessment of Large Muscles in Humans",
+    "doi": "https://doi.org/10.1016/j.ultrasmedbio.2025.06.013",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8614852428436279,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413112405",
+    "title": "The Role of Functional Brain Connectivity in Intervention Success: A Secondary Analysis from the SYNERGIC Trial",
+    "doi": "https://doi.org/10.1249/mss.0000000000003829",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8598270416259766,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413094084",
+    "title": "Exercise‐Induced Changes in Knee Cartilage In Vivo: Comparing MRI Sequences",
+    "doi": "https://doi.org/10.1002/jor.70043",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8572543859481812,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413102211",
+    "title": "Combined optical coherence tomography and electroretinography system for imaging neurovascular coupling in the human retina",
+    "doi": "https://doi.org/10.1117/1.nph.12.3.035004",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8527796268463135,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412950407",
+    "title": "Inflammatory Biomarkers Predictive of Psychopathology in Children With Physical Illness",
+    "doi": "https://doi.org/10.1002/brb3.70726",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.847600519657135,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412619971",
+    "title": "Adverse Event Reporting in Exercise Studies of Resistance Training (AERIES-RT) Recommendations and Toolkit: A modified Delphi process",
+    "doi": "https://doi.org/10.1139/apnm-2024-0490",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8438281416893005,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412545680",
+    "title": "Modeling trajectories of routine blood tests as dynamic biomarkers for outcome in spinal cord injury",
+    "doi": "https://doi.org/10.1038/s41746-025-01782-0",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8414642810821533,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412593968",
+    "title": "Probing Modulation of Attentional Correlates with Aerobic Exercise in Individuals with a History of Concussion",
+    "doi": "https://doi.org/10.3390/brainsci15080783",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8414626121520996,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412531639",
+    "title": "Efficiency and Extent of Niacin-Induced Skin Flushing Patterns in Early Stages of Psychosis",
+    "doi": "https://doi.org/10.4088/jcp.24m15559",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8408538699150085,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412659470",
+    "title": "Association Between Hair Cortisol and Psychopathology in Children With a Chronic Physical Illness",
+    "doi": "https://doi.org/10.1002/smi.70087",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8256844282150269,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412701957",
+    "title": "Changes in Corticospinal Excitability of Shoulder Muscles Across Functional Glenohumeral Joint Positions",
+    "doi": "https://doi.org/10.1152/jn.00296.2025",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8216277360916138,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412638442",
+    "title": "Validating force-estimating insoles for calculating centre of pressure and vertical ground reaction forces during occupational tasks",
+    "doi": "https://doi.org/10.1080/00140139.2025.2536545",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8214811086654663,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412639872",
+    "title": "Evaluating the Suitability of Perfusion-Based PD Probes for Use in Altered Gravity Environments",
+    "doi": "https://doi.org/10.3390/bios15080478",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8197892308235168,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412638115",
+    "title": "Exercise attenuates bed rest-induced increases in insulin resistance while α-klotho increases in 55 to 65 year-old women and men",
+    "doi": "https://doi.org/10.1038/s41598-025-12770-5",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8182752728462219,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412951861",
+    "title": "The Waterloo Differential Acuity Test (<scp>WatDAT</scp>)—Testability and normative data",
+    "doi": "https://doi.org/10.1111/opo.13565",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8144663572311401,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413176936",
+    "title": "Inferring the metabolic rate of zebrafish in still water from mouth opening and pectoral‐fin beating",
+    "doi": "https://doi.org/10.1111/jfb.70188",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8131283521652222,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412582451",
+    "title": "A Comparison of the Force‐Velocity Relationship of Bonobo and Human Muscle Fibers",
+    "doi": "https://doi.org/10.1002/jez.70015",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8097673654556274,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412755510",
+    "title": "Bidirectional Phosphorylation Changes in Opsins Associated With Early Myopia and Hyperopia Signal Regulation by Phosphoproteomics",
+    "doi": "https://doi.org/10.1167/iovs.66.9.70",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.8004737496376038,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412727585",
+    "title": "Evaluation of a Force‐Control Experimental Method to Perform Unconstrained Load‐Induced Subsidence Testing of Spinal Interbody Implants",
+    "doi": "https://doi.org/10.1002/jsp2.70087",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.7974849939346313,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412997397",
+    "title": "Development of an Eye Model Using 3D-Printing for Correlating Measured Intraocular Pressure with Actual Internal Pressure",
+    "doi": "https://doi.org/10.1080/02713683.2025.2542349",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.7962563037872314,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412602204",
+    "title": "Neuroinflammation and Obesity in the ABCD Study",
+    "doi": "https://doi.org/10.1001/jamanetworkopen.2025.22751",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.7893628478050232,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413127400",
+    "title": "A Computational Model of Action Specification in the Basal Ganglia",
+    "doi": "https://doi.org/10.1101/2025.08.12.669938",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.7865892052650452,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412517726",
+    "title": "Myopia Management in Ontario, Canada",
+    "doi": "https://doi.org/10.3390/jcm14145132",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.7742425203323364,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412653483",
+    "title": "Algorithm for jitter measurement in neuromuscular junction disease",
+    "doi": "https://doi.org/10.1016/j.jelekin.2025.103042",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.7727646827697754,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412643965",
+    "title": "Documenta Ophthalmologica Editorial: Focus on paediatrics",
+    "doi": "https://doi.org/10.1007/s10633-025-10041-2",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.7669007778167725,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413215411",
+    "title": "Outcome and predictors of knee radiofrequency ablation for chronic pain relief: A retrospective cohort study",
+    "doi": "https://doi.org/10.4103/ija.ija_448_25",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.7651320695877075,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412664294",
+    "title": "Dementia Moves: protocol for a feasibility study testing a physical rehabilitation program for long-term care residents with moderate to severe dementia",
+    "doi": "https://doi.org/10.1186/s40814-025-01685-7",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.7635940909385681,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412991519",
+    "title": "Cutaneous Myiasis Presenting as Painful Leg Nodules Following a Fishing Trip to El Salvador: A Case Report",
+    "doi": "https://doi.org/10.7759/cureus.89436",
+    "cluster_id": 1,
+    "sim_to_centroid": 0.69814133644104,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413134662",
+    "title": "Max- and min-stability under first-order stochastic dominance",
+    "doi": "https://doi.org/10.1007/s11579-025-00398-y",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8680574893951416,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412630514",
+    "title": "Distorted Optimal Transport",
+    "doi": "https://doi.org/10.1287/moor.2024.0591",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.82982337474823,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413120817",
+    "title": "Correction to “Toward Native Intelligence: An Efficient and Flexible AI Services Provision Scheme in Multilayer Heterogeneous Networks”",
+    "doi": "https://doi.org/10.1109/jiot.2025.3580884",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8245806694030762,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412591467",
+    "title": "Spatial Adaptivity for Solving PDEs on Manifolds with the Closest Point Method",
+    "doi": "https://doi.org/10.1145/3721250.3743012",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8216957449913025,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413041342",
+    "title": "Kolmogorov–Arnold networks for turbulence anisotropy mapping",
+    "doi": "https://doi.org/10.1063/5.0282938",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8183749914169312,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412989204",
+    "title": "Compiling with Generating Functions",
+    "doi": "https://doi.org/10.1145/3747534",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8176698684692383,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412587977",
+    "title": "Practical Stylized Nonlinear Monte Carlo Rendering",
+    "doi": "https://doi.org/10.1145/3721238.3730686",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8174499273300171,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413182473",
+    "title": "Spectral alignment of stochastic gradient descent for high-dimensional classification tasks",
+    "doi": "https://doi.org/10.1214/25-aap2187",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8146861791610718,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412974987",
+    "title": "Refined Adaptive Regional Input–Output Model: Application to the 2016 Kumamoto Earthquake",
+    "doi": "https://doi.org/10.1061/nhrefo.nheng-2207",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.8094687461853027,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413062973",
+    "title": "Battle of Water Demand Forecasting",
+    "doi": "https://doi.org/10.1061/jwrmd5.wreng-6887",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.7866702675819397,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412480927",
+    "title": "Persistent HyTM via Fast Path Fine-Grained Locking",
+    "doi": "https://doi.org/10.1145/3694906.3743314",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.7861196994781494,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412662542",
+    "title": "Subuniformity of harmonic mean p$$ p $$‐values",
+    "doi": "https://doi.org/10.1002/cjs.70017",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.7752804756164551,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412732336",
+    "title": "Image Segmentation Using Deep Learning",
+    "doi": "https://doi.org/10.1142/9789819807154_0020",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.7725825905799866,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413086105",
+    "title": "Adaptive mixing formation control of multiquadrotor unmanned aerial vehicle systems",
+    "doi": "https://doi.org/10.1002/asjc.3774",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.7553707957267761,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412891866",
+    "title": "Quasi-synchronization of Caputo-Hadamard fractional-order memristive neural networks with time-varying delays",
+    "doi": "https://doi.org/10.1016/j.neunet.2025.107900",
+    "cluster_id": 2,
+    "sim_to_centroid": 0.742011308670044,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412513217",
+    "title": "A Fresh Perspective on Freshwater Data Management and Sharing: Exploring Insights from the Technology Sector",
+    "doi": "https://doi.org/10.3390/w17142153",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8767364025115967,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412738279",
+    "title": "Trend analysis of surface shortwave (solar) radiation in continental Northwest Territories, Canada (1980–2023)",
+    "doi": "https://doi.org/10.1175/jcli-d-25-0123.1",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8620187640190125,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413013521",
+    "title": "Warming Alaskan rivers affect first-year growth in critical northern food fishes",
+    "doi": "https://doi.org/10.1038/s41598-025-14711-8",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8562914133071899,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412604157",
+    "title": "Climate and water-table levels regulate peat accumulation rates across Europe",
+    "doi": "https://doi.org/10.1371/journal.pone.0327422",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8459246754646301,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413051864",
+    "title": "Effect of temperature on microbial communities in bentonite for use in engineered barrier systems",
+    "doi": "https://doi.org/10.1128/msphere.00313-25",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8446158170700073,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412993768",
+    "title": "Evaluating the Impact of Sediment Seeding Strategies in Pool‐Riffle Restoration: Experimental Insights Into Hydraulic and Spawning Habitat Performance",
+    "doi": "https://doi.org/10.1029/2025wr040021",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8426312208175659,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412647120",
+    "title": "Synthesizing Archetypes of Social‐Ecological Systems: Identifying Common Building Blocks",
+    "doi": "https://doi.org/10.1002/eet.70006",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8372852206230164,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412819436",
+    "title": "Assessment of the Environmental Feasibility of Utilizing Hemp Fibers in Composite Production",
+    "doi": "https://doi.org/10.3390/polym17152103",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.824954628944397,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413115143",
+    "title": "Reel-to-Reel Re-Os Records: Earth System Transactions Preserved in Sediments",
+    "doi": "https://doi.org/10.2138/gselements.21.4.264",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8244817852973938,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413036475",
+    "title": "The evolution of the tree of life",
+    "doi": "https://doi.org/10.1098/rstb.2024.0091",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8226934671401978,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412794607",
+    "title": "Governing novel climate interventions in rapidly changing oceans",
+    "doi": "https://doi.org/10.1126/science.adq0174",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8185710906982422,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413197014",
+    "title": "Modeling Adaptive Technologies and Clean Fuels Towards Climate-Neutral Shipping",
+    "doi": "https://doi.org/10.3233/pmst250053",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8179628849029541,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413024596",
+    "title": "Preventing Microplastic Pollution in Surface Waters: Legal Frameworks and Strategic Actions",
+    "doi": "https://doi.org/10.1002/tqem.70116",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.816455602645874,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412798303",
+    "title": "Potential of 4R Nutrient Stewardship to reduce phosphorus losses from cultivated organic soils",
+    "doi": "https://doi.org/10.1139/er-2025-0058",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8146201372146606,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412734347",
+    "title": "Environmental behaviors, biotransformation, and toxicological risks of PFPiAs: A comprehensive review of an emerging PFAS",
+    "doi": "https://doi.org/10.1016/j.scitotenv.2025.180119",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8138113021850586,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413001489",
+    "title": "The Impact of Carbon Tax on the Green Transition of Canadas Steel Industry-The Case of Stelco Inc.",
+    "doi": "https://doi.org/10.54254/2754-1169/2025.bj25710",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8047924637794495,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413086335",
+    "title": "Use of water isotope tracers to characterize the hydrology of prairie wetlands in Alberta, Canada",
+    "doi": "https://doi.org/10.1080/07011784.2025.2519128",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8046937584877014,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412708487",
+    "title": "Planetary Health Consequences of Telecoupled Shrimp Farming",
+    "doi": "https://doi.org/10.1007/s10393-025-01733-x",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.8018825054168701,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412721693",
+    "title": "Unraveling Matrix Effects: A Study on Drugs of Abuse in Wastewater Samples from Southern Ontario, Canada",
+    "doi": "https://doi.org/10.1021/acsestwater.5c00092",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.7870892882347107,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412791617",
+    "title": "Bridging scholarly and community perspectives: A framework for assessing equity and justice in Canadian climate action planning",
+    "doi": "https://doi.org/10.1080/07352166.2025.2529915",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.7846026420593262,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412572971",
+    "title": "More diverse temperate forests are more resistant against non-native insect herbivores",
+    "doi": "https://doi.org/10.22541/au.175318780.05410473/v1",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.7504892945289612,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412549410",
+    "title": "Protecting Intermediate Innovations When Ideas Are Scarce: Patents or Secrecy?",
+    "doi": "https://doi.org/10.1111/jems.70001",
+    "cluster_id": 3,
+    "sim_to_centroid": 0.7446004152297974,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412932992",
+    "title": "Liquids and Microbial Electrolysis Cells for Boosted CO<sub>2</sub> Methanogenesis: Role of Interfacial Electron Transfer",
+    "doi": "https://doi.org/10.1021/acssusresmgt.5c00136",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8801056146621704,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412855844",
+    "title": "Selective Carbonyl Reduction in Unsaturated Esters and Aldehydes by Transfer Hydrogenation.",
+    "doi": "https://doi.org/10.1021/acs.organomet.5c00094",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8549778461456299,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412424581",
+    "title": "Establishing Vibrio natriegens as a high-performance host for acetate-based poly-3-hydroxybutyrate production",
+    "doi": "https://doi.org/10.1016/j.ymben.2025.07.003",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8521377444267273,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412812727",
+    "title": "Tip‐Enhanced Oxygen Reduction on Pt@Ni Cones via Concentrated Electric and Magnetic Fields",
+    "doi": "https://doi.org/10.1002/smtd.202500684",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8470374345779419,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412483157",
+    "title": "Pd@PdBO <i> <sub>x</sub> </i> heterostructure with strong electronic interaction to promote C─H bond activation for glycerol oxidation reaction",
+    "doi": "https://doi.org/10.1126/sciadv.adw4927",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8456118106842041,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413063801",
+    "title": "Ultrahigh Efficiency Hybrid Biomass-Inorganic Coagulation Strategy for Water Treatment",
+    "doi": "https://doi.org/10.1021/acsestwater.5c00242",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8441464304924011,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412693645",
+    "title": "The environmental adaptation of acidophilic archaea: promotion of horizontal gene transfer by genomic islands",
+    "doi": "https://doi.org/10.1186/s12864-025-11875-5",
+    "cluster_id": 4,
+    "sim_to_centroid": 0.8161332607269287,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412930240",
+    "title": "Facile SEI Improvement in the Artificial Graphite/LFP Li-Ion System: Via NaPF6 and KPF6 Electrolyte Additives",
+    "doi": "https://doi.org/10.3390/en18154058",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8687926530838013,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412951990",
+    "title": "Tailoring CuO<sub>x</sub> Films via Open‐Air Spatial Atomic Layer Deposition and Their Application in Room‐Temperature Humidity Sensing",
+    "doi": "https://doi.org/10.1002/smll.202506835",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8462690711021423,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412699172",
+    "title": "Soybean Lecithin as a Passivator and Compatibilizer in <i>p-i-n</i> Perovskite Solar Cells",
+    "doi": "https://doi.org/10.1021/acsami.5c08789",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.836880087852478,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412902572",
+    "title": "Enhanced NiFe2O4 Catalyst Performance and Stability in Anion Exchange Membrane Water Electrolysis: Influence of Iron Content and Membrane Selection",
+    "doi": "https://doi.org/10.3390/molecules30153228",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8357272744178772,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413137510",
+    "title": "Photothermal Boost of Laser-Synthesized TiC Colloidal Variants with Engineered Solid-State Interfaces and Nitridation.",
+    "doi": "https://doi.org/10.1002/adma.202509060",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8305836915969849,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412957868",
+    "title": "Artificial Intelligence and Digital Twin Technologies for Intelligent Lithium-Ion Battery Management Systems: A Comprehensive Review of State Estimation, Lifecycle Optimization, and Cloud-Edge Integration",
+    "doi": "https://doi.org/10.3390/batteries11080298",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8063122034072876,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412477247",
+    "title": "Rethinking Electrochemical Exfoliation: Controlled Cathodic Intercalation at Low Overpotentials for High-Quality, Atomically Thin MoS<sub>2</sub> Layers without Gas Evolution-Induced Expansion",
+    "doi": "https://doi.org/10.1021/acs.chemmater.5c00733",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.8059597611427307,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412480643",
+    "title": "Anisotropic spin stripe domains in bilayer La3Ni2O7",
+    "doi": "https://doi.org/10.1038/s41467-025-61653-w",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.7963321805000305,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413014605",
+    "title": "Lignin as a sustainable filler of polyvinyl chloride composites: Effects of ash content and loading levels on thermomechanical and combustion properties",
+    "doi": "https://doi.org/10.1016/j.ijbiomac.2025.146527",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.7950624227523804,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412948961",
+    "title": "Metal‐Insulator‐Semiconductor Structure‐Based InGaN/GaN Micro‐Light‐Emitting Devices with Superior External Quantum Efficiency",
+    "doi": "https://doi.org/10.1002/lpor.202500791",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.7893667817115784,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413051142",
+    "title": "Effects of natural Lithium and Lithium isotopes on voltage gated sodium channel activity in SH-SY5Y and IPSC derived cortical neurons",
+    "doi": "https://doi.org/10.1038/s41598-025-12893-9",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.7766419649124146,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412785997",
+    "title": "Bond Behavior of Glass Fiber-Reinforced Polymer (GFRP) Bars Embedded in Concrete: A Review",
+    "doi": "https://doi.org/10.3390/ma18143367",
+    "cluster_id": 5,
+    "sim_to_centroid": 0.7558748126029968,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412798020",
+    "title": "Twenty Years of Global Stratospheric Fluorine Inventories From Atmospheric Chemistry Experiment Fourier Transform Spectrometer (ACE‐FTS) Measurements",
+    "doi": "https://doi.org/10.1029/2024jd042298",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.9112529158592224,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413141846",
+    "title": "Twenty years of global stratospheric fluorine inventories from Atmospheric Chemistry Experiment Fourier Transform Spectrometer (ACE-FTS) measurements",
+    "doi": "https://doi.org/10.22541/essoar.172831483.35735849/v3",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.9073431491851807,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412700547",
+    "title": "Twenty years of global stratospheric fluorine inventories from Atmospheric Chemistry Experiment Fourier Transform Spectrometer (ACE-FTS) measurements",
+    "doi": "https://doi.org/10.22541/essoar.172831483.35735849/v2",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.8606293797492981,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412909118",
+    "title": "VERTICO IX: Signatures of environmental processing of the gas in Virgo cluster spiral galaxies through mapping of CO isotopologues",
+    "doi": "https://doi.org/10.1093/mnras/staf1230",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.838119626045227,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412724749",
+    "title": "Organic–Inorganic Hybrid Materials for Trace Detection of Formaldehyde at Room Temperature",
+    "doi": "https://doi.org/10.1021/acs.langmuir.5c01848",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.820330023765564,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412781087",
+    "title": "EDTA-Masked Tl<sup>+</sup> Detection Using a Pair of Non-G-Quadruplex Aptamers with Opposite Fluorescence Responses",
+    "doi": "https://doi.org/10.1021/acs.analchem.5c03765",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.815381646156311,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412765961",
+    "title": "Nanomaterial‐Based Biosensors for Aflatoxin B1 Detection: Current Advances, Challenges, and Prospects",
+    "doi": "https://doi.org/10.1002/smll.202503718",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.7957946062088013,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413185884",
+    "title": "Evaluating the Suitability of CRMB for High Performance Asphalt Applications",
+    "doi": "https://doi.org/10.1139/cjce-2025-0187",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.7709875106811523,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412689683",
+    "title": "Decarbonizing SAGD in Heterogeneous Ultra‑Heavy‑Oil Reservoirs: Barrier‑Bypassing Well Patterns and Geomechanical Dilation Cut Steam Demand and CO₂ Emissions",
+    "doi": "https://doi.org/10.21203/rs.3.rs-7160729/v1",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.7669134140014648,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413104798",
+    "title": "The life and times of dark matter haloes: what will I be when I grow up?",
+    "doi": "https://doi.org/10.1093/mnras/staf1293",
+    "cluster_id": 6,
+    "sim_to_centroid": 0.7635797262191772,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412785591",
+    "title": "Trends in noticing and responding to, health warning labels on cigarette packages among adults who smoke: Findings from the ITC Four Country Surveys between 2002 and 2022",
+    "doi": "https://doi.org/10.1093/ntr/ntaf156",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8917998671531677,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413116820",
+    "title": "Adverse changes in close social ties reduce fruit and vegetable intake in aging adults: a prospective gender-sensitive study of the Canadian longitudinal study on aging (CLSA)",
+    "doi": "https://doi.org/10.1186/s12966-025-01807-7",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8791114687919617,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412839845",
+    "title": "The Association Between Social Isolation, Functional Social Support, and Memory: A Mediation Analysis of the Canadian Longitudinal Study on Aging",
+    "doi": "https://doi.org/10.1177/07334648251363655",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8711147308349609,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412792735",
+    "title": "Characteristics of adolescent cannabis use and social context predicting problematic use: A decision tree analysis",
+    "doi": "https://doi.org/10.1016/j.addbeh.2025.108445",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.868526816368103,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413140314",
+    "title": "\"I want to hear you talk with your heart\": perspectives on receiving and providing mental wellness supports during the COVID-19 pandemic within a First Nation community in Canada.",
+    "doi": "https://doi.org/10.1186/s12889-025-23723-y",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.855657696723938,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412653196",
+    "title": "Trends in the use of vaping products and other smoking cessation methods among adults who attempt to stop smoking: Findings from ITC Four Country Smoking and Vaping Surveys (2016-2020)",
+    "doi": "https://doi.org/10.1093/ntr/ntaf152",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8551206588745117,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412492867",
+    "title": "Examining the Longitudinal Impact of Participation in School-Based Physical Education Lessons on Physical Activity Levels Among a Large Sample of Adolescents in Ontario, Canada.",
+    "doi": "https://doi.org/10.1123/jpah.2024-0785",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8425418138504028,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413028105",
+    "title": "COVID-19 and Its Impact on Mental Health Across All Age Groups",
+    "doi": "https://doi.org/10.54254/2753-8818/2025.au25836",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8411202430725098,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413140648",
+    "title": "A randomized controlled trial testing couple HOPES: An online, self-help couples' intervention for posttraumatic stress disorder.",
+    "doi": "https://doi.org/10.1037/ccp0000965",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8387042284011841,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413055804",
+    "title": "Toward compassionate communication: a rapid review on facilitating the dementia disclosure process.",
+    "doi": "https://doi.org/10.1002/alz.70466",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8375959992408752,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413055839",
+    "title": "E-cigarette consumption among youth who vape in Canada, England, New Zealand and the USA: Exploring methods to quantify consumption amounts and differences by product attributes using population-level surveys",
+    "doi": "https://doi.org/10.1136/tc-2024-059245",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8302801847457886,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413111775",
+    "title": "The feasibility of the virtually delivered dementia lifestyle intervention for getting healthy together (DELIGHT) program for people living with dementia and their family/friend care partners",
+    "doi": "https://doi.org/10.1371/journal.pone.0328901",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8275904655456543,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412902116",
+    "title": "Examining childhood multimorbidity: How crucial is studying early life multimorbidity?",
+    "doi": "https://doi.org/10.56367/oag-047-12018",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8222000598907471,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412483812",
+    "title": "Towards global health equity: The contributions of health geography to global health research, policy and practice",
+    "doi": "https://doi.org/10.1177/26349825251350711",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8205282688140869,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413186893",
+    "title": "Association of dementia diagnosis, cognitive impairment levels, and their combination with care costs among publicly funded long-term care recipients",
+    "doi": "https://doi.org/10.1093/geroni/igaf088",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8156612515449524,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412630433",
+    "title": "The Impact of Rural Hospital Closures and Mergers on Health System Ecologies: A Scoping Review",
+    "doi": "https://doi.org/10.1177/10775587251355671",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8126489520072937,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412799089",
+    "title": "Barriers and facilitators influencing access to primary eye care among transmasculine individuals in Canada: A qualitative analysis",
+    "doi": "https://doi.org/10.1080/26895269.2025.2537875",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.804502010345459,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412516687",
+    "title": "Unequal Occupational Conditions When Work Turns Digital: The Case of Schoolteachers",
+    "doi": "https://doi.org/10.1177/10482911251360367",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.8007206916809082,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413055133",
+    "title": "Acoustical Analyses of Conversations Reveal Different Effects of Remote Microphones and Face Masks on Group Conversations by Aided Older Adults",
+    "doi": "https://doi.org/10.1044/2025_jslhr-24-00784",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.7970003485679626,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413139003",
+    "title": "Family dynamics and self-harm and suicidality in children and adolescents: a systematic review and meta-analysis",
+    "doi": "https://doi.org/10.1016/s2215-0366(25)00217-2",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.7935274839401245,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412949220",
+    "title": "Self‐Reported Cannabis Prices and Expenditures From Legal and Illegal Sources Five Years After Legalisation of Non‐Medical Cannabis in Canada",
+    "doi": "https://doi.org/10.1111/dar.70009",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.7923700213432312,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413051691",
+    "title": "Product Characteristics, Warnings, and Marketing Appeals Conveyed on Delta-8 THC Product Packaging in the US and Canada",
+    "doi": "https://doi.org/10.15288/jsad.25-00034",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.7772511839866638,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412806939",
+    "title": "Trends and factors associated with anemia among women of reproductive age in Mali: analysis of data from 2001 to 2018 Mali demographic and health surveys",
+    "doi": "https://doi.org/10.1186/s13690-025-01637-w",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.7767278552055359,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413185958",
+    "title": "Winning Hearts and Minds? How the United States Reassured During the Russo-Ukrainian War",
+    "doi": "https://doi.org/10.1177/00220027251363229",
+    "cluster_id": 7,
+    "sim_to_centroid": 0.7433511018753052,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413132918",
+    "title": "A Direct Product Theorem for Quantum Communication Complexity with Applications to Device-Independent Cryptography",
+    "doi": "https://doi.org/10.1137/23m1549353",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8734071850776672,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412727184",
+    "title": "Experimental composable key distribution using discrete-modulated continuous variable quantum cryptography",
+    "doi": "https://doi.org/10.1038/s41377-025-01924-9",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8719626665115356,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412524209",
+    "title": "Averaging gate approximation error and performance of Unitary Coupled Cluster ansatz in Pre-FTQC Era",
+    "doi": "https://doi.org/10.22331/q-2025-07-21-1800",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8655584454536438,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412834440",
+    "title": "A review of applications of Quantum Energy Teleportation: from experimental tests to thermodynamics and spacetime engineering",
+    "doi": "https://doi.org/10.1139/cjp-2025-0128",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8641325831413269,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412977535",
+    "title": "Simplified four-band k · p model to consider k-dependent band-mixing effects in electron intersubband scattering: Application to quantum wells and quantum cascade lasers",
+    "doi": "https://doi.org/10.1063/5.0281805",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8248164653778076,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412656710",
+    "title": "Harvesting information across the horizon",
+    "doi": "https://doi.org/10.1007/jhep07(2025)254",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8226796984672546,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412591789",
+    "title": "Smart holes: analogue black holes with the right temperature and entropy",
+    "doi": "https://doi.org/10.1007/jhep07(2025)226",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.8224513530731201,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412712637",
+    "title": "A Hybrid Recursive Trigonometric Technique for Direct Digital Frequency Synthesizer",
+    "doi": "https://doi.org/10.3390/electronics14153027",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.7761669754981995,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412531173",
+    "title": "A Pair of Diophantine Equations Involving the Fibonacci Numbers",
+    "doi": "https://doi.org/10.1080/00150517.2025.2455622",
+    "cluster_id": 8,
+    "sim_to_centroid": 0.7543560862541199,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412485650",
+    "title": "Architecture for a Flexible, Scalable, and Sustainable Lunar Infrastructure",
+    "doi": "https://doi.org/10.2514/6.2025-4020",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8862635493278503,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413223023",
+    "title": "Optimization of the Photovoltaic Panel Design Towards Durable Solar Roads",
+    "doi": "https://doi.org/10.3390/inventions10040070",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.8423817157745361,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412485625",
+    "title": "Lunar Regolith as a Construction Material via In-Situ Thermite Reactions",
+    "doi": "https://doi.org/10.2514/6.2025-4082",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.826959490776062,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413014932",
+    "title": "HybridTier: an Adaptive and Lightweight CXL-Memory Tiering System",
+    "doi": "https://doi.org/10.1145/3676642.3736119",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.7996708750724792,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413088958",
+    "title": "Lateral Torsional Buckling Resistance and Design of High Strength Steel Beams Subjected to Nonuniform Temperature",
+    "doi": "https://doi.org/10.1142/9789819814770_0009",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.7875039577484131,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412446444",
+    "title": "RENAL: Robot Enhanced Navigation and Localization",
+    "doi": "https://doi.org/10.1109/marss65887.2025.11072738",
+    "cluster_id": 9,
+    "sim_to_centroid": 0.7593702673912048,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413029622",
+    "title": "‘Someone who uses it better’: Speculative fiction as method for AI work refusal in cultural geography",
+    "doi": "https://doi.org/10.1177/14744740251358282",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8596228361129761,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413111888",
+    "title": "Decision-making preferences for intuition, deliberation, friends or crowds in independent and interdependent societies.",
+    "doi": "https://doi.org/10.1098/rspb.2025.1355",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8501321077346802,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413193203",
+    "title": "From the comfort of home: examining consumer virtual reality use in the home",
+    "doi": "https://doi.org/10.1080/14626268.2025.2543452",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8373619318008423,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412697489",
+    "title": "Agentic aspects of attentional disengagement.",
+    "doi": "https://doi.org/10.1037/cep0000377",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8346379995346069,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412633223",
+    "title": "Disrupted selves in transition: How women navigate fertility treatments in the context of work.",
+    "doi": "https://doi.org/10.1037/apl0001310",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8322716355323792,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412500079",
+    "title": "Social fitness, leisure, and wellbeing",
+    "doi": "https://doi.org/10.1080/14927713.2025.2527070",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8195996880531311,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413062768",
+    "title": "Social Agentics",
+    "doi": "https://doi.org/10.1145/3715335.3737687",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8193259239196777,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413062051",
+    "title": "The Therapeutic Potential of AI-Generated Art in Short-Term Stress Management",
+    "doi": "https://doi.org/10.1145/3715335.3736317",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8181988000869751,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413128915",
+    "title": "Community‐Based Research on Evaluation: Beyond Academic and Evaluator Perspectives",
+    "doi": "https://doi.org/10.1002/ev.70009",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8087714910507202,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412757742",
+    "title": "Refusing to meet disinformation halfway: a rejoinder to Pitas",
+    "doi": "https://doi.org/10.1080/14927713.2025.2539692",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8033469915390015,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413025677",
+    "title": "‘Authentic’ multilateralism and the stigmatisation of ‘small circles’: China, India, and the contestation over institutional design",
+    "doi": "https://doi.org/10.1080/01436597.2025.2532006",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8022253513336182,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412523362",
+    "title": "The Role of Social Robots in Heart Failure",
+    "doi": "https://doi.org/10.1016/j.jchf.2025.102570",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.8016310930252075,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412848153",
+    "title": "Should ‘Moral Taint’ Be a Factor in Police Technology Procurement? The Case of Cellebrite",
+    "doi": "https://doi.org/10.1093/bjc/azaf073",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.7920219302177429,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412469199",
+    "title": "Virtues and vices in the sociology of morality Social Theorists of Morality: Essays on Moral Agency. By AbbottOwen. London: Palgrave Macmillan, 2024. 352 pp. $139.99 US (hardcover). ISBN: 978-3-031-75180-6",
+    "doi": "https://doi.org/10.1177/13684310251359003",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.7842278480529785,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412931057",
+    "title": "Copyright as an ethical dimension of visual research: preserving ownership across the research process",
+    "doi": "https://doi.org/10.1080/1472586x.2025.2537738",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.7807890176773071,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412877173",
+    "title": "Responsible AI Day",
+    "doi": "https://doi.org/10.1145/3711896.3737675",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.7669658660888672,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413116458",
+    "title": "Attending to attention: Reverse correlation reveals subtle cues to attentiveness in others’ faces",
+    "doi": "https://doi.org/10.3758/s13423-025-02739-w",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.7660175561904907,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412619875",
+    "title": "Navigating a Complex Space",
+    "doi": "https://doi.org/10.53288/0441.1.26",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.7648292779922485,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413061759",
+    "title": "Data Wiping Behaviors for End-of-First-Use Electronics: Insights from a survey of U.S. consumers",
+    "doi": "https://doi.org/10.1145/3715335.3736319",
+    "cluster_id": 10,
+    "sim_to_centroid": 0.7568997740745544,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412824980",
+    "title": "Evictions, spatial inequality, and the financialization of rental housing in Toronto",
+    "doi": "https://doi.org/10.1080/02723638.2025.2531934",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.9066060781478882,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412676398",
+    "title": "In search of urbanity: metropolitan geographies of gentrification and middle-class migration from Toronto to Hamilton",
+    "doi": "https://doi.org/10.1080/02723638.2025.2528406",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.887361466884613,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413085090",
+    "title": "Red Paint Resistance: A Spatial‐Temporal Case Study of Graffiti as Civil Resistance in Contemporary Settler‐Colonial Canada",
+    "doi": "https://doi.org/10.1111/pech.70018",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.8799834847450256,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412823644",
+    "title": "State Capture—Institutionalized Corruption of the South African Revenue Service",
+    "doi": "https://doi.org/10.1002/tie.70018",
+    "cluster_id": 11,
+    "sim_to_centroid": 0.7900105714797974,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412887575",
+    "title": "Urban stream daylighting as a nature-based solution: transformative or incremental? A scaffolded review of Seoul’s Cheonggyecheon and Zürich’s <i>Bächkonzept</i>",
+    "doi": "https://doi.org/10.1080/09640568.2025.2526614",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.8764535188674927,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413029281",
+    "title": "Engaging Two-Eyed Seeing to enhance regenerative tourism",
+    "doi": "https://doi.org/10.1080/14927713.2025.2539689",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.8438866138458252,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412673764",
+    "title": "Segment-based Light Transport Simulation",
+    "doi": "https://doi.org/10.1145/3730847",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.8393713235855103,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413186903",
+    "title": "AdaVIT: An Adaptive Visual-Tabular Fusion Multi-modal for Road Surface Snow Detection",
+    "doi": "https://doi.org/10.1139/cjce-2025-0069",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.8193550109863281,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412558155",
+    "title": "DualSwinUnet++: An enhanced Swin-Unet architecture with dual decoders for PTMC segmentation",
+    "doi": "https://doi.org/10.1016/j.compbiomed.2025.110716",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.7897186279296875,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413187966",
+    "title": "Tourist demand and destination development under climate change: complexities and perspectives",
+    "doi": "https://doi.org/10.1080/09669582.2025.2543953",
+    "cluster_id": 12,
+    "sim_to_centroid": 0.7688182592391968,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412488267",
+    "title": "Multi-scale computational modeling towards efficacy in radiopharmaceutical therapies while minimizing side effects: Modeling of amino acid infusion",
+    "doi": "https://doi.org/10.1371/journal.pcbi.1013247",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8579791784286499,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413112431",
+    "title": "P4ward: An Automated Modeling Platform for Protac Ternary Complexes",
+    "doi": "https://doi.org/10.1021/acs.jcim.5c00614",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8530073761940002,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412604178",
+    "title": "Performance of DeepSeek-R1 in ophthalmology: an evaluation of clinical decision-making and cost-effectiveness",
+    "doi": "https://doi.org/10.1136/bjo-2025-327360",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8408845067024231,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412419842",
+    "title": "Correction: Multi-enzymatic biomimetic cerium-based MOFs mediated precision chemodynamic synergistic antibacteria and tissue repair for MRSA-infected wounds",
+    "doi": "https://doi.org/10.1186/s12951-025-03547-z",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8393158912658691,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412955022",
+    "title": "Abacavir enhances the efficacy of doxorubicin via inhibition of histone demethylase KDM5B in breast cancer",
+    "doi": "https://doi.org/10.1038/s41598-025-13845-z",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8380952477455139,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413101440",
+    "title": "Substrate Topography Modulate Human Vascular Smooth Muscle Cell Proliferation and Phenotype in Proinflammatory Condition",
+    "doi": "https://doi.org/10.1021/acsami.5c07512",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8374557495117188,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413111525",
+    "title": "Fast and Memory-Efficient Searching of Large-Scale Mass Spectrometry Data Using Tide",
+    "doi": "https://doi.org/10.1021/acs.jproteome.5c00297",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8354148864746094,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412773643",
+    "title": "Accurate Immune Protein Structure Prediction by Large Language Model and Transfer Learning",
+    "doi": "https://doi.org/10.21203/rs.3.rs-7153530/v1",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8261308670043945,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412529680",
+    "title": "Investigating the Interactions of a Cyclic Peptide Hormone Somatostatin and Its Derivatives on Amyloid-Beta Aggregation",
+    "doi": "https://doi.org/10.1021/acschemneuro.5c00044",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8241586685180664,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412751103",
+    "title": "Improving Hemorrhoid Outcomes: A Narrative Review and Best Practices Guide for Pharmacists",
+    "doi": "https://doi.org/10.3390/pharmacy13040105",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.82114577293396,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412744005",
+    "title": "Development of Ambulatory Oncology Clinical Pharmacy Key Performance Indicators Using a Modified Delphi Consensus Approach",
+    "doi": "https://doi.org/10.1200/op-25-00353",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8141894936561584,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413137409",
+    "title": "Amino-acid derived benzazaboroles: structure and function of a new chemotype.",
+    "doi": "https://doi.org/10.1039/d5ob00948k",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8139387965202332,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412550919",
+    "title": "Minimally Invasive Chemical Biopsy Needle with Self‐Wettable Extraction Phase For In Vivo Tissue Sampling During Medical Procedures",
+    "doi": "https://doi.org/10.1002/advs.202500396",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8103750944137573,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413123322",
+    "title": "The Efficacy of Semantics-Preserving Transformations in Self-Supervised Learning for Medical Ultrasound",
+    "doi": "https://doi.org/10.3390/bioengineering12080855",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8103117942810059,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412520073",
+    "title": "The Role of Pharmacists in Delivering Pharmaceutical Services to Breast Cancer Patients in Clinical and Community Settings: A Scoping Review",
+    "doi": "https://doi.org/10.3390/pharmacy13040097",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.8000150918960571,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413094648",
+    "title": "Computational Genome Engineering Through AI-CRISPR-Precision Medicine Integration in Modern Therapeutics",
+    "doi": "https://doi.org/10.1016/j.pharma.2025.08.001",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.7947868704795837,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412708368",
+    "title": "Pharmacological inhibition of Peroxisome Proliferation-Activated Receptor Delta (PPARδ) imparts selective leukemia cell death",
+    "doi": "https://doi.org/10.1186/s40170-025-00402-5",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.7769259810447693,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412626101",
+    "title": "SARS-CoV-2 subvariant XEC: emerging challenges amidst the global decline of KP.3.1.1",
+    "doi": "https://doi.org/10.1186/s13104-025-07371-4",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.7717012763023376,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412765880",
+    "title": "AI-driven epidemic intelligence: the future of outbreak detection and response",
+    "doi": "https://doi.org/10.3389/frai.2025.1645467",
+    "cluster_id": 13,
+    "sim_to_centroid": 0.7707204222679138,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412877066",
+    "title": "CURE: A dataset for Clinical Understanding &amp; Retrieval Evaluation",
+    "doi": "https://doi.org/10.1145/3711896.3737435",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8571487665176392,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412712238",
+    "title": "Methodological standards for body composition—an expert-endorsed guide for research and clinical applications: levels, models, and terminology",
+    "doi": "https://doi.org/10.1016/j.ajcnut.2025.05.022",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8532254695892334,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413019256",
+    "title": "Selection of mediators and dependence structure for high-dimensional mediation analysis",
+    "doi": "https://doi.org/10.1080/24709360.2025.2539589",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.83329176902771,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412589462",
+    "title": "Bridging gaps in Canadian health research: The critical role of sex, gender, and equity in shaping inclusive and evidence-informed health care",
+    "doi": "https://doi.org/10.1177/17151635251353232",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.810670018196106,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412673545",
+    "title": "A Large-Scale Study of Relevance Assessments with Large Language Models Using UMBRELA",
+    "doi": "https://doi.org/10.1145/3731120.3744605",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8090224266052246,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412643607",
+    "title": "Minimal models, feminist epistemology, and diversity",
+    "doi": "https://doi.org/10.1080/1350178x.2025.2535370",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.8077406883239746,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413030001",
+    "title": "Mortality prediction via age-specific band selection",
+    "doi": "https://doi.org/10.1080/03461238.2025.2537925",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7956875562667847,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4413055224",
+    "title": "Effectiveness of art interventions on improving psychological outcomes and quality of life among survivors of breast cancer: a systematic review",
+    "doi": "https://doi.org/10.1007/s11764-025-01864-8",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7916663289070129,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412537715",
+    "title": "OsteoStrong and bone health: a scoping review",
+    "doi": "https://doi.org/10.1007/s00198-025-07614-x",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.773212730884552,
+    "quality": "strong"
+  },
+  {
+    "id": "https://openalex.org/W4412673258",
+    "title": "Principles and Guidelines for the Use of LLM Judges",
+    "doi": "https://doi.org/10.1145/3731120.3744588",
+    "cluster_id": 14,
+    "sim_to_centroid": 0.7648629546165466,
+    "quality": "strong"
+  }
+]
