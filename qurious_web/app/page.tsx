@@ -2,8 +2,10 @@
 
 import { useRouter } from "next/navigation"
 import { useMemo, useState, useEffect } from "react"
-import { Inter } from "next/font/google"
+import { Inter, Plus_Jakarta_Sans } from "next/font/google"
+
 const inter = Inter({ subsets: ["latin"] })
+const plusJakarta = Plus_Jakarta_Sans({ subsets: ["latin"], weight: ["500", "600", "700"] })
 
 // --- existing data ---
 const UNI_FILES = [
@@ -49,10 +51,10 @@ function NetworkBackground() {
     const initialNodes = Array.from({ length: 25 }, (_, i) => ({
       x: Math.random() * 100,
       y: Math.random() * 100,
-      vx: (Math.random() - 0.5) * 0.03, // Slightly increased velocity range
+      vx: (Math.random() - 0.5) * 0.03,
       vy: (Math.random() - 0.5) * 0.03,
       id: i,
-      size: 0.2 + Math.random() * 0.3, // Random node sizes between 0.2 and 0.5
+      size: 0.2 + Math.random() * 0.3,
     }))
     setNodes(initialNodes)
 
@@ -60,7 +62,6 @@ function NetworkBackground() {
     const animate = () => {
       setNodes((prevNodes) =>
         prevNodes.map((node) => {
-          // Occasionally change direction slightly for more organic movement
           const shouldChangeDirection = Math.random() < 0.005
           let newVx = node.vx
           let newVy = node.vy
@@ -68,7 +69,6 @@ function NetworkBackground() {
           if (shouldChangeDirection) {
             newVx += (Math.random() - 0.5) * 0.01
             newVy += (Math.random() - 0.5) * 0.01
-            // Keep velocities within reasonable bounds
             newVx = Math.max(-0.05, Math.min(0.05, newVx))
             newVy = Math.max(-0.05, Math.min(0.05, newVy))
           }
@@ -90,7 +90,7 @@ function NetworkBackground() {
 
   // Calculate connections between nearby nodes
   const connections = useMemo(() => {
-    const maxDistance = 30 // Increased from 25
+    const maxDistance = 30
     const lines: Array<{ x1: number; y1: number; x2: number; y2: number; opacity: number }> = []
 
     for (let i = 0; i < nodes.length; i++) {
@@ -106,7 +106,7 @@ function NetworkBackground() {
             y1: nodes[i].y,
             x2: nodes[j].x,
             y2: nodes[j].y,
-            opacity: opacity * 0.6, // Scale down for subtlety
+            opacity: opacity * 0.6,
           })
         }
       }
@@ -134,7 +134,6 @@ function NetworkBackground() {
 
         {nodes.map((node) => (
           <g key={node.id}>
-            {/* Subtle glow effect */}
             <circle
               cx={`${node.x}%`}
               cy={`${node.y}%`}
@@ -144,7 +143,6 @@ function NetworkBackground() {
               className="animate-pulse"
               style={{ animationDelay: `${node.id * 0.2}s`, animationDuration: "3s" }}
             />
-            {/* Main node */}
             <circle
               cx={`${node.x}%`}
               cy={`${node.y}%`}
@@ -160,41 +158,180 @@ function NetworkBackground() {
   )
 }
 
+/** HELP MODAL — now a well-designed “How Qurious Works” guide. (Same prop signature; no external logic changes.) */
 function DemoVideoModal({ isOpen, onClose }: { isOpen: boolean; onClose: () => void }) {
   if (!isOpen) return null
 
   return (
     <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4">
       <div className="bg-white rounded-2xl shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-hidden">
-        <div className="flex items-center justify-between p-6 border-b">
-          <h3 className="text-xl font-semibold text-gray-900">Qurious Demo</h3>
-          <button
-            onClick={onClose}
-            className="text-gray-400 hover:text-gray-600 transition-colors"
-            aria-label="Close demo"
-          >
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path
-                d="M18 6L6 18M6 6L18 18"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              />
-            </svg>
-          </button>
+        {/* Header */}
+        <div className="relative">
+          <div className="absolute inset-0 bg-gradient-to-r from-blue-600/10 via-indigo-600/10 to-purple-600/10" />
+          <div className="relative flex items-center justify-between px-6 py-5 border-b">
+            <h3 className={`${plusJakarta.className} text-2xl font-semibold text-gray-900`}>How Qurious Works</h3>
+            <button
+              onClick={onClose}
+              className="text-gray-400 hover:text-gray-600 transition-colors"
+              aria-label="Close instructions"
+            >
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path
+                  d="M18 6L6 18M6 6L18 18"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                />
+              </svg>
+            </button>
+          </div>
         </div>
-        <div className="p-6">
-          <div className="aspect-video bg-gray-100 rounded-lg flex items-center justify-center">
-            <div className="text-center">
-              <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
-                  <path d="M8 5V19L19 12L8 5Z" fill="#1e40af" stroke="#1e40af" strokeWidth="2" strokeLinejoin="round" />
-                </svg>
+
+        {/* Body */}
+        <div className="p-6 overflow-y-auto max-h-[calc(90vh-72px)]">
+          {/* Hero summary */}
+          <div className="mb-6 rounded-xl border border-gray-200 bg-gradient-to-br from-white to-gray-50 p-5">
+            <p className={`${plusJakarta.className} text-gray-800 leading-relaxed`}>
+              Qurious groups papers from a university into <span className="font-semibold">topic clusters</span> using
+              text embeddings of each paper’s <span className="font-semibold">title + abstract</span> and{" "}
+              <span className="font-semibold">cosine similarity</span>. This gives you a bird’s-eye view of the research
+              landscape so you can jump straight to the work you care about.
+            </p>
+          </div>
+
+          {/* Steps grid */}
+          <div className="grid md:grid-cols-2 gap-4">
+            {/* Card 1 */}
+            <div className="rounded-xl border border-gray-200 p-5 bg-white">
+              <div className="flex items-start gap-3">
+                <div className="shrink-0 rounded-lg p-2 bg-blue-50 text-blue-700">
+                  {/* search icon */}
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
+                    <path
+                      d="M15.5 14h-.79l-.28-.27A6.5 6.5 0 1014 15.5l.27.28v.79L20 21.5 21.5 20zM10 15.5A5.5 5.5 0 1115.5 10 5.5 5.5 0 0110 15.5"
+                      stroke="currentColor"
+                      strokeWidth="1.5"
+                    />
+                  </svg>
+                </div>
+                <div>
+                  <h4 className={`${plusJakarta.className} font-semibold text-gray-900`}>1) Find your university</h4>
+                  <p className="text-sm text-gray-600 mt-1">
+                    Type the name in the search bar and press <kbd className="px-1 py-0.5 bg-gray-100 rounded">Enter</kbd>.
+                  </p>
+                </div>
               </div>
-              <p className="text-gray-600">Demo video will be embedded here</p>
-              <p className="text-sm text-gray-400 mt-2">Replace this placeholder with your actual video</p>
             </div>
+
+            {/* Card 2 */}
+            <div className="rounded-xl border border-gray-200 p-5 bg-white">
+              <div className="flex items-start gap-3">
+                <div className="shrink-0 rounded-lg p-2 bg-indigo-50 text-indigo-700">
+                  {/* bubbles icon */}
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                    <circle cx="7" cy="7" r="4" />
+                    <circle cx="16" cy="10" r="3" opacity="0.7" />
+                    <circle cx="12" cy="17" r="3" opacity="0.5" />
+                  </svg>
+                </div>
+                <div>
+                  <h4 className={`${plusJakarta.className} font-semibold text-gray-900`}>2) Explore topic clusters</h4>
+                  <p className="text-sm text-gray-600 mt-1">
+                    Each bubble is a cluster of papers that are close in the embedding space (high cosine similarity).
+                    Bubble size ≈ number of papers. Hover for a snapshot, scroll to zoom, drag to pan.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            {/* Card 3 */}
+            <div className="rounded-xl border border-gray-200 p-5 bg-white">
+              <div className="flex items-start gap-3">
+                <div className="shrink-0 rounded-lg p-2 bg-purple-50 text-purple-700">
+                  {/* click icon */}
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
+                    <path d="M12 4v16M4 12h16" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+                  </svg>
+                </div>
+                <div>
+                  <h4 className={`${plusJakarta.className} font-semibold text-gray-900`}>3) Open a cluster</h4>
+                  <p className="text-sm text-gray-600 mt-1">
+                    Click any bubble to see its papers in the right panel. Use the in-panel search to narrow results.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            {/* Card 4 */}
+            <div className="rounded-xl border border-gray-200 p-5 bg-white">
+              <div className="flex items-start gap-3">
+                <div className="shrink-0 rounded-lg p-2 bg-emerald-50 text-emerald-700">
+                  {/* gaps icon */}
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
+                    <path d="M4 12h7M13 12h7" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+                    <circle cx="12" cy="12" r="3" stroke="currentColor" strokeWidth="1.6" />
+                  </svg>
+                </div>
+                <div>
+                  <h4 className={`${plusJakarta.className} font-semibold text-gray-900`}>4) See gaps & limitations</h4>
+                  <p className="text-sm text-gray-600 mt-1">
+                    We analyze each paper to extract potential <span className="font-medium">limitations</span> and{" "}
+                    <span className="font-medium">open gaps</span>—a quick way to spot where you could contribute or
+                    follow up.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            {/* Card 5 */}
+            <div className="rounded-xl border border-gray-200 p-5 bg-white md:col-span-2">
+              <div className="flex items-start gap-3">
+                <div className="shrink-0 rounded-lg p-2 bg-rose-50 text-rose-700">
+                  {/* contact icon */}
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
+                    <path
+                      d="M4 6h16v12H4zM4 6l8 6 8-6"
+                      stroke="currentColor"
+                      strokeWidth="1.6"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                  </svg>
+                </div>
+                <div>
+                  <h4 className={`${plusJakarta.className} font-semibold text-gray-900`}>5) Contact authors</h4>
+                  <p className="text-sm text-gray-600 mt-1">
+                    When viewing limitations for a paper, the <span className="font-medium">Authors &amp; Contact</span>{" "}
+                    card shows contributors and—when available—email links so you can reach out quickly.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Tips box */}
+          <div className="mt-6 rounded-xl border border-blue-200 bg-blue-50 text-blue-900 p-4 text-sm">
+            <ul className="list-disc pl-5 space-y-1">
+              <li>
+                On desktop you can resize side panels by dragging their thin borders; on mobile the panels slide over
+                the map.
+              </li>
+              <li>
+                In the left panel, hovering a gap briefly highlights the related paper on the right to help you match
+                context.
+              </li>
+              <li>Paper “Similarity” indicates closeness to the cluster centroid in the embedding space.</li>
+            </ul>
+          </div>
+
+          <div className="mt-6 flex justify-end">
+            <button
+              onClick={onClose}
+              className="px-4 py-2 rounded-lg bg-blue-600 text-white font-medium hover:bg-blue-700 transition-colors"
+            >
+              Got it
+            </button>
           </div>
         </div>
       </div>
@@ -217,7 +354,7 @@ export default function Landing() {
   useEffect(() => {
     const jumpInterval = setInterval(() => {
       setIsJumping(true)
-      setTimeout(() => setIsJumping(false), 1500) // Increased duration for smoother effect
+      setTimeout(() => setIsJumping(false), 1500)
     }, 5000)
 
     return () => clearInterval(jumpInterval)
@@ -244,14 +381,16 @@ export default function Landing() {
         <NetworkBackground />
       </div>
 
+      {/* HELP BUTTON: slightly lower, bigger, '?' icon */}
       <button
         onClick={() => setShowDemo(true)}
-        className="fixed top-6 right-6 z-20 w-10 h-10 bg-gradient-to-br from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white rounded-full flex items-center justify-center text-lg font-bold transition-all duration-300 hover:scale-110 shadow-lg hover:shadow-xl border border-blue-500/20 backdrop-blur-sm"
-        aria-label="Watch demo video"
-        title="Watch demo video"
+        className="fixed top-10 right-6 z-20 w-12 h-12 bg-gradient-to-br from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white rounded-full flex items-center justify-center text-2xl font-bold transition-all duration-300 hover:scale-110 shadow-lg hover:shadow-xl border border-blue-500/20 backdrop-blur-sm"
+        aria-label="Open instructions"
+        title="How to use Qurious"
       >
         <span className="relative">
-          *<span className="absolute inset-0 animate-ping text-blue-200 opacity-75">*</span>
+          ?
+          <span className="absolute inset-0 rounded-full bg-white/10 blur-[6px]" />
         </span>
       </button>
 
@@ -370,6 +509,7 @@ export default function Landing() {
 
       <footer className="absolute bottom-4 text-xs text-gray-400 z-10">© {new Date().getFullYear()} Qurious</footer>
 
+      {/* State + usage unchanged */}
       <DemoVideoModal isOpen={showDemo} onClose={() => setShowDemo(false)} />
     </main>
   )
