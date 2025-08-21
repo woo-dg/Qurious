@@ -47,7 +47,6 @@ function NetworkBackground() {
   )
 
   useEffect(() => {
-    // Generate initial nodes
     const initialNodes = Array.from({ length: 25 }, (_, i) => ({
       x: Math.random() * 100,
       y: Math.random() * 100,
@@ -58,7 +57,6 @@ function NetworkBackground() {
     }))
     setNodes(initialNodes)
 
-    // Animation loop
     const animate = () => {
       setNodes((prevNodes) =>
         prevNodes.map((node) => {
@@ -88,7 +86,6 @@ function NetworkBackground() {
     return () => clearInterval(interval)
   }, [])
 
-  // Calculate connections between nearby nodes
   const connections = useMemo(() => {
     const maxDistance = 30
     const lines: Array<{ x1: number; y1: number; x2: number; y2: number; opacity: number }> = []
@@ -158,13 +155,79 @@ function NetworkBackground() {
   )
 }
 
-/** HELP MODAL — now a well-designed “How Qurious Works” guide. (Same prop signature; no external logic changes.) */
+/** HELP MODAL — same props; visual + concise */
 function DemoVideoModal({ isOpen, onClose }: { isOpen: boolean; onClose: () => void }) {
   if (!isOpen) return null
 
+  const VisualSearch = () => (
+    <svg viewBox="0 0 320 120" className="w-full h-28">
+      <defs>
+        <linearGradient id="sg" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stopColor="#93c5fd" />
+          <stop offset="1" stopColor="#c7d2fe" />
+        </linearGradient>
+      </defs>
+      <rect x="20" y="34" rx="16" ry="16" width="280" height="52" fill="url(#sg)" opacity="0.25" />
+      <rect x="28" y="42" rx="14" ry="14" width="264" height="36" fill="#fff" stroke="#cbd5e1" />
+      <circle cx="54" cy="60" r="10" fill="#2563eb" opacity="0.85" />
+      <rect x="74" y="52" width="140" height="16" rx="8" fill="#94a3b8" opacity="0.5" />
+      <circle cx="274" cy="60" r="10" fill="#64748b" />
+    </svg>
+  )
+
+  const VisualBubbles = () => (
+    <svg viewBox="0 0 320 180" className="w-full h-40">
+      <defs>
+        <radialGradient id="b1" cx="35%" cy="30%">
+          <stop offset="0" stopColor="#93c5fd" />
+          <stop offset="1" stopColor="#2563eb" />
+        </radialGradient>
+        <radialGradient id="b2" cx="40%" cy="35%">
+          <stop offset="0" stopColor="#c4b5fd" />
+          <stop offset="1" stopColor="#7c3aed" />
+        </radialGradient>
+        <radialGradient id="b3" cx="40%" cy="35%">
+          <stop offset="0" stopColor="#67e8f9" />
+          <stop offset="1" stopColor="#06b6d4" />
+        </radialGradient>
+      </defs>
+      <g opacity="0.2" fill="none" stroke="#94a3b8">
+        <rect x="8" y="8" width="304" height="164" rx="14" />
+      </g>
+      <circle cx="80" cy="70" r="32" fill="url(#b1)" opacity="0.95" />
+      <circle cx="150" cy="105" r="22" fill="url(#b2)" opacity="0.95" />
+      <circle cx="205" cy="70" r="46" fill="url(#b3)" opacity="0.95" />
+      <circle cx="255" cy="115" r="26" fill="url(#b2)" opacity="0.85" />
+      <circle cx="120" cy="45" r="18" fill="url(#b3)" opacity="0.8" />
+      <circle cx="50" cy="115" r="20" fill="url(#b1)" opacity="0.8" />
+    </svg>
+  )
+
+  const VisualPapers = () => (
+    <svg viewBox="0 0 520 180" className="w-full h-40">
+      <rect x="10" y="10" width="220" height="160" rx="12" fill="#f8fafc" stroke="#e5e7eb" />
+      <circle cx="120" cy="70" r="38" fill="#2563eb" opacity="0.9" />
+      <circle cx="70" cy="110" r="18" fill="#7c3aed" opacity="0.85" />
+      <circle cx="175" cy="115" r="22" fill="#06b6d4" opacity="0.9" />
+      <rect x="250" y="10" width="260" height="160" rx="12" fill="#ffffff" stroke="#e5e7eb" />
+      <g>
+        <rect x="265" y="25" width="220" height="16" rx="8" fill="#c7d2fe" />
+        <rect x="265" y="48" width="170" height="10" rx="5" fill="#e5e7eb" />
+      </g>
+      <g>
+        <rect x="265" y="78" width="220" height="16" rx="8" fill="#bae6fd" />
+        <rect x="265" y="101" width="140" height="10" rx="5" fill="#e5e7eb" />
+      </g>
+      <g>
+        <rect x="265" y="131" width="220" height="16" rx="8" fill="#fde68a" />
+        <rect x="265" y="154" width="190" height="10" rx="5" fill="#e5e7eb" />
+      </g>
+    </svg>
+  )
+
   return (
     <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4">
-      <div className="bg-white rounded-2xl shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-hidden">
+      <div className="bg-white rounded-2xl shadow-2xl max-w-5xl w-full max-h-[90vh] overflow-hidden">
         {/* Header */}
         <div className="relative">
           <div className="absolute inset-0 bg-gradient-to-r from-blue-600/10 via-indigo-600/10 to-purple-600/10" />
@@ -190,139 +253,73 @@ function DemoVideoModal({ isOpen, onClose }: { isOpen: boolean; onClose: () => v
 
         {/* Body */}
         <div className="p-6 overflow-y-auto max-h-[calc(90vh-72px)]">
-          {/* Hero summary */}
-          <div className="mb-6 rounded-xl border border-gray-200 bg-gradient-to-br from-white to-gray-50 p-5">
-            <p className={`${plusJakarta.className} text-gray-800 leading-relaxed`}>
-              Qurious groups papers from a university into <span className="font-semibold">topic clusters</span> using
-              text embeddings of each paper’s <span className="font-semibold">title + abstract</span> and{" "}
-              <span className="font-semibold">cosine similarity</span>. This gives you a bird’s-eye view of the research
-              landscape so you can jump straight to the work you care about.
+          {/* One-liner */}
+          <div className="mb-5 rounded-xl border border-gray-200 bg-gradient-to-br from-white to-gray-50 p-4">
+            <p className={`${plusJakarta.className} text-gray-800`}>
+              Qurious clusters a university’s papers by{" "}
+              <span className="font-semibold">title+abstract embeddings</span> and{" "}
+              <span className="font-semibold">cosine similarity</span> so you can spot themes fast, scan gaps, and reach
+              the right authors.
             </p>
           </div>
 
-          {/* Steps grid */}
-          <div className="grid md:grid-cols-2 gap-4">
-            {/* Card 1 */}
-            <div className="rounded-xl border border-gray-200 p-5 bg-white">
-              <div className="flex items-start gap-3">
-                <div className="shrink-0 rounded-lg p-2 bg-blue-50 text-blue-700">
-                  {/* search icon */}
-                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
-                    <path
-                      d="M15.5 14h-.79l-.28-.27A6.5 6.5 0 1014 15.5l.27.28v.79L20 21.5 21.5 20zM10 15.5A5.5 5.5 0 1115.5 10 5.5 5.5 0 0110 15.5"
-                      stroke="currentColor"
-                      strokeWidth="1.5"
-                    />
-                  </svg>
-                </div>
-                <div>
-                  <h4 className={`${plusJakarta.className} font-semibold text-gray-900`}>1) Find your university</h4>
-                  <p className="text-sm text-gray-600 mt-1">
-                    Type the name in the search bar and press <kbd className="px-1 py-0.5 bg-gray-100 rounded">Enter</kbd>.
-                  </p>
-                </div>
+          {/* Visual storyboard */}
+          <div className="grid lg:grid-cols-3 gap-4">
+            <div className="rounded-xl border border-gray-200 bg-white p-4">
+              <div className="text-xs uppercase tracking-wider text-blue-700 font-semibold mb-2 flex items-center gap-2">
+                <span className="inline-flex h-6 w-6 items-center justify-center rounded-full bg-blue-50 text-blue-700">1</span>
+                Search
               </div>
+              <VisualSearch />
+              <p className="text-sm text-gray-600 mt-2">Type your university and press <kbd className="px-1 py-0.5 bg-gray-100 rounded">Enter</kbd>.</p>
             </div>
 
-            {/* Card 2 */}
-            <div className="rounded-xl border border-gray-200 p-5 bg-white">
-              <div className="flex items-start gap-3">
-                <div className="shrink-0 rounded-lg p-2 bg-indigo-50 text-indigo-700">
-                  {/* bubbles icon */}
-                  <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
-                    <circle cx="7" cy="7" r="4" />
-                    <circle cx="16" cy="10" r="3" opacity="0.7" />
-                    <circle cx="12" cy="17" r="3" opacity="0.5" />
-                  </svg>
-                </div>
-                <div>
-                  <h4 className={`${plusJakarta.className} font-semibold text-gray-900`}>2) Explore topic clusters</h4>
-                  <p className="text-sm text-gray-600 mt-1">
-                    Each bubble is a cluster of papers that are close in the embedding space (high cosine similarity).
-                    Bubble size ≈ number of papers. Hover for a snapshot, scroll to zoom, drag to pan.
-                  </p>
-                </div>
+            <div className="rounded-xl border border-gray-200 bg-white p-4">
+              <div className="text-xs uppercase tracking-wider text-indigo-700 font-semibold mb-2 flex items-center gap-2">
+                <span className="inline-flex h-6 w-6 items-center justify-center rounded-full bg-indigo-50 text-indigo-700">2</span>
+                Explore clusters
               </div>
+              <VisualBubbles />
+              <div className="mt-2 text-sm text-gray-600">Each bubble is a topic; size ≈ #papers. Zoom & drag.</div>
             </div>
 
-            {/* Card 3 */}
-            <div className="rounded-xl border border-gray-200 p-5 bg-white">
-              <div className="flex items-start gap-3">
-                <div className="shrink-0 rounded-lg p-2 bg-purple-50 text-purple-700">
-                  {/* click icon */}
-                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
-                    <path d="M12 4v16M4 12h16" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
-                  </svg>
-                </div>
-                <div>
-                  <h4 className={`${plusJakarta.className} font-semibold text-gray-900`}>3) Open a cluster</h4>
-                  <p className="text-sm text-gray-600 mt-1">
-                    Click any bubble to see its papers in the right panel. Use the in-panel search to narrow results.
-                  </p>
-                </div>
+            <div className="rounded-xl border border-gray-200 bg-white p-4">
+              <div className="text-xs uppercase tracking-wider text-emerald-700 font-semibold mb-2 flex items-center gap-2">
+                <span className="inline-flex h-6 w-6 items-center justify-center rounded-full bg-emerald-50 text-emerald-700">3</span>
+                Open papers
               </div>
-            </div>
-
-            {/* Card 4 */}
-            <div className="rounded-xl border border-gray-200 p-5 bg-white">
-              <div className="flex items-start gap-3">
-                <div className="shrink-0 rounded-lg p-2 bg-emerald-50 text-emerald-700">
-                  {/* gaps icon */}
-                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
-                    <path d="M4 12h7M13 12h7" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
-                    <circle cx="12" cy="12" r="3" stroke="currentColor" strokeWidth="1.6" />
-                  </svg>
-                </div>
-                <div>
-                  <h4 className={`${plusJakarta.className} font-semibold text-gray-900`}>4) See gaps & limitations</h4>
-                  <p className="text-sm text-gray-600 mt-1">
-                    We analyze each paper to extract potential <span className="font-medium">limitations</span> and{" "}
-                    <span className="font-medium">open gaps</span>—a quick way to spot where you could contribute or
-                    follow up.
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            {/* Card 5 */}
-            <div className="rounded-xl border border-gray-200 p-5 bg-white md:col-span-2">
-              <div className="flex items-start gap-3">
-                <div className="shrink-0 rounded-lg p-2 bg-rose-50 text-rose-700">
-                  {/* contact icon */}
-                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
-                    <path
-                      d="M4 6h16v12H4zM4 6l8 6 8-6"
-                      stroke="currentColor"
-                      strokeWidth="1.6"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                  </svg>
-                </div>
-                <div>
-                  <h4 className={`${plusJakarta.className} font-semibold text-gray-900`}>5) Contact authors</h4>
-                  <p className="text-sm text-gray-600 mt-1">
-                    When viewing limitations for a paper, the <span className="font-medium">Authors &amp; Contact</span>{" "}
-                    card shows contributors and—when available—email links so you can reach out quickly.
-                  </p>
-                </div>
-              </div>
+              <VisualPapers />
+              <div className="mt-2 text-sm text-gray-600">Click a bubble to see papers, gaps, and authors.</div>
             </div>
           </div>
 
-          {/* Tips box */}
-          <div className="mt-6 rounded-xl border border-blue-200 bg-blue-50 text-blue-900 p-4 text-sm">
-            <ul className="list-disc pl-5 space-y-1">
-              <li>
-                On desktop you can resize side panels by dragging their thin borders; on mobile the panels slide over
-                the map.
-              </li>
-              <li>
-                In the left panel, hovering a gap briefly highlights the related paper on the right to help you match
-                context.
-              </li>
-              <li>Paper “Similarity” indicates closeness to the cluster centroid in the embedding space.</li>
-            </ul>
+          {/* Tiny legend cards */}
+          <div className="mt-5 grid md:grid-cols-3 gap-4">
+            <div className="rounded-xl border border-gray-200 bg-white p-4">
+              <div className="text-sm font-semibold text-gray-900 mb-1">Gaps & Limitations</div>
+              <p className="text-sm text-gray-600">Quick bullets summarizing what could be improved or explored next.</p>
+            </div>
+            <div className="rounded-xl border border-gray-200 bg-white p-4">
+              <div className="text-sm font-semibold text-gray-900 mb-1">Similarity</div>
+              <p className="text-sm text-gray-600">Score shows closeness to the cluster centroid in embedding space.</p>
+            </div>
+            <div className="rounded-xl border border-gray-200 bg-white p-4">
+              <div className="text-sm font-semibold text-gray-900 mb-1">Authors & Contact</div>
+              <p className="text-sm text-gray-600">See contributors and email links (when available) to reach out.</p>
+            </div>
+          </div>
+
+          {/* Tips chips */}
+          <div className="mt-6 flex flex-wrap gap-2">
+            <span className="text-xs px-3 py-1.5 rounded-full bg-blue-50 text-blue-800 border border-blue-200">
+              Drag thin borders to resize panels (desktop)
+            </span>
+            <span className="text-xs px-3 py-1.5 rounded-full bg-indigo-50 text-indigo-800 border border-indigo-200">
+              Hover a gap to highlight the paper on the right
+            </span>
+            <span className="text-xs px-3 py-1.5 rounded-full bg-emerald-50 text-emerald-800 border border-emerald-200">
+              Scroll to zoom, drag to pan the map
+            </span>
           </div>
 
           <div className="mt-6 flex justify-end">
@@ -364,7 +361,8 @@ export default function Landing() {
     const key = normalize(text)
     if (!key) return ""
     if (ALIASES[key]) return ALIASES[key]
-    const hit = UNI_FILES.find((u) => normalize(u).startsWith(key)) || UNI_FILES.find((u) => normalize(u).includes(key))
+    const hit =
+      UNI_FILES.find((u) => normalize(u).startsWith(key)) || UNI_FILES.find((u) => normalize(u).includes(key))
     return hit || ""
   }, [text])
 
@@ -381,7 +379,7 @@ export default function Landing() {
         <NetworkBackground />
       </div>
 
-      {/* HELP BUTTON: slightly lower, bigger, '?' icon */}
+      {/* HELP BUTTON (top-right) */}
       <button
         onClick={() => setShowDemo(true)}
         className="fixed top-10 right-6 z-20 w-12 h-12 bg-gradient-to-br from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white rounded-full flex items-center justify-center text-2xl font-bold transition-all duration-300 hover:scale-110 shadow-lg hover:shadow-xl border border-blue-500/20 backdrop-blur-sm"
@@ -504,6 +502,21 @@ export default function Landing() {
               </svg>
             </button>
           </div>
+        </div>
+
+        {/* Nic(er) “quick tour” pill under the search bar */}
+        <div className="mt-3 flex justify-center">
+          <button
+            type="button"
+            onClick={() => setShowDemo(true)}
+            className="group inline-flex items-center gap-2 rounded-full border border-blue-200 bg-blue-50 px-3 py-1.5 text-xs font-semibold text-blue-700 hover:bg-blue-100 hover:border-blue-300 shadow-sm hover:shadow transition-all"
+            aria-label="Open quick tour"
+            title="Quick tour"
+          >
+            <span className="inline-flex h-5 w-5 items-center justify-center rounded-full bg-blue-600 text-white text-[11px] leading-none">?</span>
+            Quick tour
+            <span className="translate-x-0 transition-transform group-hover:translate-x-0.5">→</span>
+          </button>
         </div>
       </div>
 
