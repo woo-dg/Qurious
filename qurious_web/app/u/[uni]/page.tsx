@@ -112,7 +112,7 @@ export default function UniversityPage() {
   const [showMorePapers, setShowMorePapers] = useState(false)
   const [transform, setTransform] = useState({ x: 0, y: 0, k: 1 })
   const [limitations, setLimitations] = useState<LimitationsMap | null>(null)
-  const [showGapList, setShowGapList] = useState(false)
+  const [showGapList, setShowGapList] = useState(true) // <-- OPEN BY DEFAULT
 
   /** contacts + which paper’s authors are shown */
   const [contacts, setContacts] = useState<ContactsMap | null>(null)
@@ -597,6 +597,7 @@ export default function UniversityPage() {
         setTooltip(null)
         setExpandedClusters(new Set([d.cluster_id]))
         setSelectedGapPaperId(null)
+        setShowGapList(true) // <-- FORCE OPEN WHEN A CLUSTER IS CLICKED
         if (rightPanelRef.current) {
           const clusterElement = rightPanelRef.current.querySelector(`[data-cluster-id="${d.cluster_id}"]`)
           if (clusterElement) {
