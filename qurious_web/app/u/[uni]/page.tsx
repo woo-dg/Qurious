@@ -132,6 +132,7 @@ export default function UniversityPage() {
   const [leftWidth, setLeftWidth] = useState<number | null>(null)
   const [leftDefaultWidth, setLeftDefaultWidth] = useState<number | null>(null)
   const [leftMinWidth, setLeftMinWidth] = useState<number>(220)
+  const [leftMaxWidth, setLeftMaxWidth] = useState<number | null>(null)
 
   const [rightWidth, setRightWidth] = useState<number | null>(null)
   const [rightDefaultWidth, setRightDefaultWidth] = useState<number | null>(null)
@@ -162,10 +163,13 @@ export default function UniversityPage() {
       const w = Math.round(leftShellRef.current.getBoundingClientRect().width)
       setLeftDefaultWidth(w)
       setLeftMinWidth(Math.max(220, Math.round(w * 0.65)))
+      // allow expansion on laptops/desktops
+      setLeftMaxWidth(Math.max(w, Math.min(Math.round(window.innerWidth * 0.6), 720)))
       if (leftWidth == null) setLeftWidth(w)
     } else {
       setLeftWidth(null)
       setLeftDefaultWidth(null)
+      setLeftMaxWidth(null)
     }
   }, [isMobile, sidebarOpen])
 
@@ -187,8 +191,9 @@ export default function UniversityPage() {
       if (isMobile) return
       if (resizingLeftRef.current && leftDefaultWidth != null) {
         const dx = e.clientX - startXRef.current
-        let next = leftDefaultWidth + Math.min(0, dx)
-        next = Math.max(leftMinWidth, Math.min(leftDefaultWidth, next))
+        let next = leftDefaultWidth + dx // allow expansion as well as shrink
+        const max = leftMaxWidth ?? leftDefaultWidth
+        next = Math.max(leftMinWidth, Math.min(max, next))
         setLeftWidth(next)
       } else if (resizingRightRef.current && rightDefaultWidth != null) {
         const dx = e.clientX - startXRef.current
@@ -208,10 +213,16 @@ export default function UniversityPage() {
       window.removeEventListener("mousemove", onMove)
       window.removeEventListener("mouseup", onUp)
     }
-  }, [isMobile, leftDefaultWidth, rightDefaultWidth, leftMinWidth, rightMinWidth])
+  }, [isMobile, leftDefaultWidth, rightDefaultWidth, leftMinWidth, rightMinWidth, leftMaxWidth])
 
   const startLeftResize = (e: React.MouseEvent) => {
-    if (isMobile || !sidebarOpen || leftDefaultWidth == null) return
+    if (isMobile || !sidebarOpen) return
+    // re-baseline to current width so multiple drags work and allow expansion
+    if (leftShellRef.current) {
+      const currentW = Math.round(leftShellRef.current.getBoundingClientRect().width)
+      setLeftDefaultWidth(currentW)
+      setLeftMaxWidth(Math.max(currentW, Math.min(Math.round(window.innerWidth * 0.6), 720)))
+    }
     startXRef.current = e.clientX
     resizingLeftRef.current = true
     document.body.style.cursor = "col-resize"
@@ -301,7 +312,8 @@ export default function UniversityPage() {
     const grouped = new Map<number, Paper[]>()
     papers.forEach((paper) => {
       if (!grouped.has(paper.cluster_id)) {
-        grouped.set(paper.cluster_id, [])
+        grouped.set(paper.cluster_id, []
+        )
       }
       grouped.get(paper.cluster_id)!.push(paper)
     })
