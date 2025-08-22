@@ -114,9 +114,10 @@ export default function UniversityPage() {
   const [limitations, setLimitations] = useState<LimitationsMap | null>(null)
   const [showGapList, setShowGapList] = useState(true) // <-- OPEN BY DEFAULT
 
-  /** contacts + which paper’s authors are shown */
+  /** authors/contacts + which paper’s authors are shown */
   const [contacts, setContacts] = useState<ContactsMap | null>(null)
   const [selectedGapPaperId, setSelectedGapPaperId] = useState<string | null>(null)
+  const [showAuthorsPanel, setShowAuthorsPanel] = useState(false) // <-- NEW: toggles authors panel
 
   /** hover->flash link state */
   const [flashPaperId, setFlashPaperId] = useState<string | null>(null)
@@ -264,6 +265,7 @@ export default function UniversityPage() {
       setQuery("")
       setShowWeak(false)
       setSelectedGapPaperId(null)
+      setShowAuthorsPanel(false)
 
       try {
         const r = await fetch(`/data/${uni}_limitations.json`, { cache: "no-store" })
@@ -290,7 +292,7 @@ export default function UniversityPage() {
     const q = query.trim().toLowerCase()
     if (!q) return topics
     return topics.filter((t) => {
-      const hay = `${t.label} ${(t.top_terms ?? []).join(" ")}`.toLowerCase()
+      const hay = `${t.label} ${(t.top_terms ?? []).join(" ")} `.toLowerCase()
       return hay.includes(q)
     })
   }, [topics, query])
@@ -312,8 +314,7 @@ export default function UniversityPage() {
     const grouped = new Map<number, Paper[]>()
     papers.forEach((paper) => {
       if (!grouped.has(paper.cluster_id)) {
-        grouped.set(paper.cluster_id, []
-        )
+        grouped.set(paper.cluster_id, [])
       }
       grouped.get(paper.cluster_id)!.push(paper)
     })
@@ -588,7 +589,7 @@ export default function UniversityPage() {
     floatSelection(circles as any)
     floatSelection(rims as any)
 
-    // Interactions (logic unchanged; added visual ripple only)
+    // Interactions
     circles
       .on("click", (_, d: any) => {
         setSelectedCluster(d.cluster_id)
@@ -597,7 +598,8 @@ export default function UniversityPage() {
         setTooltip(null)
         setExpandedClusters(new Set([d.cluster_id]))
         setSelectedGapPaperId(null)
-        setShowGapList(true) // <-- FORCE OPEN WHEN A CLUSTER IS CLICKED
+        setShowGapList(true)
+        setShowAuthorsPanel(false) // reset authors panel on new cluster
         if (rightPanelRef.current) {
           const clusterElement = rightPanelRef.current.querySelector(`[data-cluster-id="${d.cluster_id}"]`)
           if (clusterElement) {
@@ -621,7 +623,6 @@ export default function UniversityPage() {
           .attr("stroke-width", 2)
           .attr("stroke", "#0f172a")
 
-        // quick ripple effect (purely visual)
         const cx = parseFloat(d3.select(event.currentTarget).attr("cx"))
         const cy = parseFloat(d3.select(event.currentTarget).attr("cy"))
         effectsGroup
@@ -656,7 +657,7 @@ export default function UniversityPage() {
           .attr("stroke", (dd: any) => (matchedTopics.has(dd.cluster_id) ? "#0f172a" : "rgba(0,0,0,0.08)"))
       })
 
-    // LABELS — two-word stacking preserved
+    // LABELS
     const labels = nodeGroup
       .selectAll("text")
       .data(visibleTopics)
@@ -689,7 +690,7 @@ export default function UniversityPage() {
         }
       })
 
-    // float labels to match bubbles
+    // float labels
     labels.each(function (d: any, i: number) {
       const label = d3.select(this)
       const baseX = d.x
@@ -904,11 +905,28 @@ export default function UniversityPage() {
                       )}
                     </div>
                   )}
+
+                  {/* NEW: View Authors button */}
+                  <div className="mt-3 flex justify-end">
+                    <button
+                      onClick={() => setShowAuthorsPanel((v) => !v)}
+                      disabled={!selectedGapPaperId}
+                      className={`px-3 py-1.5 text-xs font-semibold rounded-md transition-colors ${
+                        !selectedGapPaperId
+                          ? "bg-gray-200 text-gray-400 cursor-not-allowed"
+                          : showAuthorsPanel
+                          ? "bg-gray-100 text-gray-800 hover:bg-gray-200 border border-gray-300"
+                          : "bg-blue-600 text-white hover:bg-blue-700"
+                      }`}
+                    >
+                      {showAuthorsPanel ? "Hide authors" : "View authors"}
+                    </button>
+                  </div>
                 </div>
               )}
 
-              {/* Authors / Contact panel */}
-              {selectedCluster !== null && selectedGapPaperId && (
+              {/* Authors / Contact panel (now gated by showAuthorsPanel) */}
+              {selectedCluster !== null && selectedGapPaperId && showAuthorsPanel && (
                 <div className="mt-4 rounded-lg border border-gray-300 bg-white shadow-sm sticky top-4 z-10">
                   <div className="p-4">
                     <div className="flex items-center justify-between mb-3">
