@@ -314,7 +314,8 @@ export default function UniversityPage() {
     const grouped = new Map<number, Paper[]>()
     papers.forEach((paper) => {
       if (!grouped.has(paper.cluster_id)) {
-        grouped.set(paper.cluster_id, [])
+        grouped.set(paper.cluster_id, []
+        )
       }
       grouped.get(paper.cluster_id)!.push(paper)
     })
@@ -735,6 +736,17 @@ export default function UniversityPage() {
             setRightPanelOpen(false)
           }}
         />
+      )}
+
+      {/* MOBILE OPEN BUTTON (so users can open the left panel when it's hidden) */}
+      {!sidebarOpen && isMobile && (
+        <button
+          onClick={() => setSidebarOpen(true)}
+          aria-label="Open sidebar"
+          className="fixed top-3 left-3 z-50 md:hidden p-2 rounded-lg bg-white border border-gray-200 shadow"
+        >
+          <Menu size={18} className="text-gray-700" />
+        </button>
       )}
 
       <div
