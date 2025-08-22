@@ -726,6 +726,12 @@ export default function UniversityPage() {
   const clearSearch = () => setQuery("")
   const clearClusterSearch = () => setClusterSearchQuery("")
 
+  /** NEW: when the right panel is closed, open the left panel on mobile */
+  const handleCloseRightPanel = () => {
+    setRightPanelOpen(false)
+    if (isMobile) setSidebarOpen(true)
+  }
+
   return (
     <div className="min-h-screen bg-white text-gray-900 flex relative">
       {(sidebarOpen || rightPanelOpen) && isMobile && (
@@ -1084,7 +1090,7 @@ export default function UniversityPage() {
                   <FileText size={18} className="text-gray-600" />
                   Research Papers
                 </h2>
-                <button onClick={() => setRightPanelOpen(false)} className="p-2 hover:bg-gray-100 rounded-lg transition-colors text-gray-500 hover:text-gray-700">
+                <button onClick={handleCloseRightPanel} className="p-2 hover:bg-gray-100 rounded-lg transition-colors text-gray-500 hover:text-gray-700">
                   <X size={18} />
                 </button>
               </div>
