@@ -342,6 +342,7 @@ export default function Landing() {
   const [isLoaded, setIsLoaded] = useState(false)
   const [showDemo, setShowDemo] = useState(false)
   const [isJumping, setIsJumping] = useState(false)
+  const [showDropdown, setShowDropdown] = useState(false)
 
   useEffect(() => {
     const timer = setTimeout(() => setIsLoaded(true), 100)
@@ -366,9 +367,30 @@ export default function Landing() {
     return hit || ""
   }, [text])
 
+  // NEW: live dropdown suggestions (aliases included -> canonical names)
+  const suggestions = useMemo(() => {
+    const key = normalize(text)
+    if (!key) return []
+    const set = new Set<string>()
+    // canonical names
+    UNI_FILES.forEach((u) => {
+      if (normalize(u).includes(key)) set.add(u)
+    })
+    // alias keys
+    Object.entries(ALIASES).forEach(([alias, canonical]) => {
+      if (alias.includes(key)) set.add(canonical)
+    })
+    return Array.from(set).slice(0, 8)
+  }, [text])
+
+  function goTo(canonical: string) {
+    if (!canonical) return
+    router.push(`/u/${encodeURIComponent(canonical)}`)
+  }
+
   function go() {
     if (!guess) return
-    router.push(`/u/${encodeURIComponent(guess)}`)
+    goTo(guess)
   }
 
   return (
@@ -468,7 +490,17 @@ export default function Landing() {
           <div className="mb-2 text-sm text-gray-500 text-center">
             {guess ? (
               <>
-                Did you mean: <span className="font-medium text-blue-600">{guess.replaceAll("_", " ")}</span>?
+                Did you mean:{" "}
+                {/* NEW: clickable suggestion */}
+                <button
+                  type="button"
+                  onClick={() => goTo(guess)}
+                  className="font-medium text-blue-600 hover:text-blue-700 underline underline-offset-2"
+                  title={`Open ${guess.replaceAll("_", " ")}`}
+                >
+                  {guess.replaceAll("_", " ")}
+                </button>
+                ?
               </>
             ) : (
               <>No match found</>
@@ -481,7 +513,15 @@ export default function Landing() {
           <div className="relative flex items-center rounded-full bg-white border-2 border-gray-200 shadow-lg px-4 py-3 group-focus-within:border-blue-600/20 group-focus-within:shadow-blue-600/5 transition-all duration-300">
             <input
               value={text}
-              onChange={(e) => setText(e.target.value)}
+              onChange={(e) => {
+                setText(e.target.value)
+                setShowDropdown(true)
+              }}
+              onFocus={() => setShowDropdown(true)}
+              onBlur={() => {
+                // small delay so clicks on items still register
+                setTimeout(() => setShowDropdown(false), 120)
+              }}
               onKeyDown={(e) => e.key === "Enter" && go()}
               placeholder="Enter your university name…"
               className="w-full text-base outline-none bg-transparent placeholder:text-gray-400 text-black"
@@ -502,9 +542,27 @@ export default function Landing() {
               </svg>
             </button>
           </div>
+
+          {/* NEW: live dropdown */}
+          {showDropdown && suggestions.length > 0 && (
+            <div className="absolute left-0 right-0 mt-2 rounded-xl border border-gray-200 bg-white shadow-lg overflow-hidden z-20">
+              {suggestions.map((s) => (
+                <button
+                  key={s}
+                  type="button"
+                  onMouseDown={(e) => e.preventDefault()} // avoid input blur before click
+                  onClick={() => goTo(s)}
+                  className="w-full text-left px-4 py-2.5 hover:bg-blue-50 focus:bg-blue-50 transition-colors text-sm"
+                  title={`Open ${s.replaceAll("_", " ")}`}
+                >
+                  {s.replaceAll("_", " ")}
+                </button>
+              ))}
+            </div>
+          )}
         </div>
 
-        {/* Nic(er) “quick tour” pill under the search bar */}
+        {/* “quick tour” pill under the search bar */}
         <div className="mt-3 flex justify-center">
           <button
             type="button"
