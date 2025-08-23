@@ -367,16 +367,14 @@ export default function Landing() {
     return hit || ""
   }, [text])
 
-  // NEW: live dropdown suggestions (aliases included -> canonical names)
+  // live dropdown suggestions (aliases included -> canonical names)
   const suggestions = useMemo(() => {
     const key = normalize(text)
     if (!key) return []
     const set = new Set<string>()
-    // canonical names
     UNI_FILES.forEach((u) => {
       if (normalize(u).includes(key)) set.add(u)
     })
-    // alias keys
     Object.entries(ALIASES).forEach(([alias, canonical]) => {
       if (alias.includes(key)) set.add(canonical)
     })
@@ -421,11 +419,9 @@ export default function Landing() {
       >
         <h1 className="select-none text-6xl sm:text-7xl font-extrabold mb-3 tracking-tight relative">
           <span className="relative inline-block">
-            {/* Animated background glow */}
             <span className="absolute inset-0 bg-gradient-to-r from-blue-600/20 via-purple-600/20 to-blue-600/20 blur-xl animate-pulse"></span>
 
             <span className="relative text-black">
-              {/* Subtle text shadow for depth */}
               <span className="absolute inset-0 text-blue-600/30 blur-sm">
                 {"Qurious".split("").map((letter, i) => (
                   <span
@@ -433,9 +429,7 @@ export default function Landing() {
                     className={`inline-block transition-all duration-500 ease-out ${
                       isJumping ? "transform -translate-y-3 scale-110" : ""
                     }`}
-                    style={{
-                      transitionDelay: isJumping ? `${i * 80}ms` : `${(5 - i) * 80}ms`,
-                    }}
+                    style={{ transitionDelay: isJumping ? `${i * 80}ms` : `${(5 - i) * 80}ms` }}
                   >
                     {letter}
                   </span>
@@ -448,9 +442,7 @@ export default function Landing() {
                     className={`inline-block transition-all duration-500 ease-out ${
                       isJumping ? "transform -translate-y-3 scale-110" : ""
                     }`}
-                    style={{
-                      transitionDelay: isJumping ? `${i * 80}ms` : `${(5 - i) * 80}ms`,
-                    }}
+                    style={{ transitionDelay: isJumping ? `${i * 80}ms` : `${(5 - i) * 80}ms` }}
                   >
                     {letter}
                   </span>
@@ -458,7 +450,6 @@ export default function Landing() {
               </span>
             </span>
 
-            {/* Floating particles around the text */}
             <div className="absolute -inset-4 pointer-events-none">
               {[...Array(6)].map((_, i) => (
                 <div
@@ -491,7 +482,6 @@ export default function Landing() {
             {guess ? (
               <>
                 Did you mean:{" "}
-                {/* NEW: clickable suggestion */}
                 <button
                   type="button"
                   onClick={() => goTo(guess)}
@@ -519,7 +509,6 @@ export default function Landing() {
               }}
               onFocus={() => setShowDropdown(true)}
               onBlur={() => {
-                // small delay so clicks on items still register
                 setTimeout(() => setShowDropdown(false), 120)
               }}
               onKeyDown={(e) => e.key === "Enter" && go()}
@@ -543,16 +532,16 @@ export default function Landing() {
             </button>
           </div>
 
-          {/* NEW: live dropdown */}
+          {/* DROPDOWN: force dark text */}
           {showDropdown && suggestions.length > 0 && (
-            <div className="absolute left-0 right-0 mt-2 rounded-xl border border-gray-200 bg-white shadow-lg overflow-hidden z-20">
+            <div className="absolute left-0 right-0 mt-2 rounded-xl border border-gray-200 bg-white shadow-lg overflow-hidden z-20 text-gray-900">
               {suggestions.map((s) => (
                 <button
                   key={s}
                   type="button"
-                  onMouseDown={(e) => e.preventDefault()} // avoid input blur before click
+                  onMouseDown={(e) => e.preventDefault()}
                   onClick={() => goTo(s)}
-                  className="w-full text-left px-4 py-2.5 hover:bg-blue-50 focus:bg-blue-50 transition-colors text-sm"
+                  className="w-full text-left px-4 py-2.5 hover:bg-blue-50 focus:bg-blue-50 transition-colors text-sm text-gray-900"
                   title={`Open ${s.replaceAll("_", " ")}`}
                 >
                   {s.replaceAll("_", " ")}
@@ -562,7 +551,6 @@ export default function Landing() {
           )}
         </div>
 
-        {/* “quick tour” pill under the search bar */}
         <div className="mt-3 flex justify-center">
           <button
             type="button"
@@ -580,7 +568,6 @@ export default function Landing() {
 
       <footer className="absolute bottom-4 text-xs text-gray-400 z-10">© {new Date().getFullYear()} Qurious</footer>
 
-      {/* State + usage unchanged */}
       <DemoVideoModal isOpen={showDemo} onClose={() => setShowDemo(false)} />
     </main>
   )
